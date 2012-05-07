@@ -1,0 +1,11 @@
+--- atividades/0203MAT001/0203MAT00102.htm	2012-05-07 14:30:12.708336798 -0300
++++ atividades/0203MAT001/0203MAT00102.htm.new	2012-05-07 14:33:51.776340090 -0300
+@@ -1339,7 +1339,7 @@
+ 		Frm.mark.value = Score;
+ 		Frm.submit();
+ 	}
+-	parent.location.href="0203mat00103.htm";
++	parent.location.href="0203MAT00103.htm";
+ }
+ 
+ function TypeChars(Chars){

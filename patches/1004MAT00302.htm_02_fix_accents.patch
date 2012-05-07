@@ -1,0 +1,29 @@
+--- atividades/1004MAT003/1004MAT00302.htm	2012-05-07 14:40:59.020346510 -0300
++++ atividades/1004MAT003/1004MAT00302.htm.new	2012-05-07 14:40:59.020346510 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
+-<meta name="DC:Title" content="Sistema de Numera&#x00E7;&#x00E3;o Decimal" />
++<meta name="DC:Title" content="Sistema de Numera&ccedil;&atilde;o Decimal" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -84,7 +84,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Em que ordem est&#x00E1; o algarismo destacado em cada n&#x00FA;mero? Depois de conclu&#x00ED;da a atividade, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Em que ordem est&aacute; o algarismo destacado em cada n&uacute;mero? Depois de conclu&iacute;da a atividade, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -103,7 +103,7 @@
+  
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+-<div class="ClozeBody"><span class="style1">Lembre-se: </span><img src="imagens/n&#x00FA;meros.png" width="244" height="153" border="2" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img><br />
++<div class="ClozeBody"><span class="style1">Lembre-se: </span><img src="imagens/n&uacute;meros.png" width="244" height="153" border="2" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img><br />
+ <br /><table align="center" cellpadding="2" cellspacing="2">
+   <tbody><tr bgcolor="#99CCFF"><td>3.<span class="style1">5</span>68</td>
+ <td><span class="GapSpan" id="GapSpan0">

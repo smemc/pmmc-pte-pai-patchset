@@ -1,0 +1,31 @@
+--- atividades/1004POR011/1004POR01105.htm	2012-05-07 14:41:22.704346865 -0300
++++ atividades/1004POR011/1004POR01105.htm.new	2012-05-07 14:41:22.708346866 -0300
+@@ -74,10 +74,10 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+-  <div id="Instructions">Fa&#x00E7;a como no exerc&#x00ED;cio anterior. Agora 
++  <div id="Instructions">Fa&ccedil;a como no exerc&iacute;cio anterior. Agora 
+     utilize <em><strong>na</strong></em>, <em><strong>nas</strong></em>, <strong><em>no</em></strong>, 
+-    <strong> <em>nos</em></strong>. Em seguida, clique no bot&#x00E3;o "Verificar" 
+-    para corrigir seu exerc&#x00ED;cio.</div>
++    <strong> <em>nos</em></strong>. Em seguida, clique no bot&atilde;o "Verificar" 
++    para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -106,12 +106,12 @@
+             </tr><tr>
+               <td bgcolor="#66FF99">a) <span class="GapSpan" id="GapSpan0">
+ <input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="54"></input></span></td></tr><tr>
+-              <td bgcolor="#FFFFCC">b) Priscila e Sabrina leram hist&#x00F3;rias 
++              <td bgcolor="#FFFFCC">b) Priscila e Sabrina leram hist&oacute;rias 
+                 e escreveram elas no caderno.</td>
+             </tr><tr>
+               <td bgcolor="#66FF99">b) <span class="GapSpan" id="GapSpan1">
+ <input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="63"></input></span></td></tr><tr>
+-              <td bgcolor="#FFFFCC">c) As meninas ouviram a m&#x00FA;sica e cantaram 
++              <td bgcolor="#FFFFCC">c) As meninas ouviram a m&uacute;sica e cantaram 
+                 ela na aula.</td>
+             </tr><tr>
+               <td bgcolor="#66FF99">c) <span class="GapSpan" id="GapSpan2">

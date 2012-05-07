@@ -1,0 +1,11 @@
+--- atividades/0601MAT215/0601MAT21508.htm	2012-05-07 14:36:21.908342346 -0300
++++ atividades/0601MAT215/0601MAT21508.htm.new	2012-05-07 14:36:21.912342346 -0300
+@@ -590,7 +590,7 @@
+ 
+ var CorrectResponse = 'MUITO BEM!';
+ var IncorrectResponse = 'TENTE NOVAMENTE';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';

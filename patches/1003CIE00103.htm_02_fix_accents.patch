@@ -1,0 +1,28 @@
+--- atividades/1003CIE001/1003CIE00103.htm	2012-05-07 14:40:12.060345802 -0300
++++ atividades/1003CIE001/1003CIE00103.htm.new	2012-05-07 14:40:12.064345802 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Wilson Junior" />
+-<meta name="DC:Title" content="SA&#x00DA;DE E EDUCA&#x00C7;&#x00C3;O" />
++<meta name="DC:Title" content="SA&Uacute;DE E EDUCA&Ccedil;&Atilde;O" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -54,14 +54,14 @@
+   <!-- EndTopNavButtons -->
+ </div>
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">SA&#x00DA;DE E EDUCA&#x00C7;&#x00C3;O</h2>
++	<h2 class="ExerciseTitle">SA&Uacute;DE E EDUCA&Ccedil;&Atilde;O</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Coloque as palavras em ordem correta para formas as frases. Depois de conclu&#x00ED;do, clique em "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Coloque as palavras em ordem correta para formas as frases. Depois de conclu&iacute;do, clique em "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">

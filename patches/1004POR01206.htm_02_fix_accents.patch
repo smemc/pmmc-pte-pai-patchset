@@ -1,0 +1,20 @@
+--- atividades/1004POR012/1004POR01206.htm	2012-05-07 14:41:24.288346889 -0300
++++ atividades/1004POR012/1004POR01206.htm.new	2012-05-07 14:41:24.288346889 -0300
+@@ -75,7 +75,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Reescreva as frases no plural. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Reescreva as frases no plural. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -108,7 +108,7 @@
+             </tr><tr>
+               <td bgcolor="#66FF99"><span class="GapSpan" id="GapSpan1">
+ <input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="31"></input></span></td></tr><tr>
+-              <td bgcolor="#FFFFCC">O jovem conversar&#x00E1; com seu pai.</td>
++              <td bgcolor="#FFFFCC">O jovem conversar&aacute; com seu pai.</td>
+             </tr><tr>
+               <td bgcolor="#66FF99"><span class="GapSpan" id="GapSpan2">
+ <input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="36"></input></span></td></tr><tr>

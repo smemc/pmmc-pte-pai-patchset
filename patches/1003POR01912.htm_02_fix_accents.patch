@@ -1,0 +1,34 @@
+--- atividades/1003POR019/1003POR01912.htm	2012-05-07 14:40:41.056346239 -0300
++++ atividades/1003POR019/1003POR01912.htm.new	2012-05-07 14:40:41.060346240 -0300
+@@ -75,8 +75,8 @@
+ 	
+   <div id="Instructions">
+     <p>Complete as lacunas com as palavras do quadro e reescreva 
+-      a frase toda. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir 
+-      seu exerc&#x00ED;cio. </p>
++      a frase toda. Em seguida, clique no bot&atilde;o "Verificar" para corrigir 
++      seu exerc&iacute;cio. </p>
+     <p><strong><font color="#FF0000">Importante</font>:</strong> As frases devem 
+       iniciar com letra mai&uacute;scula e terminar com ponto final.</p>
+   </div>
+@@ -98,9 +98,9 @@
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+ <table align="center" border="1" cellpadding="2" cellspacing="2" bgcolor="white"><tbody><tr><td><div align="center"><strong>FERROADA 
+-                  - AGARROU - BARRAC&#x00C3;O</strong></div>
++                  - AGARROU - BARRAC&Atilde;O</strong></div>
+                 <p align="center"><strong><br />
+-                  FERRAMENTAS - PIRRA&#x00C7;A - BERRO</strong></td></tr></tbody></table><br />
++                  FERRAMENTAS - PIRRA&Ccedil;A - BERRO</strong></td></tr></tbody></table><br />
+         <table align="center">
+           <tbody>
+             <tr bgcolor="#cfe5b8"> 
+@@ -131,7 +131,7 @@
+               <td>c)</td>
+               <td>Na loja, a menina <span class="GapSpan" id="GapSpan6"> 
+                 <input type="text" class="GapBox" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" size="7" maxlength="11">
+-                </input></span> a boneca e come&#x00E7;ou a fazer <span class="GapSpan" id="GapSpan7">
++                </input></span> a boneca e come&ccedil;ou a fazer <span class="GapSpan" id="GapSpan7">
+                 <input type="text" class="GapBox" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" size="7" maxlength="11">
+                 </input></span>.</td></tr>
+             <tr bgcolor="#99CCFF"> 

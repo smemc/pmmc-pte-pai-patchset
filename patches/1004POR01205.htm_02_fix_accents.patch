@@ -1,0 +1,52 @@
+--- atividades/1004POR012/1004POR01205.htm	2012-05-07 14:41:24.076346886 -0300
++++ atividades/1004POR012/1004POR01205.htm.new	2012-05-07 14:41:24.080346886 -0300
+@@ -76,8 +76,8 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+-  <div id="Instructions">Complete as frases com os verbos que est&#x00E3;o no 
+-    quadro. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++  <div id="Instructions">Complete as frases com os verbos que est&atilde;o no 
++    quadro. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -100,17 +100,17 @@
+ <table border="1" cellpadding="2" cellspacing="2" align="center" bgcolor="white"><tbody><tr><td><center>
+                   <strong>PEDIU - QUERO - AMANHECEU - ESTAMOS - PULARAM</strong> 
+                 </center><p><br /><center>
+-                    <strong>EST&#x00C3;O - CHOVER&#x00C1; - DESENHA - AJUDAREI 
++                    <strong>EST&Atilde;O - CHOVER&Aacute; - DESENHA - AJUDAREI 
+                     - CORREREMOS</strong> 
+-                  </center></td></tr></tbody></table><br /><br /><table cellpadding="2" cellspacing="2" align ="center"><tbody><tr><td>a) A previs&#x00E3;o do tempo indica que <span class="GapSpan" id="GapSpan0">
++                  </center></td></tr></tbody></table><br /><br /><table cellpadding="2" cellspacing="2" align ="center"><tbody><tr><td>a) A previs&atilde;o do tempo indica que <span class="GapSpan" id="GapSpan0">
+                 <input type="text" class="GapBox" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="7" maxlength="8">
+-                </input></span> amanh&#x00E3;.</td></tr><tr><td>b) Minha m&#x00E3;e <span class="GapSpan" id="GapSpan1">
++                </input></span> amanh&atilde;.</td></tr><tr><td>b) Minha m&atilde;e <span class="GapSpan" id="GapSpan1">
+                 <input type="text" class="GapBox" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="6" maxlength="7">
+-                </input></span> minha opini&#x00E3;o.</td></tr><tr><td>c) N&#x00F3;s <span class="GapSpan" id="GapSpan2">
++                </input></span> minha opini&atilde;o.</td></tr><tr><td>c) N&oacute;s <span class="GapSpan" id="GapSpan2">
+                 <input type="text" class="GapBox" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="7" maxlength="8">
+-                </input></span> ansiosos para conhecer o clube.</td></tr><tr><td>d) Vit&#x00F3;ria <span class="GapSpan" id="GapSpan3">
++                </input></span> ansiosos para conhecer o clube.</td></tr><tr><td>d) Vit&oacute;ria <span class="GapSpan" id="GapSpan3">
+                 <input type="text" class="GapBox" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="7" maxlength="8">
+-                </input></span> muito bem.</td></tr><tr><td>e) Matheus e Lu&#x00ED;s <span class="GapSpan" id="GapSpan4">
++                </input></span> muito bem.</td></tr><tr><td>e) Matheus e Lu&iacute;s <span class="GapSpan" id="GapSpan4">
+                 <input type="text" class="GapBox" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="7" maxlength="8">
+                 </input></span> na piscina.</td></tr><tr><td>f) Larissa e Priscila <span class="GapSpan" id="GapSpan5">
+                 <input type="text" class="GapBox" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" size="6" maxlength="7">
+@@ -118,11 +118,11 @@
+                 <input type="text" class="GapBox" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" size="6" maxlength="7">
+                 </input></span> mudar o mundo.</td></tr><tr><td>h) <span class="GapSpan" id="GapSpan7">
+                 <input type="text" class="GapBox" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" size="9" maxlength="10">
+-                </input></span> e eu me levantei logo da cama.</td></tr><tr><td>i) N&#x00F3;s <span class="GapSpan" id="GapSpan8">
++                </input></span> e eu me levantei logo da cama.</td></tr><tr><td>i) N&oacute;s <span class="GapSpan" id="GapSpan8">
+                 <input type="text" class="GapBox" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" size="10" maxlength="11">
+-                </input></span> na pr&#x00F3;xima maratona.</td></tr><tr><td>j) No futuro eu <span class="GapSpan" id="GapSpan9">
++                </input></span> na pr&oacute;xima maratona.</td></tr><tr><td>j) No futuro eu <span class="GapSpan" id="GapSpan9">
+                 <input type="text" class="GapBox" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" size="8" maxlength="9">
+-                </input></span> muito mais a minha fam&#x00ED;lia.</td></tr></tbody></table>
++                </input></span> muito mais a minha fam&iacute;lia.</td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

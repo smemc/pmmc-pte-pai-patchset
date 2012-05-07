@@ -1,0 +1,76 @@
+--- atividades/1004POR023/1004POR02302.htm	2012-05-07 14:41:44.884347199 -0300
++++ atividades/1004POR023/1004POR02302.htm.new	2012-05-07 14:41:44.888347200 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
+-<meta name="DC:Title" content="PALAVRAS COM C OU &#x00C7;" />
++<meta name="DC:Title" content="PALAVRAS COM C OU &Ccedil;" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -65,7 +65,7 @@
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" /></p>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">PALAVRAS COM C OU &#x00C7;</h2>
++	<h2 class="ExerciseTitle">PALAVRAS COM C OU &Ccedil;</h2>
+ 
+ 
+ 
+@@ -73,8 +73,8 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+-  <div id="Instructions">Separe as palavras em s&#x00ED;labas. Em seguida, clique 
+-    no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++  <div id="Instructions">Separe as palavras em s&iacute;labas. Em seguida, clique 
++    no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -97,7 +97,7 @@
+         <table align="center" cellpadding="2" cellspacing="2">
+           <tbody>
+             <tr> 
+-              <td bgcolor="#FFFFCC"><strong>cadar&#x00E7;o</strong></td>
++              <td bgcolor="#FFFFCC"><strong>cadar&ccedil;o</strong></td>
+               <td bgcolor="#cfe5b8"><span class="GapSpan" id="GapSpan0"> 
+                 <input type="text" class="GapBox" id="Gap0" style="width: 3em;" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="3" maxlength="4"></input> 
+                 </span> <span class="GapSpan" id="GapSpan1"> 
+@@ -107,7 +107,7 @@
+                 </span></td>
+             </tr>
+             <tr> 
+-              <td bgcolor="#FFFFCC"><strong>endere&#x00E7;o</strong></td>
++              <td bgcolor="#FFFFCC"><strong>endere&ccedil;o</strong></td>
+               <td bgcolor="#cfe5b8"><span class="GapSpan" id="GapSpan3"> 
+                 <input type="text" class="GapBox" id="Gap3" style="width: 3em;" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="3" maxlength="4"></input> 
+                 </span> <span class="GapSpan" id="GapSpan4"> 
+@@ -119,7 +119,7 @@
+                 </span></td>
+             </tr>
+             <tr> 
+-              <td bgcolor="#FFFFCC"><strong>comunica&#x00E7;&#x00E3;o</strong></td>
++              <td bgcolor="#FFFFCC"><strong>comunica&ccedil;&atilde;o</strong></td>
+               <td bgcolor="#cfe5b8"><span class="GapSpan" id="GapSpan7"> 
+                 <input type="text" class="GapBox" id="Gap7" style="width: 3em;" onfocus="TrackFocus(7)" onblur="LeaveGap()" size="3" maxlength="4"></input> 
+                 </span> <span class="GapSpan" id="GapSpan8"> 
+@@ -133,7 +133,7 @@
+                 </span></td>
+             </tr>
+             <tr> 
+-              <td bgcolor="#FFFFCC"><strong>educa&#x00E7;&#x00E3;o</strong></td>
++              <td bgcolor="#FFFFCC"><strong>educa&ccedil;&atilde;o</strong></td>
+               <td bgcolor="#cfe5b8"><span class="GapSpan" id="GapSpan12"> 
+                 <input type="text" class="GapBox" id="Gap12" style="width: 3em;" onfocus="TrackFocus(12)" onblur="LeaveGap()" size="3" maxlength="4"></input> 
+                 </span> <span class="GapSpan" id="GapSpan13"> 
+@@ -145,7 +145,7 @@
+                 </span></td>
+             </tr>
+             <tr> 
+-              <td bgcolor="#FFFFCC"><strong>refei&#x00E7;&#x00E3;o</strong></td>
++              <td bgcolor="#FFFFCC"><strong>refei&ccedil;&atilde;o</strong></td>
+               <td bgcolor="#cfe5b8"><span class="GapSpan" id="GapSpan16"> 
+                 <input type="text" class="GapBox" id="Gap16" style="width: 3em;" onfocus="TrackFocus(16)" onblur="LeaveGap()" size="3" maxlength="4"></input> 
+                 </span> <span class="GapSpan" id="GapSpan17"> 

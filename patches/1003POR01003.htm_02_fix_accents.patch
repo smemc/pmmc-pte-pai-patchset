@@ -1,0 +1,39 @@
+--- atividades/1003POR010/1003POR01003.htm	2012-05-07 14:40:24.188345986 -0300
++++ atividades/1003POR010/1003POR01003.htm.new	2012-05-07 14:40:24.192345986 -0300
+@@ -74,7 +74,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Complete as palavras com GE, GI, JE ou JI. Logo abaixo digite a palavra inteira. Depois de conclu&#x00ED;do todo o exerc&#x00ED;cio, clique no bot&#x00E3;o "Verificar" para corrig&#x00ED;-lo.</div>
++	<div id="Instructions">Complete as palavras com GE, GI, JE ou JI. Logo abaixo digite a palavra inteira. Depois de conclu&iacute;do todo o exerc&iacute;cio, clique no bot&atilde;o "Verificar" para corrig&iacute;-lo.</div>
+ </div>
+ 
+ 
+@@ -96,15 +96,15 @@
+ <div class="ClozeBody">
+ <table border="1" cellpadding="2" align="center"><tbody><tr><td><span class="GapSpan" id="GapSpan0"><input type="text" class="GapBox" id="Gap0" style="width: 2em;" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="2" maxlength="2">
+ </input></span>gante</td><td><span class="GapSpan" id="GapSpan1"><input type="text" class="GapBox" id="Gap1" style="width: 2em;" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="2" maxlength="2">
+-</input></span>l&#x00F3;</td><td><span class="GapSpan" id="GapSpan2"><input type="text" class="GapBox" id="Gap2" style="width: 2em;" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="2" maxlength="2">
++</input></span>l&oacute;</td><td><span class="GapSpan" id="GapSpan2"><input type="text" class="GapBox" id="Gap2" style="width: 2em;" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="2" maxlength="2">
+ </input></span>boia</td><td>li<span class="GapSpan" id="GapSpan3"><input type="text" class="GapBox" id="Gap3" style="width: 2em;" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="2" maxlength="2">
+ </input></span>iro</td></tr><tr><td><span class="GapSpan" id="GapSpan4"><input type="text" class="GapBox" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="7" maxlength="8">
+ </input></span></td><td><span class="GapSpan" id="GapSpan5"><input type="text" class="GapBox" id="Gap5" style="width: 4em;" onfocus="TrackFocus(5)" onblur="LeaveGap()" size="4" maxlength="5">
+ </input></span></td><td><span class="GapSpan" id="GapSpan6"><input type="text" class="GapBox" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" size="6" maxlength="7">
+ </input></span></td><td><span class="GapSpan" id="GapSpan7"><input type="text" class="GapBox" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" size="7" maxlength="8">
+ </input></span></td></tr><tr><td>in<span class="GapSpan" id="GapSpan8"><input type="text" class="GapBox" id="Gap8" style="width: 2em;" onfocus="TrackFocus(8)" onblur="LeaveGap()" size="2" maxlength="2">
+-</input></span>&#x00E7;&#x00E3;o</td><td><span class="GapSpan" id="GapSpan9"><input type="text" class="GapBox" id="Gap9" style="width: 2em;" onfocus="TrackFocus(9)" onblur="LeaveGap()" size="2" maxlength="2">
+-</input></span>n&#x00E1;stica</td><td><span class="GapSpan" id="GapSpan10"><input type="text" class="GapBox" id="Gap10" style="width: 2em;" onfocus="TrackFocus(10)" onblur="LeaveGap()" size="2" maxlength="2">
++</input></span>&ccedil;&atilde;o</td><td><span class="GapSpan" id="GapSpan9"><input type="text" class="GapBox" id="Gap9" style="width: 2em;" onfocus="TrackFocus(9)" onblur="LeaveGap()" size="2" maxlength="2">
++</input></span>n&aacute;stica</td><td><span class="GapSpan" id="GapSpan10"><input type="text" class="GapBox" id="Gap10" style="width: 2em;" onfocus="TrackFocus(10)" onblur="LeaveGap()" size="2" maxlength="2">
+ </input></span>jum</td><td><span class="GapSpan" id="GapSpan11"><input type="text" class="GapBox" id="Gap11" style="width: 2em;" onfocus="TrackFocus(11)" onblur="LeaveGap()" size="2" maxlength="2">
+ </input></span>lado</td></tr><tr><td><span class="GapSpan" id="GapSpan12"><input type="text" class="GapBox" id="Gap12" onfocus="TrackFocus(12)" onblur="LeaveGap()" size="7" maxlength="8">
+ </input></span></td><td><span class="GapSpan" id="GapSpan13"><input type="text" class="GapBox" id="Gap13" onfocus="TrackFocus(13)" onblur="LeaveGap()" size="9" maxlength="10">
+@@ -113,7 +113,7 @@
+ </input></span></td></tr><tr><td>mu<span class="GapSpan" id="GapSpan16"><input type="text" class="GapBox" id="Gap16" style="width: 2em;" onfocus="TrackFocus(16)" onblur="LeaveGap()" size="2" maxlength="2">
+ </input></span>do</td><td>gor<span class="GapSpan" id="GapSpan17"><input type="text" class="GapBox" id="Gap17" style="width: 2em;" onfocus="TrackFocus(17)" onblur="LeaveGap()" size="2" maxlength="2">
+ </input></span>ta</td><td>ima<span class="GapSpan" id="GapSpan18"><input type="text" class="GapBox" id="Gap18" style="width: 2em;" onfocus="TrackFocus(18)" onblur="LeaveGap()" size="2" maxlength="2">
+-</input></span>na&#x00E7;&#x00E3;o</td><td>ho<span class="GapSpan" id="GapSpan19"><input type="text" class="GapBox" id="Gap19" style="width: 2em;" onfocus="TrackFocus(19)" onblur="LeaveGap()" size="2" maxlength="2">
++</input></span>na&ccedil;&atilde;o</td><td>ho<span class="GapSpan" id="GapSpan19"><input type="text" class="GapBox" id="Gap19" style="width: 2em;" onfocus="TrackFocus(19)" onblur="LeaveGap()" size="2" maxlength="2">
+ </input></span></td></tr><tr><td><span class="GapSpan" id="GapSpan20"><input type="text" class="GapBox" id="Gap20" onfocus="TrackFocus(20)" onblur="LeaveGap()" size="6" maxlength="7">
+ </input></span></td><td><span class="GapSpan" id="GapSpan21"><input type="text" class="GapBox" id="Gap21" onfocus="TrackFocus(21)" onblur="LeaveGap()" size="7" maxlength="8">
+ </input></span></td><td><span class="GapSpan" id="GapSpan22"><input type="text" class="GapBox" id="Gap22" onfocus="TrackFocus(22)" onblur="LeaveGap()" size="10" maxlength="11">

@@ -1,0 +1,31 @@
+--- atividades/1004POR023/1004POR02309.htm	2012-05-07 14:41:47.676347241 -0300
++++ atividades/1004POR023/1004POR02309.htm.new	2012-05-07 14:41:47.680347241 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
+-<meta name="DC:Title" content="PALAVRAS COM C OU &#x00C7;" />
++<meta name="DC:Title" content="PALAVRAS COM C OU &Ccedil;" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -50,7 +50,7 @@
+ <!-- EndTopNavButtons -->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" /></p>
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">PALAVRAS COM C OU &#x00C7;</h2>
++	<h2 class="ExerciseTitle">PALAVRAS COM C OU &Ccedil;</h2>
+ 
+ 
+ 
+@@ -58,8 +58,8 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+-  <div id="Instructions">Coloque as s&#x00ED;labas em ordem para formar palavras. 
+-    Depois de conclu&#x00ED;do, clique em "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++  <div id="Instructions">Coloque as s&iacute;labas em ordem para formar palavras. 
++    Depois de conclu&iacute;do, clique em "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">

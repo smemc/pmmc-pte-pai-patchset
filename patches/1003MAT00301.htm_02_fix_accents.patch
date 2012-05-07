@@ -1,0 +1,29 @@
+--- atividades/1003MAT003/1003MAT00301.htm	2012-05-07 14:40:15.192345849 -0300
++++ atividades/1003MAT003/1003MAT00301.htm.new	2012-05-07 14:40:15.192345849 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Wilson Junior" />
+-<meta name="DC:Title" content="SISTEMA DE NUMERA&#x00C7;&#x00C3;O DECIMAL - UNIDADE DE MILHAR" />
++<meta name="DC:Title" content="SISTEMA DE NUMERA&Ccedil;&Atilde;O DECIMAL - UNIDADE DE MILHAR" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -64,7 +64,7 @@
+ <!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir a imagem de cabe&#231;alho -->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" /></p>
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">SISTEMA DE NUMERA&#x00C7;&#x00C3;O DECIMAL - UNIDADE DE MILHAR</h2>
++	<h2 class="ExerciseTitle">SISTEMA DE NUMERA&Ccedil;&Atilde;O DECIMAL - UNIDADE DE MILHAR</h2>
+ 
+ 
+ 
+@@ -73,7 +73,7 @@
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+   <div id="Instructions">Complete com os antecessores e sucessores. Em seguida, 
+-    clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++    clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 

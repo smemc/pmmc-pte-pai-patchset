@@ -1,0 +1,31 @@
+--- atividades/1004POR011/1004POR01101.htm	2012-05-07 14:41:21.840346853 -0300
++++ atividades/1004POR011/1004POR01101.htm.new	2012-05-07 14:41:21.840346853 -0300
+@@ -75,8 +75,8 @@
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+   <div id="Instructions">Complete com <strong><em>me</em></strong>, <strong><em>se</em></strong> 
+-    ou <em><strong>nos</strong></em>. Em seguida, clique no bot&#x00E3;o "Verificar" 
+-    para corrigir seu exerc&#x00ED;cio.</div>
++    ou <em><strong>nos</strong></em>. Em seguida, clique no bot&atilde;o "Verificar" 
++    para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -100,7 +100,7 @@
+         <input type="text" class="GapBox" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="3" maxlength="3">
+         </input></span> arrumei para o passeio.<br />b) Ele <span class="GapSpan" id="GapSpan1">
+         <input type="text" class="GapBox" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="3" maxlength="3">
+-        </input></span> assustou com o barulho.<br />c) N&#x00F3;s <span class="GapSpan" id="GapSpan2">
++        </input></span> assustou com o barulho.<br />c) N&oacute;s <span class="GapSpan" id="GapSpan2">
+         <input type="text" class="GapBox" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="3" maxlength="3">
+         </input></span> preparamos para a prova.<br />d) Elas <span class="GapSpan" id="GapSpan3">
+         <input type="text" class="GapBox" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="3" maxlength="3">
+@@ -110,7 +110,7 @@
+         <input type="text" class="GapBox" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" size="3" maxlength="3">
+         </input></span> entendemos ontem.<br />g) Gabriela e Princys <span class="GapSpan" id="GapSpan6">
+         <input type="text" class="GapBox" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" size="3" maxlength="3">
+-        </input></span> conhecem h&#x00E1; anos.<br />h) Eu <span class="GapSpan" id="GapSpan7">
++        </input></span> conhecem h&aacute; anos.<br />h) Eu <span class="GapSpan" id="GapSpan7">
+         <input type="text" class="GapBox" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" size="3" maxlength="3">
+         </input></span> responsabilizo por meus atos.
+ </div>

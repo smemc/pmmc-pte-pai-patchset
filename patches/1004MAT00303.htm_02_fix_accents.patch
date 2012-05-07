@@ -1,0 +1,20 @@
+--- atividades/1004MAT003/1004MAT00303.htm	2012-05-07 14:40:59.256346513 -0300
++++ atividades/1004MAT003/1004MAT00303.htm.new	2012-05-07 14:40:59.256346513 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
+-<meta name="DC:Title" content="Sistema de Numera&#x00E7;&#x00E3;o Decimal" />
++<meta name="DC:Title" content="Sistema de Numera&ccedil;&atilde;o Decimal" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -76,7 +76,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Escreva como se l&#x00EA;. Depois de conclu&#x00ED;da a atividade, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Escreva como se l&ecirc;. Depois de conclu&iacute;da a atividade, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 

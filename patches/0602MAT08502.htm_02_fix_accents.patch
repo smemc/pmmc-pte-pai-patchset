@@ -1,0 +1,11 @@
+--- atividades/0602MAT085/0602MAT08502.htm	2012-05-07 14:37:44.820343592 -0300
++++ atividades/0602MAT085/0602MAT08502.htm.new	2012-05-07 14:37:44.824343592 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="&#x003C;img src=&quot;pontos.gif&quot; width=&quot;602&quot; height=&quot;201&quot; style=&quot;display: block; margin-left: auto; margin-right: auto; text-align: center;&quot;&#x003E;&#x003C;/img&#x003E;" />
++<meta name="DC:Title" content="&lt;img src=&quot;pontos.gif&quot; width=&quot;602&quot; height=&quot;201&quot; style=&quot;display: block; margin-left: auto; margin-right: auto; text-align: center;&quot;&gt;&lt;/img&gt;" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 

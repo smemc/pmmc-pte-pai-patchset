@@ -1,0 +1,35 @@
+--- atividades/1003POR024/1003POR02402.htm	2012-05-07 14:40:50.252346378 -0300
++++ atividades/1003POR024/1003POR02402.htm.new	2012-05-07 14:40:50.256346378 -0300
+@@ -4,7 +4,7 @@
+              xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&#225;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+-<meta name="DC:Title" content="PALAVRAS COM C E &#x00C7;" />
++<meta name="DC:Title" content="PALAVRAS COM C E &Ccedil;" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -55,7 +55,7 @@
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" /></p>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">PALAVRAS COM C E &#x00C7;</h2>
++	<h2 class="ExerciseTitle">PALAVRAS COM C E &Ccedil;</h2>
+ 
+ 
+ 
+@@ -63,10 +63,10 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+-  <div id="Instructions">Complete as palavras com <strong>&#x00C7;A</strong>, 
+-    <strong>&#x00C7;O</strong>, <strong>&#x00C7;U</strong> ou <strong>&#x00C7;&#x00C3;O</strong> 
+-    e digite-as novamente. Em seguida, clique no bot&#x00E3;o "Verificar" para 
+-    corrigir seu exerc&#x00ED;cio.</div>
++  <div id="Instructions">Complete as palavras com <strong>&Ccedil;A</strong>, 
++    <strong>&Ccedil;O</strong>, <strong>&Ccedil;U</strong> ou <strong>&Ccedil;&Atilde;O</strong> 
++    e digite-as novamente. Em seguida, clique no bot&atilde;o "Verificar" para 
++    corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 

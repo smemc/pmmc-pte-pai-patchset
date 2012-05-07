@@ -1,0 +1,19 @@
+--- atividades/0804MAT005/0804MAT00503.htm	2012-05-07 14:39:43.416345374 -0300
++++ atividades/0804MAT005/0804MAT00503.htm.new	2012-05-07 14:39:43.420345374 -0300
+@@ -58,14 +58,14 @@
+ <div class="Titles">
+ 	<h2 class="ExerciseTitle">Real</h2>
+ 
+-	<h3 class="ExerciseSubtitle">Diga quantos reais s&#x00E3;o formados com as moedas</h3>
++	<h3 class="ExerciseSubtitle">Diga quantos reais s&atilde;o formados com as moedas</h3>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Digite nos espa&#x00E7;os em branco o que se pede. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Digite nos espa&ccedil;os em branco o que se pede. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 

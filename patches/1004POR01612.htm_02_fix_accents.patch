@@ -1,0 +1,30 @@
+--- atividades/1004POR016/1004POR01612.htm	2012-05-07 14:41:35.124347052 -0300
++++ atividades/1004POR016/1004POR01612.htm.new	2012-05-07 14:41:35.128347052 -0300
+@@ -74,8 +74,8 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+-  <div id="Instructions">Reescreva as palavras em ordem alfab&#x00E9;tica. Em 
+-    seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++  <div id="Instructions">Reescreva as palavras em ordem alfab&eacute;tica. Em 
++    seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -96,12 +96,12 @@
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+ <table align="center" border="1" bgcolor="white" cellpadding="2" cellspacing="2"><tbody><tr>
+-              <td><div align="center"><strong>OFENSA - BALSA - SENS&#x00CD;VEL 
+-                  - INSACI&#x00C1;VEL</strong> </div>
++              <td><div align="center"><strong>OFENSA - BALSA - SENS&Iacute;VEL 
++                  - INSACI&Aacute;VEL</strong> </div>
+                 <p align="center"><strong><br />
+-                  INSOL&#x00DA;VEL - SIGILO - SECRET&#x00C1;RIA - ANSIOSO</strong>
++                  INSOL&Uacute;VEL - SIGILO - SECRET&Aacute;RIA - ANSIOSO</strong>
+                 <p align="center"><strong><br />
+-                  TOUCINHO - CENSURA - C&#x00C9;LULA - CILADA</strong>
++                  TOUCINHO - CENSURA - C&Eacute;LULA - CILADA</strong>
+                 <p align="center"><strong><br />
+                   SERTANEJO - CELOFANE - CONSELHO - BOCEJAR</strong></td></tr></tbody></table><br /><br />
+         <table align="center" border="1" cellpadding="4" cellspacing="0">

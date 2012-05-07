@@ -1,0 +1,11 @@
+--- atividades/1004POR010/1004POR01008.htm	2012-05-07 14:41:20.284346829 -0300
++++ atividades/1004POR010/1004POR01008.htm.new	2012-05-07 14:41:20.284346829 -0300
+@@ -62,7 +62,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Mova as s&#x00ED;labas para formar palavras onde o X tem som de Z. Depois de conclu&#x00ED;do, clique em "Verificar" para corrigir a resposta.</div>
++	<div id="Instructions">Mova as s&iacute;labas para formar palavras onde o X tem som de Z. Depois de conclu&iacute;do, clique em "Verificar" para corrigir a resposta.</div>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">

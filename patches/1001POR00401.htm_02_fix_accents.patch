@@ -1,0 +1,47 @@
+--- atividades/1001POR004/1001POR00401.htm	2012-05-07 14:40:00.204345626 -0300
++++ atividades/1001POR004/1001POR00401.htm.new	2012-05-07 14:40:00.208345626 -0300
+@@ -74,7 +74,7 @@
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+   <div id="Instructions">Complete a letra que falta na lista das figuras abaixo. 
+-    Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++    Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -124,7 +124,7 @@
+               <td><div align="center"><img src="imagens/estrela.gif" width="88" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></div></td>
+               <td><div align="center"><img src="imagens/faca.jpg" width="97" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></div></td>
+               <td><div align="center"><img src="imagens/geladeira.jpg" width="57" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></div></td>
+-              <td><div align="center"><img src="imagens/h&#x00E9;lice.jpg" width="110" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></div></td>
++              <td><div align="center"><img src="imagens/h&eacute;lice.jpg" width="110" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></div></td>
+             </tr>
+             <tr bgcolor="#CFE5B8"> 
+               <td> 
+@@ -142,7 +142,7 @@
+               <td> 
+                 <div align="center"><span class="GapSpan" id="GapSpan7"> 
+                   <input type="text" class="GapBox" id="Gap7" style="width: 2em;" onfocus="TrackFocus(7)" onblur="LeaveGap()" size="2" maxlength="1"></input> 
+-                  </span>&#x00C9;LICE</div></td>
++                  </span>&Eacute;LICE</div></td>
+             </tr>
+             <tr> 
+               <td><div align="center"><img src="imagens/ioio.jpg" width="95" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></div></td>
+@@ -154,7 +154,7 @@
+               <td> 
+                 <div align="center"><span class="GapSpan" id="GapSpan8"> 
+                   <input type="text" class="GapBox" id="Gap8" style="width: 2em;" onfocus="TrackFocus(8)" onblur="LeaveGap()" size="2" maxlength="1"></input> 
+-                  </span>OI&#x00D4;</div></td>
++                  </span>OI&Ocirc;</div></td>
+               <td> 
+                 <div align="center"><span class="GapSpan" id="GapSpan9"> 
+                   <input type="text" class="GapBox" id="Gap9" style="width: 2em;" onfocus="TrackFocus(9)" onblur="LeaveGap()" size="2" maxlength="1"></input> 
+@@ -171,7 +171,7 @@
+             <tr> 
+               <td><div align="center"><img src="imagens/mesa.jpg" width="117" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></div></td>
+               <td><div align="center"><img src="imagens/navio.jpg" width="100" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></div></td>
+-              <td><div align="center"><img src="imagens/&#x00F3;culos.gif" width="133" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></div></td>
++              <td><div align="center"><img src="imagens/&oacute;culos.gif" width="133" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></div></td>
+               <td><div align="center"><img src="imagens/pente.jpg" width="100" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></div></td>
+             </tr>
+             <tr bgcolor="#CFE5B8"> 

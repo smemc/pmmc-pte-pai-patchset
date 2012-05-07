@@ -1,0 +1,33 @@
+--- atividades/1003MAT003/1003MAT00302.htm	2012-05-07 14:40:15.400345855 -0300
++++ atividades/1003MAT003/1003MAT00302.htm.new	2012-05-07 14:40:15.404345855 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Wilson Junior" />
+-<meta name="DC:Title" content="SISTEMA DE NUMERA&#x00C7;&#x00C3;O DECIMAL - UNIDADE DE MILHAR" />
++<meta name="DC:Title" content="SISTEMA DE NUMERA&Ccedil;&Atilde;O DECIMAL - UNIDADE DE MILHAR" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -65,7 +65,7 @@
+ 
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">SISTEMA DE NUMERA&#x00C7;&#x00C3;O DECIMAL - UNIDADE DE MILHAR</h2>
++	<h2 class="ExerciseTitle">SISTEMA DE NUMERA&Ccedil;&Atilde;O DECIMAL - UNIDADE DE MILHAR</h2>
+ 
+ 
+ 
+@@ -73,9 +73,9 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+-  <div id="Instructions">D&#x00EA; o valor posicional do algarismo em destaque 
+-    em cada numeral. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir 
+-    seu exerc&#x00ED;cio.</div>
++  <div id="Instructions">D&ecirc; o valor posicional do algarismo em destaque 
++    em cada numeral. Em seguida, clique no bot&atilde;o "Verificar" para corrigir 
++    seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 

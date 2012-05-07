@@ -1,0 +1,38 @@
+--- atividades/1004MAT003/1004MAT00304.htm	2012-05-07 14:40:59.488346514 -0300
++++ atividades/1004MAT003/1004MAT00304.htm.new	2012-05-07 14:40:59.492346515 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
+-<meta name="DC:Title" content="Sistema de Numera&#x00E7;&#x00E3;o Decimal" />
++<meta name="DC:Title" content="Sistema de Numera&ccedil;&atilde;o Decimal" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -84,7 +84,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Escreva com algarismos. Depois de conclu&#x00ED;da a atividade, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Escreva com algarismos. Depois de conclu&iacute;da a atividade, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -107,7 +107,7 @@
+ <span class="style1">Lembre-se:</span> Utilize o separador de milhar.<br />
+ <br /><table align="center" cellpadding="2" cellspacing="2">
+   <tbody><tr bgcolor="#cfe5b8"><td><span class="GapSpan" id="GapSpan0">
+-  <input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td><td>Tr&#x00EA;s mil, duzentos e treze</td>
++  <input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td><td>Tr&ecirc;s mil, duzentos e treze</td>
+ </tr><tr bgcolor="#99CCFF"><td><span class="GapSpan" id="GapSpan1">
+ <input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span></td><td>Setecentos e sessenta e cinco</td>
+ </tr><tr bgcolor="#cfe5b8"><td><span class="GapSpan" id="GapSpan2">
+@@ -123,7 +123,7 @@
+ </tr><tr bgcolor="#99CCFF"><td><span class="GapSpan" id="GapSpan7">
+ <input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="7"></input></span></td><td>Quatrocentos e vinte mil</td>
+ </tr><tr bgcolor="#cfe5b8"><td><span class="GapSpan" id="GapSpan8">
+-<input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="9"></input></span></td><td>Tr&#x00EA;s milh&#x00F5;es, oitocentos e setenta e quatro mil, duzentos e sessenta e tr&#x00EA;s</td>
++<input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="9"></input></span></td><td>Tr&ecirc;s milh&otilde;es, oitocentos e setenta e quatro mil, duzentos e sessenta e tr&ecirc;s</td>
+ </tr><tr bgcolor="#99CCFF"><td><span class="GapSpan" id="GapSpan9">
+ <input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="9"></input></span></td>
+ <td>Cinco milh&otilde;es, cento e dezenove</td>

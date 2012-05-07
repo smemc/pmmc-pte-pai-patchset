@@ -1,0 +1,28 @@
+--- atividades/1003MAT001/1003MAT00103.htm	2012-05-07 14:40:13.624345828 -0300
++++ atividades/1003MAT001/1003MAT00103.htm.new	2012-05-07 14:40:13.624345828 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
+-<meta name="DC:Title" content="SISTEMA DE NUMERA&#x00C7;&#x00C3;O DECIMAL - CENTENAS" />
++<meta name="DC:Title" content="SISTEMA DE NUMERA&Ccedil;&Atilde;O DECIMAL - CENTENAS" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -66,14 +66,14 @@
+ </p>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">SISTEMA DE NUMERA&#x00C7;&#x00C3;O DECIMAL - CENTENAS</h2>
++	<h2 class="ExerciseTitle">SISTEMA DE NUMERA&Ccedil;&Atilde;O DECIMAL - CENTENAS</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Escreva por extenso. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Escreva por extenso. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 

@@ -1,0 +1,20 @@
+--- atividades/1501POR001/1501POR00101.htm	2012-05-07 14:42:24.888347800 -0300
++++ atividades/1501POR001/1501POR00101.htm.new	2012-05-07 14:42:24.888347800 -0300
+@@ -74,7 +74,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Preencha as lacunas separando as palavras. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Preencha as lacunas separando as palavras. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -132,7 +132,7 @@
+               <input type="text" class="GapBox" id="Gap17" style="width: 3em;" onfocus="TrackFocus(17)" onblur="LeaveGap()" size="3" maxlength="5">
+               </input></span> <span class="GapSpan" id="GapSpan18">
+               <input type="text" class="GapBox" id="Gap18" style="width: 3em;" onfocus="TrackFocus(18)" onblur="LeaveGap()" size="3" maxlength="5">
+-              </input></span></td></font></tr><tr><td>&nbsp;</td></tr><tr><td valign="bottom" height="30px">QUEADAN&#x00C7;AJ&#x00C1;IACOME&#x00C7;AR.</td></tr><tr><font size="-1"><td><span class="GapSpan" id="GapSpan19">
++              </input></span></td></font></tr><tr><td>&nbsp;</td></tr><tr><td valign="bottom" height="30px">QUEADAN&Ccedil;AJ&Aacute;IACOME&Ccedil;AR.</td></tr><tr><font size="-1"><td><span class="GapSpan" id="GapSpan19">
+               <input type="text" class="GapBox" id="Gap19" style="width: 3em;" onfocus="TrackFocus(19)" onblur="LeaveGap()" size="3" maxlength="5">
+               </input></span> <span class="GapSpan" id="GapSpan20">
+               <input type="text" class="GapBox" id="Gap20" style="width: 2em;" onfocus="TrackFocus(20)" onblur="LeaveGap()" size="2" maxlength="4">

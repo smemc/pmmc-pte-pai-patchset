@@ -1,0 +1,27 @@
+--- atividades/1004POR010/1004POR01012.htm	2012-05-07 14:41:21.628346849 -0300
++++ atividades/1004POR010/1004POR01012.htm.new	2012-05-07 14:41:21.628346849 -0300
+@@ -74,7 +74,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Reescreva as palavras do quadro em ordem alfab&#x00E9;tica. Elas tem X com som de CS:</div>
++	<div id="Instructions">Reescreva as palavras do quadro em ordem alfab&eacute;tica. Elas tem X com som de CS:</div>
+ </div>
+ 
+ 
+@@ -95,12 +95,12 @@
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+ <table border ="1" align="center" bgcolor="white" cellpadding="2" cellspacing="2"><tbody><tr><td><center>
+-                  <strong>DUREX - T&#x00D3;RAX - OX&#x00CD;TONA - T&#x00D3;XICO</strong> 
++                  <strong>DUREX - T&Oacute;RAX - OX&Iacute;TONA - T&Oacute;XICO</strong> 
+                 </center>
+                 <p><strong><br />
+-                  OXIG&#x00CA;NIO - T&#x00C1;XI - REFLEXO - COMPLEXO</strong>
++                  OXIG&Ecirc;NIO - T&Aacute;XI - REFLEXO - COMPLEXO</strong>
+                 <p><strong><br />
+-                  FLEX&#x00C3;O - SAXOFONE - CRUCIFIXO - AXILA</strong></td></tr></tbody></table><br /><br /><table align="center" cellpadding="2" cellspacing="2"><tbody><tr><td><span class="GapSpan" id="GapSpan0">
++                  FLEX&Atilde;O - SAXOFONE - CRUCIFIXO - AXILA</strong></td></tr></tbody></table><br /><br /><table align="center" cellpadding="2" cellspacing="2"><tbody><tr><td><span class="GapSpan" id="GapSpan0">
+                 <input type="text" class="GapBox" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="6" maxlength="7">
+                 </input></span></td><td><span class="GapSpan" id="GapSpan1">
+                 <input type="text" class="GapBox" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="8" maxlength="9">

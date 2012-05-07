@@ -1,0 +1,19 @@
+--- atividades/0804MAT005/0804MAT00504.htm	2012-05-07 14:39:43.624345377 -0300
++++ atividades/0804MAT005/0804MAT00504.htm.new	2012-05-07 14:39:43.624345377 -0300
+@@ -58,14 +58,14 @@
+ <div class="Titles">
+ 	<h2 class="ExerciseTitle">Copa do Mundo de Futebol</h2>
+ 
+-	<h3 class="ExerciseSubtitle">Em quais anos &#x00E9; disputada a Copa do Mundo de Futebol?</h3>
++	<h3 class="ExerciseSubtitle">Em quais anos &eacute; disputada a Copa do Mundo de Futebol?</h3>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Digite as datas nos espa&ccedil;os em branco conforme os exemplos. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Digite as datas nos espa&ccedil;os em branco conforme os exemplos. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 

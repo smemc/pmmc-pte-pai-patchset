@@ -1,0 +1,40 @@
+--- atividades/1004POR018/1004POR01802.htm	2012-05-07 14:41:40.168347128 -0300
++++ atividades/1004POR018/1004POR01802.htm.new	2012-05-07 14:41:40.172347128 -0300
+@@ -74,8 +74,8 @@
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+   <div id="Instructions">Complete as palavras com CH ou X e depois escreva toda 
+-    a palavra. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu 
+-    exerc&#x00ED;cio.</div>
++    a palavra. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu 
++    exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -141,7 +141,7 @@
+               <td> 
+                 <div align="center"><span class="GapSpan" id="GapSpan9"> 
+                   <input type="text" class="GapBox" id="Gap9" style="width: 2em;" onfocus="TrackFocus(9)" onblur="LeaveGap()" size="2" maxlength="2"></input> 
+-                  </span>&#x00E3;o</div></td>
++                  </span>&atilde;o</div></td>
+               <td> 
+                 <div align="center">en<span class="GapSpan" id="GapSpan10"> 
+                   <input type="text" class="GapBox" id="Gap10" style="width: 2em;" onfocus="TrackFocus(10)" onblur="LeaveGap()" size="2" maxlength="2"></input> 
+@@ -219,7 +219,7 @@
+               <td> 
+                 <div align="center"><span class="GapSpan" id="GapSpan27"> 
+                   <input type="text" class="GapBox" id="Gap27" style="width: 2em;" onfocus="TrackFocus(27)" onblur="LeaveGap()" size="2" maxlength="2"></input> 
+-                  </span>&#x00ED;cara</div></td>
++                  </span>&iacute;cara</div></td>
+               <td> 
+                 <div align="center"><span class="GapSpan" id="GapSpan28"> 
+                   <input type="text" class="GapBox" id="Gap28" style="width: 2em;" onfocus="TrackFocus(28)" onblur="LeaveGap()" size="2" maxlength="2"></input> 
+@@ -251,7 +251,7 @@
+               <td> 
+                 <div align="center">fi<span class="GapSpan" id="GapSpan34"> 
+                   <input type="text" class="GapBox" id="Gap34" style="width: 2em;" onfocus="TrackFocus(34)" onblur="LeaveGap()" size="2" maxlength="2"></input> 
+-                  </span>&#x00E1;rio</div></td>
++                  </span>&aacute;rio</div></td>
+               <td> 
+                 <div align="center"><span class="GapSpan" id="GapSpan35"> 
+                   <input type="text" class="GapBox" id="Gap35" style="width: 2em;" onfocus="TrackFocus(35)" onblur="LeaveGap()" size="2" maxlength="2"></input> 

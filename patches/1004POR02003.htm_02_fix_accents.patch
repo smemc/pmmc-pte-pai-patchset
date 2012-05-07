@@ -1,0 +1,20 @@
+--- atividades/1004POR020/1004POR02003.htm	2012-05-07 14:41:40.932347138 -0300
++++ atividades/1004POR020/1004POR02003.htm.new	2012-05-07 14:41:40.932347138 -0300
+@@ -75,7 +75,7 @@
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+   <div id="Instructions">Complete as lacunas com S ou Z e abaixo reescreva a palavra 
+-    toda. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++    toda. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -325,7 +325,7 @@
+                   </input> 
+                   </span>oito</div></td>
+               <td> 
+-                <div align="center">d&#x00FA;<span class="GapSpan" id="GapSpan42"> 
++                <div align="center">d&uacute;<span class="GapSpan" id="GapSpan42"> 
+                   <input type="text" class="GapBox" id="Gap42" style="width: 2em;" onfocus="TrackFocus(42)" onblur="LeaveGap()" size="2" maxlength="1">
+                   </input> 
+                   </span>ia</div></td>

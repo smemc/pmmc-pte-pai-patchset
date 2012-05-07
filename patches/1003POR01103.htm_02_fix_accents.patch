@@ -1,0 +1,40 @@
+--- atividades/1003POR011/1003POR01103.htm	2012-05-07 14:40:24.900345997 -0300
++++ atividades/1003POR011/1003POR01103.htm.new	2012-05-07 14:40:24.904345997 -0300
+@@ -75,7 +75,7 @@
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+   <div id="Instructions">Complete cada frase com a palavra adequada do quadro 
+-    abaixo. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++    abaixo. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -96,21 +96,21 @@
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+ <table border="1" cellpadding="1" cellspacing="1" align="center" bgcolor="white"><tbody><tr>
+-              <td><strong><font size="4">GUACHE  GARGANTA  CARPINTEIRO  C&#x00D3;DIGO 
+-                 CAL&#x00C7;ADA</font></strong></td>
++              <td><strong><font size="4">GUACHE  GARGANTA  CARPINTEIRO  C&Oacute;DIGO 
++                 CAL&Ccedil;ADA</font></strong></td>
+             </tr></tbody></table><br />
+         <table align="center" cellpadding="1" cellspacing="1">
+           <tbody><tr>
+-              <td bgcolor="#cfe5b8">a) Ontem minha irm&#x00E3; acordou com dor 
++              <td bgcolor="#cfe5b8">a) Ontem minha irm&atilde; acordou com dor 
+                 de <span class="GapSpan" id="GapSpan0">
+-<input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> e foi ao m&#x00E9;dico.</td></tr><tr>
+-              <td bgcolor="#99ccff">b) Minha m&#x00E3;e varreu a <span class="GapSpan" id="GapSpan1">
++<input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> e foi ao m&eacute;dico.</td></tr><tr>
++              <td bgcolor="#99ccff">b) Minha m&atilde;e varreu a <span class="GapSpan" id="GapSpan1">
+ <input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> e jogou o lixo na lixeira.</td></tr><tr>
+               <td bgcolor="#cfe5b8">c) Eu observei que os produtos do supermercado 
+-                t&#x00EA;m <span class="GapSpan" id="GapSpan2">
++                t&ecirc;m <span class="GapSpan" id="GapSpan2">
+ <input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> de barras.</td></tr><tr>
+               <td bgcolor="#99ccff">d) O <span class="GapSpan" id="GapSpan3">
+-<input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="11"></input></span> &#x00E9; o profissional que trabalha com madeira.</td></tr><tr>
++<input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="11"></input></span> &eacute; o profissional que trabalha com madeira.</td></tr><tr>
+               <td bgcolor="#cfe5b8">e) Na escola, fizemos um desenho e pintamos 
+                 com tinta <span class="GapSpan" id="GapSpan4">
+ <input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>.</td></tr></tbody></table>

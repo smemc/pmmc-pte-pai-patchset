@@ -1,0 +1,20 @@
+--- atividades/1001POR004/1001POR00402.htm	2012-05-07 14:40:00.600345632 -0300
++++ atividades/1001POR004/1001POR00402.htm.new	2012-05-07 14:40:00.604345632 -0300
+@@ -73,7 +73,7 @@
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+   <div id="Instructions">Complete a letra que falta na lista das figuras abaixo. 
+-    Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++    Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -149,7 +149,7 @@
+                 <div align="center"><span class="GapSpan" id="GapSpan7"> 
+                   <input type="text" class="GapBox" id="Gap7" style="width: 2em;" onfocus="TrackFocus(7)" onblur="LeaveGap()" size="2" maxlength="1">
+                   </input> 
+-                  </span>&#x00CD;CARA</div></td>
++                  </span>&Iacute;CARA</div></td>
+             </tr>
+             <tr>
+               <td><div align="center"></div></td>

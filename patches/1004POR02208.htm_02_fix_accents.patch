@@ -1,0 +1,20 @@
+--- atividades/1004POR022/1004POR02208.htm	2012-05-07 14:41:43.872347184 -0300
++++ atividades/1004POR022/1004POR02208.htm.new	2012-05-07 14:41:43.876347184 -0300
+@@ -74,7 +74,7 @@
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+   <div id="Instructions">Encaixe as palavras nos quadrinhos, separando-as em s&iacute;labas. 
+-    Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++    Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -132,7 +132,7 @@
+                 </span></td>
+             </tr>
+             <tr> 
+-              <td bgcolor="#FFFFCC"><strong>obst&#x00E1;culo</strong></td>
++              <td bgcolor="#FFFFCC"><strong>obst&aacute;culo</strong></td>
+               <td><span class="GapSpan" id="GapSpan9"> 
+                 <input type="text" class="GapBox" id="Gap9" style="width: 3em;" onfocus="TrackFocus(9)" onblur="LeaveGap()" size="3" maxlength="5">
+                 </input> 

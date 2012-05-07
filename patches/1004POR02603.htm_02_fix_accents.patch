@@ -1,0 +1,53 @@
+--- atividades/1004POR026/1004POR02603.htm	2012-05-07 14:41:57.020347381 -0300
++++ atividades/1004POR026/1004POR02603.htm.new	2012-05-07 14:41:57.020347381 -0300
+@@ -75,7 +75,7 @@
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+   <div id="Instructions">Complete as frases com as palavras adequadas e copie-as. 
+-    Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++    Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -98,34 +98,34 @@
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+ <table border="1" align="center" cellpadding="2" cellspacing="2"><tbody><tr>
+-              <td bgcolor="#FFFFFF"><div align="center"><strong>REQUEIJ&#x00C3;O 
++              <td bgcolor="#FFFFFF"><div align="center"><strong>REQUEIJ&Atilde;O 
+                   - BANDEJA - CARANGUEJO</p><br />
+-                  VASSOURA - BESOURO - A&#x00C7;OUGUE</strong></div></td></tr></tbody></table><br />
++                  VASSOURA - BESOURO - A&Ccedil;OUGUE</strong></div></td></tr></tbody></table><br />
+         <table align="center" cellpadding="2" cellspacing="2">
+           <tbody><tr>
+-              <td bgcolor="#cfe5b8">&#x00C0; tarde eu comi um p&#x00E3;o com <span class="GapSpan" id="GapSpan0">
++              <td bgcolor="#cfe5b8">&Agrave; tarde eu comi um p&atilde;o com <span class="GapSpan" id="GapSpan0">
+ <input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="9"></input></span> e tomei suco.</td></tr><tr>
+               <td bgcolor="#99ccff"><span class="GapSpan" id="GapSpan1">
+ <input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="50"></input></span></td></tr><tr>
+               <td bgcolor="#cfe5b8">No <span class="GapSpan" id="GapSpan2">
+-<input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> do meu bairro a carne &#x00E9; de qualidade.</td></tr><tr>
++<input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> do meu bairro a carne &eacute; de qualidade.</td></tr><tr>
+               <td bgcolor="#99ccff"><span class="GapSpan" id="GapSpan3">
+ <input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="48"></input></span></td></tr><tr>
+               <td bgcolor="#cfe5b8">No filme, a empregada chegou com uma <span class="GapSpan" id="GapSpan4">
+ <input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> cheia de comidas gostosas.</td></tr><tr>
+               <td bgcolor="#99ccff"><span class="GapSpan" id="GapSpan5">
+ <input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="71"></input></span></td></tr><tr>
+-              <td bgcolor="#cfe5b8">H&#x00E1; pessoas que gostam de comer a carne 
++              <td bgcolor="#cfe5b8">H&aacute; pessoas que gostam de comer a carne 
+                 do <span class="GapSpan" id="GapSpan6">
+ <input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="10"></input></span>.</td></tr><tr>
+               <td bgcolor="#99ccff"><span class="GapSpan" id="GapSpan7">
+ <input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="53"></input></span></td></tr><tr>
+               <td bgcolor="#cfe5b8">Um <span class="GapSpan" id="GapSpan8">
+-<input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> pousou no bra&#x00E7;o da menina e ela se assustou.</td></tr><tr>
++<input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> pousou no bra&ccedil;o da menina e ela se assustou.</td></tr><tr>
+               <td bgcolor="#99ccff"><span class="GapSpan" id="GapSpan9">
+ <input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="55"></input></span></td></tr><tr>
+               <td bgcolor="#cfe5b8">Passe a <span class="GapSpan" id="GapSpan10">
+-<input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> devagar para n&#x00E3;o levantar muita poeira.</td></tr><tr>
++<input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> devagar para n&atilde;o levantar muita poeira.</td></tr><tr>
+               <td bgcolor="#99ccff"><span class="GapSpan" id="GapSpan11">
+ <input type="text" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="56"></input></span></td></tr></tbody></table>
+ </div>

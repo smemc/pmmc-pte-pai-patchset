@@ -1,0 +1,22 @@
+--- atividades/1003POR018/1003POR01802.htm	2012-05-07 14:40:37.244346182 -0300
++++ atividades/1003POR018/1003POR01802.htm.new	2012-05-07 14:40:37.248346183 -0300
+@@ -73,8 +73,8 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+-  <div id="Instructions">Reescreva as palavras em ordem alfab&#x00E9;tica. Em 
+-    seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++  <div id="Instructions">Reescreva as palavras em ordem alfab&eacute;tica. Em 
++    seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -97,7 +97,7 @@
+ <table align="center" border="1" cellpadding="2" cellspacing="2" bgcolor="white"><tbody><tr>
+               <td><strong>PARADO - GARAPA - FUTURO - CENOURA - MARIPOSA</strong> 
+                 <p><strong><br />
+-                  CARIOCA - GALERA - PARAFUSO - C&#x00C9;REBRO - FAROL</strong></td></tr></tbody></table><br /><br />
++                  CARIOCA - GALERA - PARAFUSO - C&Eacute;REBRO - FAROL</strong></td></tr></tbody></table><br /><br />
+         <table align="center" cellpadding="2" cellspacing="2">
+           <tbody><tr>
+               <td bgcolor="#FFFFCC">1</td>

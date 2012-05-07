@@ -1,0 +1,50 @@
+--- atividades/1004POR011/1004POR01104.htm	2012-05-07 14:41:22.492346861 -0300
++++ atividades/1004POR011/1004POR01104.htm.new	2012-05-07 14:41:22.492346861 -0300
+@@ -77,7 +77,7 @@
+   <div id="Instructions">Reescreva as frases transformando a linguagem coloquial 
+     em culta. Utilize <em><strong>la</strong></em>, <em><strong>las</strong></em>, 
+     <strong> <em>lo</em></strong>, <strong><em>los</em></strong>. Em seguida, 
+-    clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++    clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -102,32 +102,32 @@
+         <table cellpadding="2" cellspacing="2" align="center">
+           <tbody><tr>
+               <td bgcolor="#FFFFCC">a) Gabriela chamou seu cachorrinho para <strong><font color="#FF0000">levar 
+-                ele</font></strong> ao veterin&#x00E1;rio.</td>
++                ele</font></strong> ao veterin&aacute;rio.</td>
+             </tr><tr>
+               <td bgcolor="#66FF99">a) <span class="GapSpan" id="GapSpan0">
+ <input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="60"></input></span></td></tr><tr>
+-              <td bgcolor="#FFFFCC">b) Eu ganhei t&#x00EA;nis novo. Vou <strong><font color="#FF0000">usar 
++              <td bgcolor="#FFFFCC">b) Eu ganhei t&ecirc;nis novo. Vou <strong><font color="#FF0000">usar 
+                 ele</font></strong> hoje.</td>
+             </tr><tr>
+               <td bgcolor="#66FF99">b) <span class="GapSpan" id="GapSpan1"> 
+                 <input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="38"></input></span></td></tr><tr>
+-              <td bgcolor="#FFFFCC">c) Mam&#x00E3;e lavou a lou&#x00E7;a e eu 
++              <td bgcolor="#FFFFCC">c) Mam&atilde;e lavou a lou&ccedil;a e eu 
+                 vou <strong><font color="#FF0000">enxugar ela</font></strong>.</td>
+             </tr><tr>
+               <td bgcolor="#66FF99">c) <span class="GapSpan" id="GapSpan2">
+ <input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="39"></input></span></td></tr><tr>
+-              <td bgcolor="#FFFFCC">d) Tenho v&#x00E1;rias li&#x00E7;&#x00F5;es. 
++              <td bgcolor="#FFFFCC">d) Tenho v&aacute;rias li&ccedil;&otilde;es. 
+                 Vou <strong><font color="#FF0000">fazer elas</font></strong> sem 
+                 conversar.</td>
+             </tr><tr>
+               <td bgcolor="#66FF99">d) <span class="GapSpan" id="GapSpan3">
+ <input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="48"></input></span></td></tr><tr>
+-              <td bgcolor="#FFFFCC">e) Tia Carmem fez past&#x00E9;is. Vou <strong><font color="#FF0000">comer 
++              <td bgcolor="#FFFFCC">e) Tia Carmem fez past&eacute;is. Vou <strong><font color="#FF0000">comer 
+                 eles</font></strong> com refrigerante.</td>
+             </tr><tr>
+               <td bgcolor="#66FF99">e) <span class="GapSpan" id="GapSpan4">
+ <input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="54"></input></span></td></tr><tr>
+-              <td bgcolor="#FFFFCC">f) Escrevi v&#x00E1;rias hist&#x00F3;rias. 
++              <td bgcolor="#FFFFCC">f) Escrevi v&aacute;rias hist&oacute;rias. 
+                 Vou <strong><font color="#FF0000">mostrar elas</font></strong> 
+                 para a professora.</td>
+             </tr><tr>

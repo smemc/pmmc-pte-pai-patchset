@@ -1,0 +1,18 @@
+--- atividades/1301POR001/1301POR00106.htm	2012-05-07 14:30:23.192336956 -0300
++++ atividades/1301POR001/1301POR00106.htm.new	2012-05-07 14:42:05.064347502 -0300
+@@ -767,13 +767,13 @@
+ F[1][0]='<br /><center><img src="microfone.gif" title="barra" width="80" height="80"></img><br />Microfone rima com?';
+ F[1][1] = 2;
+ F[2] = new Array();
+-F[2][0]='<br /><center><img src="laco.PNG" title="barra" width="80" height="80"></img><br />La&ccedil;o rima com?';
++F[2][0]='<br /><center><img src="laco.png" title="barra" width="80" height="80"></img><br />La&ccedil;o rima com?';
+ F[2][1] = 3;
+ 
+ 
+ D = new Array();
+ D[0] = new Array();
+-D[0][0]='<br /><center><img src="cola.PNG" title="Araste at&#x00E9; a Fra&#x00E7;&#x00E3;o correspondente da coluna ao lado" width="60" height="60"></img><br /><br />Cola';
++D[0][0]='<br /><center><img src="cola.png" title="Araste at&#x00E9; a Fra&#x00E7;&#x00E3;o correspondente da coluna ao lado" width="60" height="60"></img><br /><br />Cola';
+ D[0][1] = 1;
+ D[0][2] = 0;
+ D[1] = new Array();

@@ -1,0 +1,15 @@
+--- atividades/1004POR017/1004POR01705.htm	2012-05-07 14:41:36.912347079 -0300
++++ atividades/1004POR017/1004POR01705.htm.new	2012-05-07 14:41:36.912347079 -0300
+@@ -72,9 +72,9 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+-  <div id="Instructions">Coloque as s&#x00ED;labas em ordem para formar palavras 
+-    com G. Depois de conclu&#x00ED;do, clique em "Verificar" para corrigir seu 
+-    exerc&#x00ED;cio.</div>
++  <div id="Instructions">Coloque as s&iacute;labas em ordem para formar palavras 
++    com G. Depois de conclu&iacute;do, clique em "Verificar" para corrigir seu 
++    exerc&iacute;cio.</div>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">

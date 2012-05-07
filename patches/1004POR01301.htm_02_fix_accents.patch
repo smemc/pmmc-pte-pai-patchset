@@ -1,0 +1,55 @@
+--- atividades/1004POR013/1004POR01301.htm	2012-05-07 14:41:24.500346893 -0300
++++ atividades/1004POR013/1004POR01301.htm.new	2012-05-07 14:41:24.504346893 -0300
+@@ -76,7 +76,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Escreva o tempo em que est&#x00E1; o verbo de cada frase. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Escreva o tempo em que est&aacute; o verbo de cada frase. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -99,7 +99,7 @@
+         <table align="center">
+           <tbody><tr>
+               <td bgcolor="#cfe5b8">a) Douglas <font color="#FF0000"><strong>faz</strong></font> 
+-                todas as suas li&#x00E7;&#x00F5;es.</td>
++                todas as suas li&ccedil;&otilde;es.</td>
+             </tr><tr>
+               <td bgcolor="#cfe5b8">
+ <div align="left"><span class="GapSpan" id="GapSpan0"> 
+@@ -113,12 +113,12 @@
+                   <input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="20"></input> 
+                   </span></div></td></tr><tr>
+               <td bgcolor="#cfe5b8">c) Yuri e Jonathan <font color="#FF0000"><strong>fizeram</strong></font> 
+-                v&#x00E1;rios gols.</td>
++                v&aacute;rios gols.</td>
+             </tr><tr>
+               <td bgcolor="#cfe5b8"> <div align="left"><span class="GapSpan" id="GapSpan2"> 
+                   <input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="18"></input> 
+                   </span></div></td></tr><tr>
+-              <td bgcolor="#99CCFF">d) N&#x00F3;s nos <font color="#FF0000"><strong>divertiremos</strong></font> 
++              <td bgcolor="#99CCFF">d) N&oacute;s nos <font color="#FF0000"><strong>divertiremos</strong></font> 
+                 no clube.</td>
+             </tr><tr>
+               <td bgcolor="#99CCFF"> 
+@@ -131,7 +131,7 @@
+               <td bgcolor="#cfe5b8"> <div align="left"><span class="GapSpan" id="GapSpan4"> 
+                   <input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="19"></input> 
+                   </span></div></td></tr><tr>
+-              <td bgcolor="#99CCFF">f) Se ventasse, n&#x00F3;s <font color="#FF0000"><strong>empinar&#x00ED;amos</strong></font> 
++              <td bgcolor="#99CCFF">f) Se ventasse, n&oacute;s <font color="#FF0000"><strong>empinar&iacute;amos</strong></font> 
+                 pipa.</td>
+             </tr><tr>
+               <td bgcolor="#99CCFF"> 
+@@ -144,8 +144,8 @@
+               <td bgcolor="#cfe5b8"> <div align="left"><span class="GapSpan" id="GapSpan6"> 
+                   <input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="18"></input> 
+                   </span></div></td></tr><tr>
+-              <td bgcolor="#99CCFF">h) Vanessa <font color="#FF0000"><strong>conseguir&#x00E1;</strong></font> 
+-                alcan&#x00E7;ar seus objetivos.</td>
++              <td bgcolor="#99CCFF">h) Vanessa <font color="#FF0000"><strong>conseguir&aacute;</strong></font> 
++                alcan&ccedil;ar seus objetivos.</td>
+             </tr><tr>
+               <td bgcolor="#99CCFF"> 
+                 <div align="left"><span class="GapSpan" id="GapSpan7"> 

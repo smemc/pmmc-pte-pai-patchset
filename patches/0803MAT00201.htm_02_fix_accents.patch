@@ -1,0 +1,28 @@
+--- atividades/0803MAT002/0803MAT00201.htm	2012-05-07 14:39:21.812345049 -0300
++++ atividades/0803MAT002/0803MAT00201.htm.new	2012-05-07 14:39:21.812345049 -0300
+@@ -6,7 +6,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Danilo  F. A. Moraes" />
+ <meta name="DC:Creator" content="Orientador" />
+-<meta name="DC:Title" content="Escreva o n&#x00FA;mero formado por" />
++<meta name="DC:Title" content="Escreva o n&uacute;mero formado por" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -57,14 +57,14 @@
+ </div>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">Escreva o n&#x00FA;mero formado por</h2>
++	<h2 class="ExerciseTitle">Escreva o n&uacute;mero formado por</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Preencha os espa&#x00E7;os em branco com os n&#x00FA;meros decompostos. Em seguida, clique em Verificar para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Preencha os espa&ccedil;os em branco com os n&uacute;meros decompostos. Em seguida, clique em Verificar para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 

@@ -1,0 +1,28 @@
+--- atividades/0803POR004/0803POR00401.htm	2012-05-07 14:39:27.472345134 -0300
++++ atividades/0803POR004/0803POR00401.htm.new	2012-05-07 14:39:27.476345134 -0300
+@@ -6,7 +6,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Orientador" />
+ <meta name="DC:Creator" content="Danilo Moraes" />
+-<meta name="DC:Title" content="Forme Palavras com &quot;&#x00E7;&quot;" />
++<meta name="DC:Title" content="Forme Palavras com &quot;&ccedil;&quot;" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -57,14 +57,14 @@
+ </div>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">Forme Palavras com "&#x00E7;"</h2>
++	<h2 class="ExerciseTitle">Forme Palavras com "&ccedil;"</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Complete os espa&#x00E7;os com as sílabas indicadas pelos números. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Complete os espa&ccedil;os com as sílabas indicadas pelos números. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 

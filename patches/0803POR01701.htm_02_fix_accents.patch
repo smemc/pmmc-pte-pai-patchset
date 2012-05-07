@@ -1,0 +1,11 @@
+--- atividades/0803POR017/0803POR01701.htm	2012-05-07 14:39:34.980345247 -0300
++++ atividades/0803POR017/0803POR01701.htm.new	2012-05-07 14:39:34.984345247 -0300
+@@ -63,7 +63,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Complete como no modelo. Em seguida clique no bot&#x00E3;o verificar para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Complete como no modelo. Em seguida clique no bot&atilde;o verificar para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 

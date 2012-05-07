@@ -1,0 +1,29 @@
+--- atividades/1004MAT002/1004MAT00203.htm	2012-05-07 14:40:56.632346474 -0300
++++ atividades/1004MAT002/1004MAT00203.htm.new	2012-05-07 14:40:56.636346474 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Wilson S. Freitas Jr" />
+-<meta name="DC:Title" content="Cruzadinha - Fra&#x00E7;&#x00F5;es" />
++<meta name="DC:Title" content="Cruzadinha - Fra&ccedil;&otilde;es" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -72,7 +72,7 @@
+   <p class="ExerciseTitle">&nbsp;</p>
+ </div>
+ <div id="InstructionsDiv" class="StdDiv">
+-<div id="Instructions">Clique nos n&#x00FA;meros para abrir as perguntas. Complete a cruzadinha e clique em "Verificar" para corrigir.</div>
++<div id="Instructions">Clique nos n&uacute;meros para abrir as perguntas. Complete a cruzadinha e clique em "Verificar" para corrigir.</div>
+ </div>
+ 
+ 
+@@ -123,7 +123,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Verticais</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue"><img src="imagens/tresoitavos.jpg" width="72" height="74"></img></td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue"><img src="imagens/novedezoitoavos.jpg" width="72" height="74"></img></td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue"><img src="imagens/doister&#x00E7;os.JPG" width="72" height="74"></img></td></tr><tr><td class="ClueNum">8. </td><td id="Clue_D_8" class="Clue"><img src="imagens/umquinto.jpg" width="72" height="74"></img></td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue"><img src="imagens/tresoitavos.jpg" width="72" height="74"></img></td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue"><img src="imagens/novedezoitoavos.jpg" width="72" height="74"></img></td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue"><img src="imagens/doister&ccedil;os.JPG" width="72" height="74"></img></td></tr><tr><td class="ClueNum">8. </td><td id="Clue_D_8" class="Clue"><img src="imagens/umquinto.jpg" width="72" height="74"></img></td></tr>
+ 
+ </tbody>
+ </table>

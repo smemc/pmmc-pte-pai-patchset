@@ -1,0 +1,11 @@
+--- atividades/1301POR001/1301POR00105.htm	2012-05-07 14:30:23.148336955 -0300
++++ atividades/1301POR001/1301POR00105.htm.new	2012-05-07 14:42:04.320347491 -0300
+@@ -773,7 +773,7 @@
+ 
+ D = new Array();
+ D[0] = new Array();
+-D[0][0]='<br /><center><img src="chupeta.PNG" title="Araste at&#x00E9; a Fra&#x00E7;&#x00E3;o correspondente da coluna ao lado" width="80" height="80"></img><br /><br />Chupeta';
++D[0][0]='<br /><center><img src="chupeta.png" title="Araste at&#x00E9; a Fra&#x00E7;&#x00E3;o correspondente da coluna ao lado" width="80" height="80"></img><br /><br />Chupeta';
+ D[0][1] = 1;
+ D[0][2] = 0;
+ D[1] = new Array();

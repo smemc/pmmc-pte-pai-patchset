@@ -1,0 +1,25 @@
+--- atividades/1004POR014/1004POR01411.htm	2012-05-07 14:41:28.596346954 -0300
++++ atividades/1004POR014/1004POR01411.htm.new	2012-05-07 14:41:28.600346954 -0300
+@@ -75,7 +75,7 @@
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+   <div id="Instructions">Reescreva as palavras em ordem alfab&eacute;tica. Em 
+-    seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++    seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -96,10 +96,10 @@
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+ <table align="center" border="1" cellpadding="2" cellspacing="2" bgcolor="white"><tbody><tr><td><div align="center"><strong>COURO 
+-                  - GALP&#x00C3;O - ESMERALDA - CAL&#x00C7;ADA</br><br />
+-                  ALMEIR&#x00C3;O - DEGRAU - FRAUDE - PULSO</br><br />
++                  - GALP&Atilde;O - ESMERALDA - CAL&Ccedil;ADA</br><br />
++                  ALMEIR&Atilde;O - DEGRAU - FRAUDE - PULSO</br><br />
+                   COLCHA - ALGEMA - PALMADA - AVULSO</br><br />
+-                  VULC&#x00C3;O - SALGADO - NAUFR&#x00C1;GIO</strong></div></td></tr></tbody></table><br /><br />
++                  VULC&Atilde;O - SALGADO - NAUFR&Aacute;GIO</strong></div></td></tr></tbody></table><br /><br />
+         <table align="center" border="1" cellpadding="2" cellspacing="2">
+           <tbody>
+             <tr> 

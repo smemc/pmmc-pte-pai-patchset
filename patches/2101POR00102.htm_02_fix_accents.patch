@@ -1,0 +1,13 @@
+--- atividades/2101POR001/2101POR00102.htm	2012-05-07 14:42:27.376347837 -0300
++++ atividades/2101POR001/2101POR00102.htm.new	2012-05-07 14:42:27.376347837 -0300
+@@ -410,8 +410,8 @@
+ return this;
+ }
+ var Feedback = '';
+-var Correct = 'Voc&#x00EA; acertou. Muito bem.';
+-var Incorrect = 'Algumas letras n&#x00E3;o est&#x00E3;o certas. Tente novamente.'; var GiveHint = '';
++var Correct = 'Voc&ecirc; acertou. Muito bem.';
++var Incorrect = 'Algumas letras n&atilde;o est&atilde;o certas. Tente novamente.'; var GiveHint = '';
+ var CaseSensitive = false;
+ var YourScoreIs = '';
+ var Finished = false;

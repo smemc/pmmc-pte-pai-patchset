@@ -1,0 +1,43 @@
+--- atividades/1004POR015/1004POR01503.htm	2012-05-07 14:41:29.376346966 -0300
++++ atividades/1004POR015/1004POR01503.htm.new	2012-05-07 14:41:29.380346966 -0300
+@@ -76,7 +76,7 @@
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+   <div id="Instructions">Reescreva as frases de acordo com as novas pessoas. Em 
+-    seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++    seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -104,7 +104,7 @@
+               <td bgcolor="#99ccff">Eles <span class="GapSpan" id="GapSpan0"> 
+                 <input type="text" class="GapBox" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="48" maxlength="55">
+                 </input></span></td></tr><tr>
+-              <td bgcolor="#cfe5b8">N&#x00F3;s ouvimos uma m&#x00FA;sica diferente 
++              <td bgcolor="#cfe5b8">N&oacute;s ouvimos uma m&uacute;sica diferente 
+                 e gostamos.</td>
+             </tr><tr>
+               <td bgcolor="#99ccff">Ela <span class="GapSpan" id="GapSpan1"> 
+@@ -112,18 +112,18 @@
+                 </input></span></td></tr><tr>
+               <td bgcolor="#cfe5b8">Ele brincava, comia e dormia na casa dos tios.</td>
+             </tr><tr>
+-              <td bgcolor="#99ccff">N&#x00F3;s <span class="GapSpan" id="GapSpan2"> 
++              <td bgcolor="#99ccff">N&oacute;s <span class="GapSpan" id="GapSpan2"> 
+                 <input type="text" class="GapBox" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="51" maxlength="56">
+                 </input></span></td></tr><tr>
+-              <td bgcolor="#cfe5b8">Elas sairiam de casa e passeariam se n&#x00E3;o 
++              <td bgcolor="#cfe5b8">Elas sairiam de casa e passeariam se n&atilde;o 
+                 estivesse chovendo.</td>
+             </tr><tr>
+               <td bgcolor="#99ccff">Eu <span class="GapSpan" id="GapSpan3"> 
+                 <input type="text" class="GapBox" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="53" maxlength="58">
+                 </input></span></td></tr><tr>
+-              <td bgcolor="#cfe5b8">Eu leio e escrevo boas hist&#x00F3;rias.</td>
++              <td bgcolor="#cfe5b8">Eu leio e escrevo boas hist&oacute;rias.</td>
+             </tr><tr>
+-              <td bgcolor="#99ccff">N&#x00F3;s <span class="GapSpan" id="GapSpan4"> 
++              <td bgcolor="#99ccff">N&oacute;s <span class="GapSpan" id="GapSpan4"> 
+                 <input type="text" class="GapBox" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="34" maxlength="40">
+                 </input></span></td></tr></tbody></table>
+ </div>

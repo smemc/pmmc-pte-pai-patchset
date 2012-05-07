@@ -1,0 +1,11 @@
+--- atividades/0601POR205/0601POR20510.htm	2012-05-07 14:37:23.728343275 -0300
++++ atividades/0601POR205/0601POR20510.htm.new	2012-05-07 14:37:23.728343275 -0300
+@@ -589,7 +589,7 @@
+ 
+ var CorrectResponse = 'MUITO BEM!';
+ var IncorrectResponse = 'TENTE NOVAMENTE';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';

@@ -1,0 +1,33 @@
+--- atividades/1003POR023/1003POR02312.htm	2012-05-07 14:40:49.924346373 -0300
++++ atividades/1003POR023/1003POR02312.htm.new	2012-05-07 14:40:49.924346373 -0300
+@@ -74,8 +74,8 @@
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+   <div id="Instructions">Copie as frases e complete o quadro ao lado com a palavra 
+-    que tem a letra S depois de consoante. Em seguida, clique no bot&#x00E3;o 
+-    "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++    que tem a letra S depois de consoante. Em seguida, clique no bot&atilde;o 
++    "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -102,7 +102,7 @@
+               <th>Palavra com S depois de consoante</th>
+             </tr>
+             <tr> 
+-              <td>a) Eu segui o conselho de minha m&#x00E3;e e deu tudo certo.</td>
++              <td>a) Eu segui o conselho de minha m&atilde;e e deu tudo certo.</td>
+               <td rowspan="2"><div align="center"><span class="GapSpan" id="GapSpan1"> 
+                   <input type="text" class="GapBox" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="8" maxlength="12">
+                   </input> 
+@@ -128,8 +128,8 @@
+                 </span></td>
+             </tr>
+             <tr> 
+-              <td>c) Depois de preparar o lanche, Marcelo entrou no &#x00F4;nibus 
+-                da excurs&#x00E3;o.</td>
++              <td>c) Depois de preparar o lanche, Marcelo entrou no &ocirc;nibus 
++                da excurs&atilde;o.</td>
+               <td rowspan="2"><div align="center"><span class="GapSpan" id="GapSpan5"> 
+                   <input type="text" class="GapBox" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" size="8" maxlength="12">
+                   </input> 

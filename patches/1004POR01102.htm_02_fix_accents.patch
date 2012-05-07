@@ -1,0 +1,40 @@
+--- atividades/1004POR011/1004POR01102.htm	2012-05-07 14:41:22.056346856 -0300
++++ atividades/1004POR011/1004POR01102.htm.new	2012-05-07 14:41:22.056346856 -0300
+@@ -75,7 +75,7 @@
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+   <div id="Instructions">Complete com <em><strong>eu</strong></em> ou <em><strong>mim</strong></em>. 
+-    Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++    Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -95,15 +95,15 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-a) Queria ter um c&#x00E3;o para <span class="GapSpan" id="GapSpan0">
++a) Queria ter um c&atilde;o para <span class="GapSpan" id="GapSpan0">
+         <input type="text" class="GapBox" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="3" maxlength="3">
+         </input></span> cuidar.<br />b) Tia Paula deu um presente para <span class="GapSpan" id="GapSpan1">
+         <input type="text" class="GapBox" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="3" maxlength="3">
+-        </input></span>.<br />c) Ser&#x00E1; que tem vaga para <span class="GapSpan" id="GapSpan2">
++        </input></span>.<br />c) Ser&aacute; que tem vaga para <span class="GapSpan" id="GapSpan2">
+         <input type="text" class="GapBox" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="3" maxlength="3">
+-        </input></span> nessa escola?<br />d) Mam&#x00E3;e pediu para <span class="GapSpan" id="GapSpan3">
++        </input></span> nessa escola?<br />d) Mam&atilde;e pediu para <span class="GapSpan" id="GapSpan3">
+         <input type="text" class="GapBox" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="3" maxlength="3">
+-        </input></span> enxugar a lou&#x00E7;a.<br />e) A professora entregou a prova para <span class="GapSpan" id="GapSpan4">
++        </input></span> enxugar a lou&ccedil;a.<br />e) A professora entregou a prova para <span class="GapSpan" id="GapSpan4">
+         <input type="text" class="GapBox" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="3" maxlength="3">
+         </input></span> ver a nota.<br />f) Papai comprou uma roupa para <span class="GapSpan" id="GapSpan5">
+         <input type="text" class="GapBox" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" size="3" maxlength="3">
+@@ -111,7 +111,7 @@
+         <input type="text" class="GapBox" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" size="3" maxlength="3">
+         </input></span> jogar.<br />h) Vanessa contou para <span class="GapSpan" id="GapSpan7">
+         <input type="text" class="GapBox" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" size="3" maxlength="3">
+-        </input></span> uma hist&#x00F3;ria.
++        </input></span> uma hist&oacute;ria.
+ </div>
+ </form>
+ </div>

@@ -1,0 +1,11 @@
+--- atividades/0701POR001/0701POR00103.htm	2012-05-07 14:39:15.980344960 -0300
++++ atividades/0701POR001/0701POR00103.htm.new	2012-05-07 14:39:15.984344961 -0300
+@@ -77,7 +77,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Escreva nos espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 

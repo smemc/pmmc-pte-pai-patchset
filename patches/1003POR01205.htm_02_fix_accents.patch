@@ -1,0 +1,11 @@
+--- atividades/1003POR012/1003POR01205.htm	2012-05-07 14:40:26.960346029 -0300
++++ atividades/1003POR012/1003POR01205.htm.new	2012-05-07 14:40:26.960346029 -0300
+@@ -70,7 +70,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Arraste as s&#x00ED;labas e coloque-as na ordem. Depois de conclu&#x00ED;do, clique em "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Arraste as s&iacute;labas e coloque-as na ordem. Depois de conclu&iacute;do, clique em "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">

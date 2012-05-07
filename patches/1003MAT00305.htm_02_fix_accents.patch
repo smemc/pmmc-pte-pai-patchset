@@ -1,0 +1,56 @@
+--- atividades/1003MAT003/1003MAT00305.htm	2012-05-07 14:40:16.000345863 -0300
++++ atividades/1003MAT003/1003MAT00305.htm.new	2012-05-07 14:40:16.000345863 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Wilson Junior" />
+-<meta name="DC:Title" content="SISTEMA DE NUMERA&#x00C7;&#x00C3;O DECIMAL - UNIDADE DE MILHAR" />
++<meta name="DC:Title" content="SISTEMA DE NUMERA&Ccedil;&Atilde;O DECIMAL - UNIDADE DE MILHAR" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -65,7 +65,7 @@
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" /></p>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">SISTEMA DE NUMERA&#x00C7;&#x00C3;O DECIMAL - UNIDADE DE MILHAR</h2>
++	<h2 class="ExerciseTitle">SISTEMA DE NUMERA&Ccedil;&Atilde;O DECIMAL - UNIDADE DE MILHAR</h2>
+ 
+ 
+ 
+@@ -73,8 +73,8 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+-  <div id="Instructions">Escreva com algarismos. Em seguida, clique no bot&#x00E3;o 
+-    "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++  <div id="Instructions">Escreva com algarismos. Em seguida, clique no bot&atilde;o 
++    "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -106,13 +106,13 @@
+               <td><span class="GapSpan" id="GapSpan1"> 
+                 <input type="text" class="GapBox" id="Gap1" style="width: 4em;" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="4" maxlength="6">
+                 </input></span></td>
+-              <td>Um mil, quatrocentos e vinte e tr&#x00EA;s</td>
++              <td>Um mil, quatrocentos e vinte e tr&ecirc;s</td>
+             </tr>
+             <tr bgcolor="#cfe5b8"> 
+               <td><span class="GapSpan" id="GapSpan2"> 
+                 <input type="text" class="GapBox" id="Gap2" style="width: 4em;" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="4" maxlength="6">
+                 </input></span></td>
+-              <td>Tr&#x00EA;s mil, seiscentos e quarenta e nove</td>
++              <td>Tr&ecirc;s mil, seiscentos e quarenta e nove</td>
+             </tr>
+             <tr bgcolor="#FFFFCC"> 
+               <td><span class="GapSpan" id="GapSpan3"> 
+@@ -130,7 +130,7 @@
+               <td><span class="GapSpan" id="GapSpan5"> 
+                 <input type="text" class="GapBox" id="Gap5" style="width: 4em;" onfocus="TrackFocus(5)" onblur="LeaveGap()" size="4" maxlength="6">
+                 </input></span></td>
+-              <td>Tr&#x00EA;s mil, cento e noventa</td>
++              <td>Tr&ecirc;s mil, cento e noventa</td>
+             </tr>
+             <tr bgcolor="#cfe5b8"> 
+               <td><span class="GapSpan" id="GapSpan6"> 

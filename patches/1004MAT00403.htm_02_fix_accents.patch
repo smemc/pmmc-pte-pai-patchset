@@ -1,0 +1,24 @@
+--- atividades/1004MAT004/1004MAT00403.htm	2012-05-07 14:41:00.588346533 -0300
++++ atividades/1004MAT004/1004MAT00403.htm.new	2012-05-07 14:41:00.592346533 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
+-<meta name="DC:Title" content="Fra&#x00E7;&#x00F5;es e n&#x00FA;meros decimais" />
++<meta name="DC:Title" content="Fra&ccedil;&otilde;es e n&uacute;meros decimais" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -73,9 +73,9 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+-  <div id="Instructions"><font size="3">Transforme os n&#x00FA;meros decimais 
+-    do exerc&#x00ED;cio anterior em fra&#x00E7;&#x00F5;es decimais. Em seguida, 
+-    clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</font></div>
++  <div id="Instructions"><font size="3">Transforme os n&uacute;meros decimais 
++    do exerc&iacute;cio anterior em fra&ccedil;&otilde;es decimais. Em seguida, 
++    clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</font></div>
+ </div>
+ 
+ 

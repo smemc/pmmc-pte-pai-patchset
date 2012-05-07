@@ -1,0 +1,82 @@
+--- atividades/1004POR013/1004POR01302.htm	2012-05-07 14:41:24.720346896 -0300
++++ atividades/1004POR013/1004POR01302.htm.new	2012-05-07 14:41:24.724346896 -0300
+@@ -76,7 +76,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Escreva os verbos nos tempos pedidos. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Escreva os verbos nos tempos pedidos. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -107,7 +107,7 @@
+                       <td bordercolor="#000000">Ele / Ela <span class="GapSpan" id="GapSpan1"> 
+                         <input type="text" class="GapBox" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="6" maxlength="7">
+                         </input></span></td></tr><tr>
+-                      <td bordercolor="#000000">N&#x00F3;s <span class="GapSpan" id="GapSpan2"> 
++                      <td bordercolor="#000000">N&oacute;s <span class="GapSpan" id="GapSpan2"> 
+                         <input type="text" class="GapBox" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="8" maxlength="9">
+                         </input></span></td></tr><tr>
+                       <td bordercolor="#000000">Eles / Elas <span class="GapSpan" id="GapSpan3"> 
+@@ -115,7 +115,7 @@
+                         </input></span></td></tr></tbody></table></td><td><table border="1" cellpadding="2" cellspacing="2" bordercolor="#000000" bgcolor="#cfe5b8">
+                   <tbody><tr>
+                       <td width="210" bordercolor="#000000"><strong><font color="#0000FF">b)</font></strong> 
+-                        <strong>escrever - pret&#x00E9;rito perfeito</strong></td>
++                        <strong>escrever - pret&eacute;rito perfeito</strong></td>
+                     </tr><tr>
+                       <td bordercolor="#000000">Eu <span class="GapSpan" id="GapSpan4"> 
+                         <input type="text" class="GapBox" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="7" maxlength="8">
+@@ -123,7 +123,7 @@
+                       <td bordercolor="#000000">Ele / Ela <span class="GapSpan" id="GapSpan5"> 
+                         <input type="text" class="GapBox" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" size="8" maxlength="9">
+                         </input></span></td></tr><tr>
+-                      <td bordercolor="#000000">N&#x00F3;s <span class="GapSpan" id="GapSpan6"> 
++                      <td bordercolor="#000000">N&oacute;s <span class="GapSpan" id="GapSpan6"> 
+                         <input type="text" class="GapBox" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" size="10" maxlength="11">
+                         </input></span></td></tr><tr>
+                       <td bordercolor="#000000">Eles / Elas <span class="GapSpan" id="GapSpan7"> 
+@@ -131,7 +131,7 @@
+                         </input></span></td></tr></tbody></table></td></tr><tr><td><table border="1" cellpadding="2" cellspacing="2" bordercolor="#000000" bgcolor="#cfe5b8">
+                   <tbody><tr>
+                       <td width="210" bordercolor="#000000"><strong><font color="#0000FF">c)</font></strong> 
+-                        <strong>dividir - pret&#x00E9;rito imperfeito</strong></td>
++                        <strong>dividir - pret&eacute;rito imperfeito</strong></td>
+                     </tr><tr>
+                       <td bordercolor="#000000">Eu <span class="GapSpan" id="GapSpan8"> 
+                         <input type="text" class="GapBox" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" size="7" maxlength="8">
+@@ -139,7 +139,7 @@
+                       <td bordercolor="#000000">Ele / Ela <span class="GapSpan" id="GapSpan9"> 
+                         <input type="text" class="GapBox" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" size="7" maxlength="8">
+                         </input></span></td></tr><tr>
+-                      <td bordercolor="#000000">N&#x00F3;s <span class="GapSpan" id="GapSpan10"> 
++                      <td bordercolor="#000000">N&oacute;s <span class="GapSpan" id="GapSpan10"> 
+                         <input type="text" class="GapBox" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" size="10" maxlength="11">
+                         </input></span></td></tr><tr>
+                       <td bordercolor="#000000">Eles / Elas <span class="GapSpan" id="GapSpan11"> 
+@@ -152,14 +152,14 @@
+                         <input type="text" class="GapBox" id="Gap12" onfocus="TrackFocus(12)" onblur="LeaveGap()" size="7" maxlength="8">
+                         </input></span></td></tr><tr><td>Ele / Ela <span class="GapSpan" id="GapSpan13">
+                         <input type="text" class="GapBox" id="Gap13" onfocus="TrackFocus(13)" onblur="LeaveGap()" size="6" maxlength="7">
+-                        </input></span></td></tr><tr><td>N&#x00F3;s <span class="GapSpan" id="GapSpan14">
++                        </input></span></td></tr><tr><td>N&oacute;s <span class="GapSpan" id="GapSpan14">
+                         <input type="text" class="GapBox" id="Gap14" onfocus="TrackFocus(14)" onblur="LeaveGap()" size="9" maxlength="10">
+                         </input></span></td></tr><tr><td>Eles / Elas <span class="GapSpan" id="GapSpan15">
+                         <input type="text" class="GapBox" id="Gap15" onfocus="TrackFocus(15)" onblur="LeaveGap()" size="7" maxlength="8">
+                         </input></span></td></tr></tbody></table></td></tr><tr><td><table border="1" cellpadding="2" cellspacing="2" bordercolor="#000000" bgcolor="#cfe5b8">
+                   <tbody><tr>
+                       <td width="210" bordercolor="#000000"><strong><font color="#0000FF">e)</font></strong> 
+-                        <strong>correr - futuro do pret&#x00E9;rito</strong></td>
++                        <strong>correr - futuro do pret&eacute;rito</strong></td>
+                     </tr><tr>
+                       <td bordercolor="#000000">Eu <span class="GapSpan" id="GapSpan16"> 
+                         <input type="text" class="GapBox" id="Gap16" onfocus="TrackFocus(16)" onblur="LeaveGap()" size="8" maxlength="9">
+@@ -167,7 +167,7 @@
+                       <td bordercolor="#000000">Ele / Ela <span class="GapSpan" id="GapSpan17"> 
+                         <input type="text" class="GapBox" id="Gap17" onfocus="TrackFocus(17)" onblur="LeaveGap()" size="8" maxlength="9">
+                         </input></span></td></tr><tr>
+-                      <td bordercolor="#000000">N&#x00F3;s <span class="GapSpan" id="GapSpan18"> 
++                      <td bordercolor="#000000">N&oacute;s <span class="GapSpan" id="GapSpan18"> 
+                         <input type="text" class="GapBox" id="Gap18" onfocus="TrackFocus(18)" onblur="LeaveGap()" size="11" maxlength="12">
+                         </input></span></td></tr><tr>
+                       <td bordercolor="#000000">Eles / Elas <span class="GapSpan" id="GapSpan19"> 

@@ -1,0 +1,13 @@
+--- atividades/1004POR024/1004POR02410.htm	2012-05-07 14:41:54.292347340 -0300
++++ atividades/1004POR024/1004POR02410.htm.new	2012-05-07 14:41:54.292347340 -0300
+@@ -60,8 +60,8 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+-  <div id="Instructions">Coloque as s&#x00ED;labas em ordem para formar palavras. 
+-    Depois de conclu&#x00ED;do, clique em "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++  <div id="Instructions">Coloque as s&iacute;labas em ordem para formar palavras. 
++    Depois de conclu&iacute;do, clique em "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">

@@ -1,0 +1,22 @@
+--- atividades/1003POR022/1003POR02204.htm	2012-05-07 14:40:46.064346315 -0300
++++ atividades/1003POR022/1003POR02204.htm.new	2012-05-07 14:40:46.064346315 -0300
+@@ -73,8 +73,8 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+-  <div id="Instructions">Continue conforme o exemplo. Em seguida, clique no bot&#x00E3;o 
+-    "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++  <div id="Instructions">Continue conforme o exemplo. Em seguida, clique no bot&atilde;o 
++    "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -123,7 +123,7 @@
+                   </span></div></td>
+             </tr>
+             <tr> 
+-              <td width="85" bgcolor="#33CCFF">pregui&#x00E7;a</td>
++              <td width="85" bgcolor="#33CCFF">pregui&ccedil;a</td>
+               <td width="85" bgcolor="#cfe5b8"> 
+                 <div align="center"><span class="GapSpan" id="GapSpan3"> 
+                   <input type="text" class="GapBox" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="10" maxlength="14"></input> 

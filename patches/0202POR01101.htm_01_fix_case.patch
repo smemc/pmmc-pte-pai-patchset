@@ -1,0 +1,11 @@
+--- atividades/0202POR011/0202POR01101.htm	2012-05-07 14:30:17.032336863 -0300
++++ atividades/0202POR011/0202POR01101.htm.new	2012-05-07 14:33:48.972340048 -0300
+@@ -730,7 +730,7 @@
+ 		Frm.mark.value = Score;
+ 		Frm.submit();
+ 	}
+-	parent.location.href="0202por01102.htm";
++	parent.location.href="0202POR01102.htm";
+ }
+ 
+ function TypeChars(Chars){

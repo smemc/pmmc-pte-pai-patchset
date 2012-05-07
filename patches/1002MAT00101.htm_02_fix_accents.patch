@@ -1,0 +1,11 @@
+--- atividades/1002MAT001/1002MAT00101.htm	2012-05-07 14:40:01.660345648 -0300
++++ atividades/1002MAT001/1002MAT00101.htm.new	2012-05-07 14:40:01.660345648 -0300
+@@ -73,7 +73,7 @@
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+   <div id="Instructions">Escreva corretamente o n&uacute;mero por extenso. Em 
+-    seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++    seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 

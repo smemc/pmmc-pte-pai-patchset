@@ -1,0 +1,13 @@
+--- atividades/1003POR022/1003POR02203.htm	2012-05-07 14:40:45.864346312 -0300
++++ atividades/1003POR022/1003POR02203.htm.new	2012-05-07 14:40:45.864346312 -0300
+@@ -73,8 +73,8 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+-  <div id="Instructions">Escreva novamente as palavras em ordem alfab&#x00E9;tica. 
+-    Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++  <div id="Instructions">Escreva novamente as palavras em ordem alfab&eacute;tica. 
++    Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 

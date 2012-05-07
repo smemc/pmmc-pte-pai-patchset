@@ -1,0 +1,26 @@
+--- atividades/0603HIS206/0603HIS20601.htm	2012-05-07 14:38:38.060344390 -0300
++++ atividades/0603HIS206/0603HIS20601.htm.new	2012-05-07 14:38:38.060344390 -0300
+@@ -467,11 +467,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Vamos ao Pr&#243;ximo?';
+ var Finished = false;
+ var Locked = false;
+@@ -874,7 +874,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="0" cellpadding="2" cellspacing="2" align="center"><tbody><tr><td colspan="5" align="center"><img src="simb.gif" alt="simb.gif" title="simb" width="600" height="324"></img></td></tr><tr><td align="center" bgcolor="#009c39"><strong>OCEANIA</strong></td><td align="center" bgcolor="#f7c600"><strong>&#x00C1;SIA</strong></td><td align="center" bgcolor="#000000"><strong><font color="#ffffff">&#x00C1;FRICA</font></strong></td><td align="center" bgcolor="#0084c6"><strong>EUROPA</strong></td><td align="center" bgcolor="#de0021"><strong>AM&#x00C9;RICA</strong></td></tr><tr><td align="center"><strong><span class="GapSpan" id="GapSpan0"><select id="Gap0"><option value=""></option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option></select></span></strong></td><td align="center"><strong><span class="GapSpan" id="GapSpan1"><select id="Gap1"><option value=""></option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option></select></span></strong></td><td align="center"><strong><span class="GapSpan" id="GapSpan2"><select id="Gap2"><option value=""></option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option></select></span></strong></td><td align="center"><strong><span class="GapSpan" id="GapSpan3"><select id="Gap3"><option value=""></option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option></select></span></strong></td><td align="center"><strong><span class="GapSpan" id="GapSpan4"><select id="Gap4"><option value=""></option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option></select></span></strong></td></tr></tbody></table>
++<table border="0" cellpadding="2" cellspacing="2" align="center"><tbody><tr><td colspan="5" align="center"><img src="simb.gif" alt="simb.gif" title="simb" width="600" height="324"></img></td></tr><tr><td align="center" bgcolor="#009c39"><strong>OCEANIA</strong></td><td align="center" bgcolor="#f7c600"><strong>&Aacute;SIA</strong></td><td align="center" bgcolor="#000000"><strong><font color="#ffffff">&Aacute;FRICA</font></strong></td><td align="center" bgcolor="#0084c6"><strong>EUROPA</strong></td><td align="center" bgcolor="#de0021"><strong>AM&Eacute;RICA</strong></td></tr><tr><td align="center"><strong><span class="GapSpan" id="GapSpan0"><select id="Gap0"><option value=""></option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option></select></span></strong></td><td align="center"><strong><span class="GapSpan" id="GapSpan1"><select id="Gap1"><option value=""></option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option></select></span></strong></td><td align="center"><strong><span class="GapSpan" id="GapSpan2"><select id="Gap2"><option value=""></option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option></select></span></strong></td><td align="center"><strong><span class="GapSpan" id="GapSpan3"><select id="Gap3"><option value=""></option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option></select></span></strong></td><td align="center"><strong><span class="GapSpan" id="GapSpan4"><select id="Gap4"><option value=""></option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option></select></span></strong></td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

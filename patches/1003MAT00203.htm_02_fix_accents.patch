@@ -1,0 +1,40 @@
+--- atividades/1003MAT002/1003MAT00203.htm	2012-05-07 14:40:14.764345842 -0300
++++ atividades/1003MAT002/1003MAT00203.htm.new	2012-05-07 14:40:14.768345844 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Wilson Junior" />
+-<meta name="DC:Title" content="SISTEMA DE NUMERA&#x00C7;&#x00C3;O DECIMAL - CENTENAS II" />
++<meta name="DC:Title" content="SISTEMA DE NUMERA&Ccedil;&Atilde;O DECIMAL - CENTENAS II" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -66,7 +66,7 @@
+ </p>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">SISTEMA DE NUMERA&#x00C7;&#x00C3;O DECIMAL - CENTENAS II</h2>
++	<h2 class="ExerciseTitle">SISTEMA DE NUMERA&Ccedil;&Atilde;O DECIMAL - CENTENAS II</h2>
+ 
+ 
+ 
+@@ -74,8 +74,8 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+-  <div id="Instructions">Escreva com algarismos. Em seguida, clique no bot&#x00E3;o 
+-    "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++  <div id="Instructions">Escreva com algarismos. Em seguida, clique no bot&atilde;o 
++    "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -113,7 +113,7 @@
+               <td><span class="GapSpan" id="GapSpan2"> 
+                 <input type="text" class="GapBox" id="Gap2" style="width: 3em;" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="3" maxlength="3">
+                 </input></span></td>
+-              <td>Seiscentos e setenta e tr&#x00EA;s</td>
++              <td>Seiscentos e setenta e tr&ecirc;s</td>
+             </tr>
+             <tr bgcolor="#cfe5b8"> 
+               <td><span class="GapSpan" id="GapSpan3"> 

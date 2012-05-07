@@ -1,0 +1,28 @@
+--- atividades/1004POR011/1004POR01103.htm	2012-05-07 14:41:22.272346859 -0300
++++ atividades/1004POR011/1004POR01103.htm.new	2012-05-07 14:41:22.272346859 -0300
+@@ -75,7 +75,7 @@
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+   <div id="Instructions">Complete com <strong><em>lhe</em></strong> ou <strong><em>lhes</em></strong>. 
+-    Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++    Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -97,13 +97,13 @@
+ <div class="ClozeBody">
+ a) Encontrei meu amigo e dei-<span class="GapSpan" id="GapSpan0">
+         <input type="text" class="GapBox" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="4" maxlength="4">
+-        </input></span> um abra&#x00E7;o.<br />b) Conversei com a professora e entreguei-<span class="GapSpan" id="GapSpan1">
++        </input></span> um abra&ccedil;o.<br />b) Conversei com a professora e entreguei-<span class="GapSpan" id="GapSpan1">
+         <input type="text" class="GapBox" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="4" maxlength="4">
+-        </input></span> a tarefa.<br />c) V&#x00E2;nia chamou as crian&#x00E7;as e serviu-<span class="GapSpan" id="GapSpan2">
++        </input></span> a tarefa.<br />c) V&acirc;nia chamou as crian&ccedil;as e serviu-<span class="GapSpan" id="GapSpan2">
+         <input type="text" class="GapBox" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="4" maxlength="4">
+         </input></span> a merenda.<br />d) Marcos cuidou dos gatos e deu-<span class="GapSpan" id="GapSpan3">
+         <input type="text" class="GapBox" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="4" maxlength="4">
+-        </input></span> um pouco de leite.<br />e) Raquel foi &#x00E0; festa do Leonardo e deu-<span class="GapSpan" id="GapSpan4">
++        </input></span> um pouco de leite.<br />e) Raquel foi &agrave; festa do Leonardo e deu-<span class="GapSpan" id="GapSpan4">
+         <input type="text" class="GapBox" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="4" maxlength="4">
+         </input></span> um presente.<br />f) Lucas ouviu Gustavo e prometeu-<span class="GapSpan" id="GapSpan5">
+         <input type="text" class="GapBox" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" size="4" maxlength="4">

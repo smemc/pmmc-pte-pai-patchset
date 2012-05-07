@@ -1,0 +1,11 @@
+--- atividades/0602POR067/0602POR06701.htm	2012-05-07 14:38:00.884343833 -0300
++++ atividades/0602POR067/0602POR06701.htm.new	2012-05-07 14:38:00.888343833 -0300
+@@ -6,7 +6,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+ <meta name="DC:Creator" content="Angelo Camargo" />
+-<meta name="DC:Title" content="&#x003C;img src=&quot;animal0033.gif&quot; width=&quot;192&quot; height=&quot;86&quot;&#x003E;&#x003C;/img&#x003E;A cigarra e as formigas&#x003C;img src=&quot;animal0035.gif&quot; alt=&quot;animal0035.gif&quot; title=&quot;Animal0035&quot; width=&quot;227&quot; height=&quot;11&quot;&#x003E;&#x003C;/img&#x003E;" />
++<meta name="DC:Title" content="&lt;img src=&quot;animal0033.gif&quot; width=&quot;192&quot; height=&quot;86&quot;&gt;&lt;/img&gt;A cigarra e as formigas&lt;img src=&quot;animal0035.gif&quot; alt=&quot;animal0035.gif&quot; title=&quot;Animal0035&quot; width=&quot;227&quot; height=&quot;11&quot;&gt;&lt;/img&gt;" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 

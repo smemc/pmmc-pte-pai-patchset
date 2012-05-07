@@ -1,0 +1,49 @@
+--- atividades/1003MAT001/1003MAT00101.htm	2012-05-07 14:40:13.192345819 -0300
++++ atividades/1003MAT001/1003MAT00101.htm.new	2012-05-07 14:40:13.192345819 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
+-<meta name="DC:Title" content="SISTEMA DE NUMERA&#x00C7;&#x00C3;O DECIMAL - CENTENAS" />
++<meta name="DC:Title" content="SISTEMA DE NUMERA&Ccedil;&Atilde;O DECIMAL - CENTENAS" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -66,7 +66,7 @@
+ </p>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">SISTEMA DE NUMERA&#x00C7;&#x00C3;O DECIMAL - CENTENAS</h2>
++	<h2 class="ExerciseTitle">SISTEMA DE NUMERA&Ccedil;&Atilde;O DECIMAL - CENTENAS</h2>
+ 
+ 
+ 
+@@ -74,8 +74,8 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+-  <div id="Instructions">Que n&#x00FA;meros s&#x00E3;o esses? Escreva-os com algarismos. 
+-    Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++  <div id="Instructions">Que n&uacute;meros s&atilde;o esses? Escreva-os com algarismos. 
++    Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -101,7 +101,7 @@
+               <td><span class="GapSpan" id="GapSpan0"> 
+                 <input type="text" class="GapBox" id="Gap0" style="width: 3em;" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="3" maxlength="3">
+                 </input></span></td>
+-              <td>Tr&#x00EA;s centenas, duas dezenas e cinco unidades.</td>
++              <td>Tr&ecirc;s centenas, duas dezenas e cinco unidades.</td>
+             </tr>
+             <tr bgcolor="#cfe5b8"> 
+               <td><span class="GapSpan" id="GapSpan1"> 
+@@ -125,7 +125,7 @@
+               <td><span class="GapSpan" id="GapSpan4"> 
+                 <input type="text" class="GapBox" id="Gap4" style="width: 3em;" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="3" maxlength="3">
+                 </input></span></td>
+-              <td>Tr&#x00EA;s centenas e nove unidades.</td>
++              <td>Tr&ecirc;s centenas e nove unidades.</td>
+             </tr>
+             <tr bgcolor="#cfe5b8"> 
+               <td><span class="GapSpan" id="GapSpan5"> 

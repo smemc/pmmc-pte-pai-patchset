@@ -1,0 +1,38 @@
+--- atividades/1004POR009/1004POR00901.htm	2012-05-07 14:41:15.024346750 -0300
++++ atividades/1004POR009/1004POR00901.htm.new	2012-05-07 14:41:15.024346750 -0300
+@@ -77,7 +77,7 @@
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+   <div id="Instructions">Complete com o pronome pessoal adequado. Em seguida, 
+-    clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio. </div>
++    clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio. </div>
+ </div>
+ 
+ 
+@@ -97,21 +97,21 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="1" cellpadding="2" cellspacing="2" bgcolor = "white" align="center"><tbody><tr><td><font size = 5><bold>EU - ELE/ELA - N&#x00D3;S - ELES/ELAS</bold></font></td></tr></tbody></table><br /><br />a) Ontem <span class="GapSpan" id="GapSpan0">
++<table border="1" cellpadding="2" cellspacing="2" bgcolor = "white" align="center"><tbody><tr><td><font size = 5><bold>EU - ELE/ELA - N&Oacute;S - ELES/ELAS</bold></font></td></tr></tbody></table><br /><br />a) Ontem <span class="GapSpan" id="GapSpan0">
+         <input type="text" class="GapBox" id="Gap0" style="width: 2em;" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="2" maxlength="3">
+-        </input></span> aprendi uma nova li&#x00E7;&#x00E3;o.<br />b) <span class="GapSpan" id="GapSpan1">
++        </input></span> aprendi uma nova li&ccedil;&atilde;o.<br />b) <span class="GapSpan" id="GapSpan1">
+         <input type="text" class="GapBox" id="Gap1" style="width: 3em;" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="3" maxlength="4">
+         </input></span> gostamos de brincar junto no recreio.<br />c) Se <span class="GapSpan" id="GapSpan2">
+         <input type="text" class="GapBox" id="Gap2" style="width: 4em;" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="4" maxlength="5">
+-        </input></span> merecerem, ganhar&#x00E3;o uma nova boneca.<br />d) A aula acabou e <span class="GapSpan" id="GapSpan3">
++        </input></span> merecerem, ganhar&atilde;o uma nova boneca.<br />d) A aula acabou e <span class="GapSpan" id="GapSpan3">
+         <input type="text" class="GapBox" id="Gap3" style="width: 3em;" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="3" maxlength="4">
+         </input></span> foi jogar bola.<br />e) Quando <span class="GapSpan" id="GapSpan4">
+         <input type="text" class="GapBox" id="Gap4" style="width: 4em;" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="4" maxlength="5">
+-        </input></span> se encontrarem, combinar&#x00E3;o os detalhes do jogo.<br />f) <span class="GapSpan" id="GapSpan5">
++        </input></span> se encontrarem, combinar&atilde;o os detalhes do jogo.<br />f) <span class="GapSpan" id="GapSpan5">
+         <input type="text" class="GapBox" id="Gap5" style="width: 3em;" onfocus="TrackFocus(5)" onblur="LeaveGap()" size="3" maxlength="4">
+         </input></span> penteia seu cabelo e sempre coloca presilha.<br />g) Se der tempo, <span class="GapSpan" id="GapSpan6">
+         <input type="text" class="GapBox" id="Gap6" style="width: 3em;" onfocus="TrackFocus(6)" onblur="LeaveGap()" size="3" maxlength="4">
+-        </input></span> ouviremos m&#x00FA;sica.<br />h) Amanh&#x00E3; <span class="GapSpan" id="GapSpan7">
++        </input></span> ouviremos m&uacute;sica.<br />h) Amanh&atilde; <span class="GapSpan" id="GapSpan7">
+         <input type="text" class="GapBox" id="Gap7" style="width: 2em;" onfocus="TrackFocus(7)" onblur="LeaveGap()" size="2" maxlength="3">
+         </input></span> lerei um livro em casa.
+ </div>
