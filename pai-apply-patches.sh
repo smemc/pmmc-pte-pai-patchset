@@ -19,7 +19,6 @@ apply_patches() {
     echo "$count files patched."
 
     sleep 1
-    count=0
 }
 
 apply_patches $1
