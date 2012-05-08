@@ -6,8 +6,8 @@ Introdução
 
 Esta é uma coleção de patches (correções) para o PAI 2.11.2, cujo objetivo principal é fazê-lo funcionar corretamente em servidores Linux, resolvendo basicamente dois tipos de problemas:
 
-1. Diferenças na caixa (maiúsculas/minúsculas) dos nomes de arquivos referenciados nas páginas HTML.
-2. Diferenças na codificação de letras acentuadas (ISO-8859-1 ou UTF-8).
+1. Divergências na caixa (maiúsculas/minúsculas) dos nomes de arquivos referenciados nas páginas HTML.
+2. Divergências na codificação de letras acentuadas (ISO-8859-1 ou UTF-8).
 
 Esta coleção adota as seguintes convenções para corrigir as devergências:
 
