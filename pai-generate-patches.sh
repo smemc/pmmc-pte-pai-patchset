@@ -2,9 +2,9 @@
 
 generate_patches() {
     DATA_DEST=$1
-    PATCHES_DEST=$2/patches
-    rm -rf $PATCHES_DEST
-    mkdir $PATCHES_DEST
+    PDIR=$PWD/patches
+    rm -rf $PDIR
+    mkdir $PDIR
 
     echo "Generating patches for filename case/accents fix. This may take a long time."
     sleep 1
@@ -25,8 +25,8 @@ generate_patches() {
             SED_ARGS="$SED_ARGS -e s@$lc_path@$lc_path@gi -e s@$(basename $lc_path)@$(basename $lc_path)@gi"
         done
 
-        patch_case_file="$PATCHES_DEST/$(basename ${file_htm})_01_fix_case.patch"
-        patch_accents_file="$PATCHES_DEST/$(basename ${file_htm})_02_fix_accents.patch"
+        patch_case_file="$PDIR/$(basename ${file_htm})_01_fix_case.patch"
+        patch_accents_file="$PDIR/$(basename ${file_htm})_02_fix_accents.patch"
         
         if [ "x$SED_ARGS" != "x" ]
         then
@@ -75,8 +75,8 @@ generate_patches() {
             SED_ARGS="$SED_ARGS -e s@$bfile@$bfile@gi -e s@$(basename $bfile)@$(basename $bfile)@gi"
         done
 
-        patch_case_file="$PATCHES_DEST/$(basename ${file_html})_01_fix_case.patch"
-        patch_accents_file="$PATCHES_DEST/$(basename ${file_html})_02_fix_accents.patch"
+        patch_case_file="$PDIR/$(basename ${file_html})_01_fix_case.patch"
+        patch_accents_file="$PDIR/$(basename ${file_html})_02_fix_accents.patch"
 
         if [ "x$SED_ARGS" != "x" ]
         then
@@ -116,4 +116,4 @@ generate_patches() {
     echo "TOTAL: $read_count files read; $count patches generated."
 }
 
-generate_patches $1 $2
+generate_patches $1
