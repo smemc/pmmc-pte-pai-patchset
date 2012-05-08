@@ -20,7 +20,7 @@ Modo de usar
 Para utilizar estes recursos, siga o procedimento abaixo:
 
 1. Instale o Git (em distribuições derivadas do Ubuntu, execute `sudo apt-get install git-core`).
-2. Copie este repoitório com o comando `git clone git://github.com/lbssousa/pmmc-pte-pai-patchset.git`. Substitua `git://` por `https://` em caso de dificuldade de acesso.
+2. Copie este repoitório com o comando `git clone git://github.com/oiteam/pmmc-pte-pai-patchset.git`. Substitua `git://` por `https://` em caso de dificuldade de acesso.
 3. Vá para o diretório recém-copiado: `cd pmmc-pte-pai-patchset`.
 4. Execute o script para renomear os arquivos do PAI (exemplo: `sudo ./pai-rename-files.sh /usr/share/PTE-PMMC/pai`). Um novo diretório `pai.fixed` será criado.
 5. **[OPCIONAL]** Se desejar recriar os patches, execute o script apropriado (exemplo: `sudo ./pai-generate-patches.sh /usr/share/PTE-PMMC/pai.fixed`).
