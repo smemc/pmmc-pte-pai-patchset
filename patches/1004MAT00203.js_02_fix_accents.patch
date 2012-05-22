@@ -1,0 +1,25 @@
+--- atividades/1004MAT002/1004MAT00203.js	2012-05-22 15:55:07.145982908 -0300
++++ atividades/1004MAT002/1004MAT00203.js.new	2012-05-22 15:55:07.145982908 -0300
+@@ -478,10 +478,10 @@
+ var Feedback = '';
+ var AcrossCaption = '';
+ var DownCaption = '';
+-var Correct = 'Parab&#x00E9;ns! Bom trabalho. <br><br> Agora vamos para o pr&#x00F3;ximo exerc&#x00ED;cio.';
+-var Incorrect = 'Algumas respostas est&#x00E3;o erradas. Tente novamente.'; 
++var Correct = 'Parab&eacute;ns! Bom trabalho. <br><br> Agora vamos para o pr&oacute;ximo exerc&iacute;cio.';
++var Incorrect = 'Algumas respostas est&atilde;o erradas. Tente novamente.'; 
+ var GiveHint = 'A correct letter has been added.';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+ var Penalties = 0;
+@@ -513,7 +513,7 @@
+ 
+ 
+ 
+-	PreloadImages('imagens/trezevinteecincoavos.jpg','imagens/seisquinzeavos.jpg','imagens/doissextos.jpg','imagens/quatroquartos.jpg','imagens/cincodecimos.jpg','imagens/cincosetimos.jpg','imagens/meio.jpg','imagens/tresnonos.jpg','imagens/tresoitavos.jpg','imagens/novedezoitoavos.jpg','imagens/doister&#x00E7;os.JPG','imagens/umquinto.jpg');
++	PreloadImages('imagens/trezevinteecincoavos.jpg','imagens/seisquinzeavos.jpg','imagens/doissextos.jpg','imagens/quatroquartos.jpg','imagens/cincodecimos.jpg','imagens/cincosetimos.jpg','imagens/meio.jpg','imagens/tresnonos.jpg','imagens/tresoitavos.jpg','imagens/novedezoitoavos.jpg','imagens/doister&ccedil;os.JPG','imagens/umquinto.jpg');
+ 
+ 
+ 

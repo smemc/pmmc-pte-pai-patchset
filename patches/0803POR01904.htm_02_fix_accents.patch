@@ -1,5 +1,14 @@
---- atividades/0803POR019/0803POR01904.htm	2012-05-07 14:39:36.348345267 -0300
-+++ atividades/0803POR019/0803POR01904.htm.new	2012-05-07 14:39:36.352345268 -0300
+--- atividades/0803POR019/0803POR01904.htm	2012-05-22 15:49:47.357978104 -0300
++++ atividades/0803POR019/0803POR01904.htm.new	2012-05-22 15:49:47.361978103 -0300
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
 @@ -58,7 +58,7 @@
  <div class="Titles">
  	<h2 class="ExerciseTitle">Atividade sobre o folclore</h2>

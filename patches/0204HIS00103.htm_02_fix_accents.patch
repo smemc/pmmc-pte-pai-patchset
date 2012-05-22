@@ -1,5 +1,14 @@
---- atividades/0204HIS001/0204HIS00103.htm	2012-05-07 14:34:18.688340494 -0300
-+++ atividades/0204HIS001/0204HIS00103.htm.new	2012-05-07 14:34:18.692340493 -0300
+--- atividades/0204HIS001/0204HIS00103.htm	2012-05-22 15:44:05.477972967 -0300
++++ atividades/0204HIS001/0204HIS00103.htm.new	2012-05-22 15:44:05.481972967 -0300
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
 @@ -434,10 +434,10 @@
  var Feedback = '';
  var AcrossCaption = '';

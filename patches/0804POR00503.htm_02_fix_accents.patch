@@ -1,5 +1,14 @@
---- atividades/0804POR005/0804POR00503.htm	2012-05-07 14:39:50.620345482 -0300
-+++ atividades/0804POR005/0804POR00503.htm.new	2012-05-07 14:39:50.624345482 -0300
+--- atividades/0804POR005/0804POR00503.htm	2012-05-22 15:50:02.253978327 -0300
++++ atividades/0804POR005/0804POR00503.htm.new	2012-05-22 15:50:02.253978327 -0300
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
 @@ -58,14 +58,14 @@
  <div class="Titles">
  	<h2 class="ExerciseTitle">Pronome Pessoal</h2>

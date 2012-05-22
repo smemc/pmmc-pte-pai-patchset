@@ -1,5 +1,5 @@
---- atividades/0803MAT001/0803MAT00101.htm	2012-05-07 14:39:21.040345036 -0300
-+++ atividades/0803MAT001/0803MAT00101.htm.new	2012-05-07 14:39:21.040345036 -0300
+--- atividades/0803MAT001/0803MAT00101.htm	2012-05-22 15:49:31.597977867 -0300
++++ atividades/0803MAT001/0803MAT00101.htm.new	2012-05-22 15:49:31.601977867 -0300
 @@ -7,7 +7,7 @@
  <meta name="DC:Creator" content="Danilo  F. A. Moraes" />
  <meta name="DC:Creator" content="Orientador" />
@@ -9,6 +9,15 @@
  
  
  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
 @@ -58,14 +58,14 @@
  </div>
  

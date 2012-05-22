@@ -1,5 +1,5 @@
---- atividades/imagens/fim.htm	2012-05-07 14:30:11.980336787 -0300
-+++ atividades/imagens/fim.htm.new	2012-05-07 14:42:39.984348026 -0300
+--- atividades/imagens/fim.htm	2012-05-22 15:31:09.377961305 -0300
++++ atividades/imagens/fim.htm.new	2012-05-22 15:52:54.441980914 -0300
 @@ -14,7 +14,7 @@
  	document.onmousedown=click;
  </script>

@@ -1,5 +1,5 @@
---- atividades/0804GEO002/0804GEO00202.htm	2012-05-07 14:39:39.888345319 -0300
-+++ atividades/0804GEO002/0804GEO00202.htm.new	2012-05-07 14:39:39.888345319 -0300
+--- atividades/0804GEO002/0804GEO00202.htm	2012-05-22 15:49:51.061978159 -0300
++++ atividades/0804GEO002/0804GEO00202.htm.new	2012-05-22 15:49:51.061978159 -0300
 @@ -5,7 +5,7 @@
  
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
@@ -9,6 +9,15 @@
  
  
  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
 @@ -57,7 +57,7 @@
  <!-- EndTopNavButtons -->
  

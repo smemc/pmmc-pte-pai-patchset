@@ -1,5 +1,14 @@
---- atividades/0804POR001/0804POR00102.htm	2012-05-07 14:39:44.216345386 -0300
-+++ atividades/0804POR001/0804POR00102.htm.new	2012-05-07 14:39:44.216345386 -0300
+--- atividades/0804POR001/0804POR00102.htm	2012-05-22 15:49:55.573978227 -0300
++++ atividades/0804POR001/0804POR00102.htm.new	2012-05-22 15:49:55.573978227 -0300
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
 @@ -60,14 +60,14 @@
  <div class="Titles">
  	<h2 class="ExerciseTitle">Substantivo Coletivo</h2>

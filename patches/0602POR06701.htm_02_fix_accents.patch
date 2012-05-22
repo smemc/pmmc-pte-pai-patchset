@@ -1,5 +1,5 @@
---- atividades/0602POR067/0602POR06701.htm	2012-05-07 14:38:00.884343833 -0300
-+++ atividades/0602POR067/0602POR06701.htm.new	2012-05-07 14:38:00.888343833 -0300
+--- atividades/0602POR067/0602POR06701.htm	2012-05-22 15:48:04.929976565 -0300
++++ atividades/0602POR067/0602POR06701.htm.new	2012-05-22 15:48:04.933976565 -0300
 @@ -6,7 +6,7 @@
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
  <meta name="DC:Creator" content="DIGERATI" />
@@ -9,3 +9,12 @@
  
  
  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -24,7 +24,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]

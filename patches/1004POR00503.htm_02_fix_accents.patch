@@ -1,5 +1,14 @@
---- atividades/1004POR005/1004POR00503.htm	2012-05-07 14:41:13.712346729 -0300
-+++ atividades/1004POR005/1004POR00503.htm.new	2012-05-07 14:41:13.712346729 -0300
+--- atividades/1004POR005/1004POR00503.htm	2012-05-22 15:51:25.885979584 -0300
++++ atividades/1004POR005/1004POR00503.htm.new	2012-05-22 15:51:25.885979584 -0300
+@@ -13,7 +13,7 @@
+ <title>.:: PAI - Pacote de Atividades de Informática ::.</title>
+ 
+     <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
 @@ -434,11 +434,11 @@
  }
  

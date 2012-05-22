@@ -1,5 +1,5 @@
---- atividades/0202POR006/0202POR00602.htm	2012-05-07 14:33:37.156339870 -0300
-+++ atividades/0202POR006/0202POR00602.htm.new	2012-05-07 14:33:37.160339870 -0300
+--- atividades/0202POR006/0202POR00602.htm	2012-05-22 15:43:19.697972278 -0300
++++ atividades/0202POR006/0202POR00602.htm.new	2012-05-22 15:43:19.701972278 -0300
 @@ -7,7 +7,7 @@
  
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
@@ -9,6 +9,15 @@
  
  
  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
 @@ -584,9 +584,9 @@
  
  

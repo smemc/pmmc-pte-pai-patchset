@@ -1,6 +1,24 @@
---- atividades/1304MAT001/1304MAT00104.htm	2012-05-07 14:42:22.596347765 -0300
-+++ atividades/1304MAT001/1304MAT00104.htm.new	2012-05-07 14:42:22.600347766 -0300
-@@ -465,11 +465,11 @@
+--- atividades/1304MAT001/1304MAT00104.htm	2012-05-22 15:52:36.205980640 -0300
++++ atividades/1304MAT001/1304MAT00104.htm.new	2012-05-22 15:52:36.205980640 -0300
+@@ -6,7 +6,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Luiz Beraldo" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="Encontre os n&#250;meros que completam as opera&#231;&#245;es matem&#225;ticas" />
++<meta name="DC:Title" content="Encontre os n&uacute;meros que completam as opera&ccedil;&otilde;es matem&aacute;ticas" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -465,12 +465,12 @@
  }
  
  var Feedback = '';
@@ -11,10 +29,12 @@
  var GiveHint = 'Foi adicionada a letra seguinte';
  var CaseSensitive = false;
 -var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
+-var Proximo = 'Vamos ao Pr&#243;ximo?';
 +var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
- var Proximo = 'Vamos ao Pr&#243;ximo?';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
  var Finished = false;
  var Locked = false;
+ var Score = 0;
 @@ -849,7 +849,7 @@
  
  <div class="Titles"> 

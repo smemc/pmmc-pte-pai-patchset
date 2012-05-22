@@ -1,5 +1,23 @@
---- atividades/0704CIE005/0704CIE00501.htm	2012-05-07 14:39:19.136345009 -0300
-+++ atividades/0704CIE005/0704CIE00501.htm.new	2012-05-07 14:39:19.136345009 -0300
+--- atividades/0704CIE005/0704CIE00501.htm	2012-05-22 15:49:29.537977836 -0300
++++ atividades/0704CIE005/0704CIE00501.htm.new	2012-05-22 15:49:29.537977836 -0300
+@@ -19,7 +19,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Informatica - C&#243;digo comentado para separar o CSS do arquivo HTML
++<!-- Orientadores de Informatica - C&oacute;digo comentado para separar o CSS do arquivo HTML
+ <style type="text/css">
+ 
+ [strStyleSheet1]
+@@ -62,7 +62,7 @@
+ 
+ 
+ 
+-<!-- Orientadores de inform&#225;tica - Inclui cabe&#231;alho SME-->
++<!-- Orientadores de inform&aacute;tica - Inclui cabe&ccedil;alho SME-->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" />
+ </p>
+ 
 @@ -77,7 +77,7 @@
  </div>
  
@@ -18,3 +36,12 @@
  </div>
  </form>
  </div>
+@@ -136,7 +136,7 @@
+ 
+ 
+ 
+-<!-- Orientadores de inform&#225;tica - Inclui os cr&#233;ditos -->
++<!-- Orientadores de inform&aacute;tica - Inclui os cr&eacute;ditos -->
+ <!--<div align="center"><img src="rodape.png" /> </div>-->
+ 
+ <!-- EndBottomNavButtons -->

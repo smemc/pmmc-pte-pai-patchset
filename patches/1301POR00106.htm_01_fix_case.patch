@@ -1,5 +1,5 @@
---- atividades/1301POR001/1301POR00106.htm	2012-05-07 14:30:23.192336956 -0300
-+++ atividades/1301POR001/1301POR00106.htm.new	2012-05-07 14:42:05.064347502 -0300
+--- atividades/1301POR001/1301POR00106.htm	2012-05-22 15:30:31.469960735 -0300
++++ atividades/1301POR001/1301POR00106.htm.new	2012-05-22 15:52:17.493980360 -0300
 @@ -767,13 +767,13 @@
  F[1][0]='<br /><center><img src="microfone.gif" title="barra" width="80" height="80"></img><br />Microfone rima com?';
  F[1][1] = 2;

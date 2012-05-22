@@ -1,5 +1,14 @@
---- atividades/0802GEO002/0802GEO00201.htm	2012-05-07 14:39:19.532345015 -0300
-+++ atividades/0802GEO002/0802GEO00201.htm.new	2012-05-07 14:39:19.536345015 -0300
+--- atividades/0802GEO002/0802GEO00201.htm	2012-05-22 15:49:29.973977842 -0300
++++ atividades/0802GEO002/0802GEO00201.htm.new	2012-05-22 15:49:29.977977842 -0300
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
 @@ -51,14 +51,14 @@
  <div class="Titles">
  	<h2 class="ExerciseTitle">Conhecendo os Estados e Capitais do Brasil</h2>

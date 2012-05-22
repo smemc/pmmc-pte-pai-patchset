@@ -1,7 +1,15 @@
---- atividades/0203POR009/0203POR00904.htm	2012-05-07 14:34:16.760340465 -0300
-+++ atividades/0203POR009/0203POR00904.htm.new	2012-05-07 14:34:16.764340464 -0300
-@@ -9,7 +9,7 @@
- <meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
+--- atividades/0203POR009/0203POR00904.htm	2012-05-22 15:44:03.333972934 -0300
++++ atividades/0203POR009/0203POR00904.htm.new	2012-05-22 15:44:03.337972934 -0300
+@@ -3,13 +3,13 @@
+        <html xmlns="http://www.w3.org/1999/xhtml"
+              xml:lang="en">
+ <head>
+-<meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&#225;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
++<meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&aacute;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+-<meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
++<meta name="DC:Creator" content="Orientadores de Inform&aacute;tica" />
  <meta name="DC:Creator" content="Marlon Militani" />
  <meta name="DC:Creator" content="UNREGISTERED" />
 -<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE PORTUGU&#x00CA;S" />
@@ -9,6 +17,15 @@
  
  
  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
 @@ -481,11 +481,11 @@
  }
  

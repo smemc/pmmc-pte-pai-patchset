@@ -1,5 +1,14 @@
---- atividades/0601MAT215/0601MAT21508.htm	2012-05-07 14:36:21.908342346 -0300
-+++ atividades/0601MAT215/0601MAT21508.htm.new	2012-05-07 14:36:21.912342346 -0300
+--- atividades/0601MAT215/0601MAT21508.htm	2012-05-22 15:46:17.393974948 -0300
++++ atividades/0601MAT215/0601MAT21508.htm.new	2012-05-22 15:46:17.397974949 -0300
+@@ -24,7 +24,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
 @@ -590,7 +590,7 @@
  
  var CorrectResponse = 'MUITO BEM!';

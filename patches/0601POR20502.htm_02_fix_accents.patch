@@ -1,5 +1,14 @@
---- atividades/0601POR205/0601POR20502.htm	2012-05-07 14:37:17.292343178 -0300
-+++ atividades/0601POR205/0601POR20502.htm.new	2012-05-07 14:37:17.296343178 -0300
+--- atividades/0601POR205/0601POR20502.htm	2012-05-22 15:47:17.153975846 -0300
++++ atividades/0601POR205/0601POR20502.htm.new	2012-05-22 15:47:17.157975846 -0300
+@@ -23,7 +23,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
 @@ -589,7 +589,7 @@
  
  var CorrectResponse = 'MUITO BEM!';

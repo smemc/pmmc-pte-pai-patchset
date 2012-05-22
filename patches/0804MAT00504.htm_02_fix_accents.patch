@@ -1,5 +1,14 @@
---- atividades/0804MAT005/0804MAT00504.htm	2012-05-07 14:39:43.624345377 -0300
-+++ atividades/0804MAT005/0804MAT00504.htm.new	2012-05-07 14:39:43.624345377 -0300
+--- atividades/0804MAT005/0804MAT00504.htm	2012-05-22 15:49:54.949978217 -0300
++++ atividades/0804MAT005/0804MAT00504.htm.new	2012-05-22 15:49:54.949978217 -0300
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
 @@ -58,14 +58,14 @@
  <div class="Titles">
  	<h2 class="ExerciseTitle">Copa do Mundo de Futebol</h2>

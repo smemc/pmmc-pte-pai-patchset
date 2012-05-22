@@ -1,5 +1,14 @@
---- atividades/1001POR003/1001POR00302.htm	2012-05-07 14:39:58.236345596 -0300
-+++ atividades/1001POR003/1001POR00302.htm.new	2012-05-07 14:39:58.236345596 -0300
+--- atividades/1001POR003/1001POR00302.htm	2012-05-22 15:50:10.229978447 -0300
++++ atividades/1001POR003/1001POR00302.htm.new	2012-05-22 15:50:10.233978447 -0300
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
 @@ -584,9 +584,9 @@
  
  

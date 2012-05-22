@@ -1,5 +1,5 @@
---- atividades/0204MAT001/0204MAT00102.htm	2012-05-07 14:34:19.364340504 -0300
-+++ atividades/0204MAT001/0204MAT00102.htm.new	2012-05-07 14:34:19.364340504 -0300
+--- atividades/0204MAT001/0204MAT00102.htm	2012-05-22 15:44:06.221972977 -0300
++++ atividades/0204MAT001/0204MAT00102.htm.new	2012-05-22 15:44:06.225972978 -0300
 @@ -8,7 +8,7 @@
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
  <meta name="DC:Creator" content="Marlon Militani" />
@@ -9,6 +9,15 @@
  
  
  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
 @@ -443,11 +443,11 @@
  }
  

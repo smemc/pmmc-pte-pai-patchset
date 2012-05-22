@@ -1,0 +1,11 @@
+--- atividades/0603MAT008/0603MAT00801.js	2012-05-22 15:31:23.729961520 -0300
++++ atividades/0603MAT008/0603MAT00801.js.new	2012-05-22 15:53:07.601981112 -0300
+@@ -634,7 +634,7 @@
+ 
+ 
+ 
+-	PreloadImages('BARRA.gif');
++	PreloadImages('barra.gif');
+ 
+ 
+ 	var i = 0;

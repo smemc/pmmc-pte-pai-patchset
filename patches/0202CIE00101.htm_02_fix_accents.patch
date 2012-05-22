@@ -1,5 +1,14 @@
---- atividades/0202CIE001/0202CIE00101.htm	2012-05-07 14:33:09.608339456 -0300
-+++ atividades/0202CIE001/0202CIE00101.htm.new	2012-05-07 14:33:09.608339456 -0300
+--- atividades/0202CIE001/0202CIE00101.htm	2012-05-22 15:42:48.885971815 -0300
++++ atividades/0202CIE001/0202CIE00101.htm.new	2012-05-22 15:42:48.885971815 -0300
+@@ -23,7 +23,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
 @@ -437,10 +437,10 @@
  var Feedback = '';
  var AcrossCaption = '';

@@ -1,6 +1,15 @@
---- atividades/0601POR078/0601POR07801.htm	2012-05-07 14:36:55.944342858 -0300
-+++ atividades/0601POR078/0601POR07801.htm.new	2012-05-07 14:36:55.944342858 -0300
-@@ -464,11 +464,11 @@
+--- atividades/0601POR078/0601POR07801.htm	2012-05-22 15:46:53.813975496 -0300
++++ atividades/0601POR078/0601POR07801.htm.new	2012-05-22 15:46:53.813975496 -0300
+@@ -18,7 +18,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -464,12 +464,12 @@
  }
  
  var Feedback = '';
@@ -11,10 +20,12 @@
  var GiveHint = '';
  var CaseSensitive = false;
 -var YourScoreIs = 'Sua pontu&#x00E7;&#x00E3;o &#x00E9; de: ';
+-var Proximo = 'Vamos ao Pr&#243;ximo?';
 +var YourScoreIs = 'Sua pontu&ccedil;&atilde;o &eacute; de: ';
- var Proximo = 'Vamos ao Pr&#243;ximo?';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
  var Finished = false;
  var Locked = false;
+ var Score = 0;
 @@ -1177,7 +1177,7 @@
  </div>
  

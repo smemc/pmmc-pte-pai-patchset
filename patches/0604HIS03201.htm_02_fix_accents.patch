@@ -1,5 +1,5 @@
---- atividades/0604HIS032/0604HIS03201.htm	2012-05-07 14:38:57.868344689 -0300
-+++ atividades/0604HIS032/0604HIS03201.htm.new	2012-05-07 14:38:57.868344689 -0300
+--- atividades/0604HIS032/0604HIS03201.htm	2012-05-22 15:49:06.349977487 -0300
++++ atividades/0604HIS032/0604HIS03201.htm.new	2012-05-22 15:49:06.349977487 -0300
 @@ -5,7 +5,7 @@
  
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
@@ -9,7 +9,7 @@
  
  
  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
-@@ -458,10 +458,10 @@
+@@ -458,11 +458,11 @@
  
  var Feedback = '';
  var Correct = 'Correto! Muito Bem.';
@@ -18,10 +18,12 @@
  var GiveHint = 'The next correct letter has been added to the answer.';
  var CaseSensitive = false;
 -var YourScoreIs = 'A sua pontua&#x00E7;&#x00E3;o &#x00E9;';
+-var Proximo = 'Vamos ao Pr&#243;ximo?';
 +var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;';
- var Proximo = 'Vamos ao Pr&#243;ximo?';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
  var Finished = false;
  var Locked = false;
+ var Score = 0;
 @@ -1123,14 +1123,14 @@
  <!-- EndTopNavButtons -->
  

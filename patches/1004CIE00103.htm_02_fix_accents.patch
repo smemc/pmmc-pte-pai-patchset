@@ -1,5 +1,14 @@
---- atividades/1004CIE001/1004CIE00103.htm	2012-05-07 14:40:51.568346395 -0300
-+++ atividades/1004CIE001/1004CIE00103.htm.new	2012-05-07 14:40:51.572346396 -0300
+--- atividades/1004CIE001/1004CIE00103.htm	2012-05-22 15:51:02.353979230 -0300
++++ atividades/1004CIE001/1004CIE00103.htm.new	2012-05-22 15:51:02.357979231 -0300
+@@ -21,7 +21,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
 @@ -442,11 +442,11 @@
  }
  

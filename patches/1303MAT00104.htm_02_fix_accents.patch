@@ -1,6 +1,15 @@
---- atividades/1303MAT001/1303MAT00104.htm	2012-05-07 14:42:21.180347744 -0300
-+++ atividades/1303MAT001/1303MAT00104.htm.new	2012-05-07 14:42:21.184347744 -0300
-@@ -465,11 +465,11 @@
+--- atividades/1303MAT001/1303MAT00104.htm	2012-05-22 15:52:34.605980616 -0300
++++ atividades/1303MAT001/1303MAT00104.htm.new	2012-05-22 15:52:34.609980616 -0300
+@@ -6,7 +6,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Luiz Beraldo" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="SISTEMA DE NUMERA&#199;&#195;O - 4&#170; FASE" />
++<meta name="DC:Title" content="SISTEMA DE NUMERA&Ccedil;&Atilde;O - 4&ordf; FASE" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -465,12 +465,12 @@
  }
  
  var Feedback = '';
@@ -11,10 +20,12 @@
  var GiveHint = 'Foi adicionada a letra seguinte';
  var CaseSensitive = false;
 -var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
+-var Proximo = 'Vamos ao Pr&#243;ximo?';
 +var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
- var Proximo = 'Vamos ao Pr&#243;ximo?';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
  var Finished = false;
  var Locked = false;
+ var Score = 0;
 @@ -886,15 +886,15 @@
  
  <div class="Titles">

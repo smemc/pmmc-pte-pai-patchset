@@ -9,10 +9,11 @@ generate_patches() {
     echo "Generating patches for filename case/accents fix. This may take a long time."
     sleep 1
 
-    count=0
+    case_count=0
+    accents_count=0
     read_count=0
 
-    for file_htm in $DATA_DEST/atividades/*/*.htm
+    for file_htm in $DATA_DEST/atividades/*/*.{htm,js}
     do
         read_count=$(( read_count + 1 ))
         SED_ARGS=""
@@ -35,7 +36,7 @@ generate_patches() {
             cp $file_htm ${file_htm}.new
         fi
 
-        sed -f accents.sed ${file_htm}.new > ${file_htm}.new2
+        sed -f accents.sed -f accents-alt.sed ${file_htm}.new > ${file_htm}.new2
  
         echo -n "$file_htm:"
                 
@@ -43,7 +44,7 @@ generate_patches() {
         then
             (cd $DATA_DEST && diff -u ${file_htm_strip} ${file_htm_strip}.new > $patch_case_file)
             echo -ne "\tcase\t"
-            count=$(( count + 1 ))
+            case_count=$(( case_count + 1 ))
         else
             echo -ne "\t\t"
         fi
@@ -54,7 +55,7 @@ generate_patches() {
             cp ${file_htm}.new2 ${file_htm}.new
             (cd $DATA_DEST && diff -u ${file_htm_strip} ${file_htm_strip}.new > $patch_accents_file)
             echo "accents"
-            count=$(( count + 1 ))
+            accents_count=$(( accents_count + 1 ))
         else
             echo ""
         fi
@@ -85,7 +86,7 @@ generate_patches() {
             cp $file_html ${file_html}.new
         fi
 
-        sed -f accents.sed ${file_html}.new > ${file_html}.new2
+        sed -f accents.sed -f accents-alt.sed ${file_html}.new > ${file_html}.new2
         
         echo -n "$file_html:"
         
@@ -93,7 +94,7 @@ generate_patches() {
         then
             (cd $DATA_DEST && diff -u ${file_html_strip} ${file_html_strip}.new > $patch_case_file)
             echo -ne "\tcase\t"
-            count=$(( count + 1 ))
+            case_count=$(( case_count + 1 ))
         else
             echo -ne "\t\t"
         fi
@@ -104,7 +105,7 @@ generate_patches() {
             cp ${file_html}.new2 ${file_html}.new
             (cd $DATA_DEST && diff -u ${file_html_strip} ${file_html_strip}.new > $patch_accents_file)
             echo "accents"
-            count=$(( count + 1 ))
+            accents_count=$(( accents_count + 1 ))
         else
             echo ""
         fi
@@ -113,7 +114,9 @@ generate_patches() {
         rm -f ${file_html}.*
     done
     
-    echo "TOTAL: $read_count files read; $count patches generated."
+    echo "TOTAL: $read_count files read."
+    echo "       $case_count patches generated for filename case fixing."
+    echo "       $accents_count patches generated for accents code fixing."
 }
 
 generate_patches $1

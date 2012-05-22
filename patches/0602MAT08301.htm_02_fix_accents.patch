@@ -1,5 +1,5 @@
---- atividades/0602MAT083/0602MAT08301.htm	2012-05-07 14:37:44.252343583 -0300
-+++ atividades/0602MAT083/0602MAT08301.htm.new	2012-05-07 14:37:44.256343583 -0300
+--- atividades/0602MAT083/0602MAT08301.htm	2012-05-22 15:47:46.489976287 -0300
++++ atividades/0602MAT083/0602MAT08301.htm.new	2012-05-22 15:47:46.493976288 -0300
 @@ -5,7 +5,7 @@
  
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
@@ -9,3 +9,12 @@
  
  
  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]

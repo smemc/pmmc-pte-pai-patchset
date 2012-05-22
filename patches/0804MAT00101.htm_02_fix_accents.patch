@@ -1,14 +1,30 @@
---- atividades/0804MAT001/0804MAT00101.htm	2012-05-07 14:39:40.640345333 -0300
-+++ atividades/0804MAT001/0804MAT00101.htm.new	2012-05-07 14:39:40.640345333 -0300
-@@ -6,7 +6,7 @@
+--- atividades/0804MAT001/0804MAT00101.htm	2012-05-22 15:49:51.849978171 -0300
++++ atividades/0804MAT001/0804MAT00101.htm.new	2012-05-22 15:49:51.849978171 -0300
+@@ -1,12 +1,12 @@
+ <?xml version="1.0"?>
+        <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "xhtml11.dtd">
+        <html xmlns="http://www.w3.org/1999/xhtml"
+-             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&#225;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
++             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&aacute;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
+ 
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
- <meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
+-<meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
++<meta name="DC:Creator" content="Orientadores de Inform&aacute;tica" />
  <meta name="DC:Creator" content="UNREGISTERED" />
 -<meta name="DC:Title" content="Opera&#x00E7;&#x00F5;es com N&#x00FA;meros Decimais" />
 +<meta name="DC:Title" content="Opera&ccedil;&otilde;es com N&uacute;meros Decimais" />
  
  
  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -23,7 +23,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
 @@ -516,11 +516,11 @@
  }
  

@@ -1,5 +1,5 @@
---- atividades/0604POR091/0604POR09101.htm	2012-05-07 14:39:13.736344925 -0300
-+++ atividades/0604POR091/0604POR09101.htm.new	2012-05-07 14:39:13.740344927 -0300
+--- atividades/0604POR091/0604POR09101.htm	2012-05-22 15:49:23.945977752 -0300
++++ atividades/0604POR091/0604POR09101.htm.new	2012-05-22 15:49:23.945977752 -0300
 @@ -5,7 +5,7 @@
  
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
@@ -9,7 +9,16 @@
  
  
  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
-@@ -463,11 +463,11 @@
+@@ -18,7 +18,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -463,12 +463,12 @@
  }
  
  var Feedback = '';
@@ -20,10 +29,12 @@
  var GiveHint = '';
  var CaseSensitive = false;
 -var YourScoreIs = 'A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
+-var Proximo = 'Vamos ao Pr&#243;ximo?';
 +var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;: ';
- var Proximo = 'Vamos ao Pr&#243;ximo?';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
  var Finished = false;
  var Locked = false;
+ var Score = 0;
 @@ -906,14 +906,14 @@
  <!-- EndTopNavButtons -->
  

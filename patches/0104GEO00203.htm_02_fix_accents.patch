@@ -1,5 +1,14 @@
---- atividades/0104GEO002/0104GEO00203.htm	2012-05-07 14:32:41.068339028 -0300
-+++ atividades/0104GEO002/0104GEO00203.htm.new	2012-05-07 14:32:41.072339028 -0300
+--- atividades/0104GEO002/0104GEO00203.htm	2012-05-22 15:42:17.697971347 -0300
++++ atividades/0104GEO002/0104GEO00203.htm.new	2012-05-22 15:42:17.701971347 -0300
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
 @@ -67,7 +67,7 @@
  </div>
  

@@ -1,10 +1,12 @@
---- atividades/0804MAT002/0804MAT00201.htm	2012-05-07 14:39:41.120345339 -0300
-+++ atividades/0804MAT002/0804MAT00201.htm.new	2012-05-07 14:39:41.120345339 -0300
-@@ -6,7 +6,7 @@
+--- atividades/0804MAT002/0804MAT00201.htm	2012-05-22 15:49:52.357978178 -0300
++++ atividades/0804MAT002/0804MAT00201.htm.new	2012-05-22 15:49:52.361978179 -0300
+@@ -5,8 +5,8 @@
+ 
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
  <meta name="DC:Creator" content="Danilo Moraes" />
- <meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
+-<meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
 -<meta name="DC:Title" content="Opera&#x00E7;&#x00F5;es com Porcentagens" />
++<meta name="DC:Creator" content="Orientadores de Inform&aacute;tica" />
 +<meta name="DC:Title" content="Opera&ccedil;&otilde;es com Porcentagens" />
  
  

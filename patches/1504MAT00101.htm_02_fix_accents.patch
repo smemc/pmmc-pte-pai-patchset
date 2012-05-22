@@ -1,5 +1,5 @@
---- atividades/1504MAT001/1504MAT00101.htm	2012-05-07 14:42:25.288347806 -0300
-+++ atividades/1504MAT001/1504MAT00101.htm.new	2012-05-07 14:42:25.288347806 -0300
+--- atividades/1504MAT001/1504MAT00101.htm	2012-05-22 15:52:39.221980686 -0300
++++ atividades/1504MAT001/1504MAT00101.htm.new	2012-05-22 15:52:39.225980686 -0300
 @@ -5,7 +5,7 @@
  
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
@@ -9,7 +9,16 @@
  
  
  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
-@@ -467,11 +467,11 @@
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -467,12 +467,12 @@
  }
  
  var Feedback = '';
@@ -20,10 +29,12 @@
  var GiveHint = 'Foi adicionada a letra seguinte';
  var CaseSensitive = false;
 -var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
+-var Proximo = 'Vamos ao Pr&#243;ximo?';
 +var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
- var Proximo = 'Vamos ao Pr&#243;ximo?';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
  var Finished = false;
  var Locked = false;
+ var Score = 0;
 @@ -881,7 +881,7 @@
  	</div>
  

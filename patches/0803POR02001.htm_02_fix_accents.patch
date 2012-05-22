@@ -1,5 +1,14 @@
---- atividades/0803POR020/0803POR02001.htm	2012-05-07 14:39:36.748345273 -0300
-+++ atividades/0803POR020/0803POR02001.htm.new	2012-05-07 14:39:36.752345274 -0300
+--- atividades/0803POR020/0803POR02001.htm	2012-05-22 15:49:47.757978110 -0300
++++ atividades/0803POR020/0803POR02001.htm.new	2012-05-22 15:49:47.757978110 -0300
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
 @@ -83,7 +83,7 @@
  <div id="ClozeDiv">
  <form id="Cloze" method="post" action="" onsubmit="return false;">

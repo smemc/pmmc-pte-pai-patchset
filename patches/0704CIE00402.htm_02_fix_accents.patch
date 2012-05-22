@@ -1,5 +1,23 @@
---- atividades/0704CIE004/0704CIE00402.htm	2012-05-07 14:39:18.988345007 -0300
-+++ atividades/0704CIE004/0704CIE00402.htm.new	2012-05-07 14:39:18.988345007 -0300
+--- atividades/0704CIE004/0704CIE00402.htm	2012-05-22 15:49:29.385977834 -0300
++++ atividades/0704CIE004/0704CIE00402.htm.new	2012-05-22 15:49:29.385977834 -0300
+@@ -20,7 +20,7 @@
+ <meta name="DC:Creator" content="Alex Soares da Silva" />
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Informatica - C&#243;digo comentado para separar o CSS do arquivo HTML
++<!-- Orientadores de Informatica - C&oacute;digo comentado para separar o CSS do arquivo HTML
+ <style type="text/css">
+ 
+ [strStyleSheet1]
+@@ -63,7 +63,7 @@
+ 
+ 
+ 
+-<!-- Orientadores de inform&#225;tica - Inclui cabe&#231;alho SME-->
++<!-- Orientadores de inform&aacute;tica - Inclui cabe&ccedil;alho SME-->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" />
+ </p>
+ 
 @@ -80,7 +80,7 @@
  </div>
  
@@ -18,3 +36,12 @@
  </div>
  </form>
  </div>
+@@ -139,7 +139,7 @@
+ 
+ 
+ 
+-<!-- Orientadores de inform&#225;tica - Inclui os cr&#233;ditos -->
++<!-- Orientadores de inform&aacute;tica - Inclui os cr&eacute;ditos -->
+ <!--<div align="center"><img src="rodape.png" /> </div>-->
+ 
+ <!-- EndBottomNavButtons -->

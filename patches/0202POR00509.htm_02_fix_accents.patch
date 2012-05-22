@@ -1,5 +1,5 @@
---- atividades/0202POR005/0202POR00509.htm	2012-05-07 14:33:34.828339836 -0300
-+++ atividades/0202POR005/0202POR00509.htm.new	2012-05-07 14:33:34.828339836 -0300
+--- atividades/0202POR005/0202POR00509.htm	2012-05-22 15:43:17.077972239 -0300
++++ atividades/0202POR005/0202POR00509.htm.new	2012-05-22 15:43:17.077972239 -0300
 @@ -8,7 +8,7 @@
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
  <meta name="DC:Creator" content="Marlon Militani" />
@@ -9,6 +9,15 @@
  
  
  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -25,7 +25,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
 @@ -446,11 +446,11 @@
  }
  

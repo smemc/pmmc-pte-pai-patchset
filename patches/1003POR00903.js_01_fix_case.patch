@@ -1,0 +1,11 @@
+--- atividades/1003POR009/1003POR00903.js	2012-05-22 15:32:40.669962676 -0300
++++ atividades/1003POR009/1003POR00903.js.new	2012-05-22 15:54:24.305982265 -0300
+@@ -442,7 +442,7 @@
+ 	}
+ 
+   	//Orientadores de Inform&#225;tica - C&#243;digo que exibir o pr&#243;ximo arquivo
+-	parent.location.href="1003por00904.htm";
++	parent.location.href="1003POR00904.htm";
+ 
+ }
+ 
