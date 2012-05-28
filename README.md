@@ -12,7 +12,7 @@ Esta é uma coleção de patches (correções) para o PAI 2.11.2, cujo objetivo 
 Esta coleção adota as seguintes convenções para corrigir as devergências:
 
 1. Todos os arquivos e diretórios serão renomeados para letras **minúsculas**, exceto na parte do código da atividade (exemplo: `0102POR001`).
-2. Todas as ocorrências de letras acentuadas e outros símbolos serão convertidas para código HTML "legível" (exemplo: todas as ocorrências de `á` ou `&#x00E1;` serão substituídas por `&aacute;`).
+2. Todas as ocorrências de letras acentuadas e outros símbolos serão convertidas para código HTML "legível" (exemplo: todas as ocorrências de `á`, `%E1`, `&#225;` ou `&#x00E1;` serão substituídas por `&aacute;`).
 
 Modo de usar
 ------------
