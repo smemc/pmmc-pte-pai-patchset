@@ -26,3 +26,12 @@ Para utilizar estes recursos, siga o procedimento abaixo:
 5. **[OPCIONAL]** Se desejar recriar os patches, execute o script apropriado (exemplo: `sudo ./pai-generate-patches.sh /usr/share/PTE-PMMC/pai.fixed`).
 6. Aplique os patches, executando o script apropriado (exemplo: `sudo ./pai-apply-patches.sh /usr/share/PTE-PMMC/pai.fixed`).
 7. Substitua o diretório `pai` pelo `pai.fixed` (exemplo: `cd /usr/share/PTE-PMMC && sudo rm -rf pai && sudo mv pai.fixed pai`).
+
+Sumário da última geração de patches (01/06/2012)
+-------------------------------------------------
+
+* 1990 arquivos lidos.
+* 151 patches gerados para corrigir a caixa das letras dos nomes de arquivos.
+* 1885 patches gerados para substituir a codificação de acentos UTF-8.
+* 1430 patches generated para substituir a codificação de acentos ISO-8859-1.
+

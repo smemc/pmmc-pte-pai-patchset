@@ -11,6 +11,7 @@ generate_patches() {
 
     case_count=0
     accents_count=0
+    oldaccents_count=0
     read_count=0
 
     for file_htm in $DATA_DEST/atividades/*/*.{htm,js}
@@ -28,6 +29,7 @@ generate_patches() {
 
         patch_case_file="$PDIR/$(basename ${file_htm})_01_fix_case.patch"
         patch_accents_file="$PDIR/$(basename ${file_htm})_02_fix_accents.patch"
+        patch_oldaccents_file="$PDIR/$(basename ${file_htm})_03_fix_oldaccents.patch"
         
         if [ "x$SED_ARGS" != "x" ]
         then
@@ -37,6 +39,7 @@ generate_patches() {
         fi
 
         sed -f accents.sed -f accents-alt.sed ${file_htm}.new > ${file_htm}.new2
+        iconv -f ISO_8859-1 -t UTF-8 ${file_htm}.new2 | sed -f accents.sed -f accents-alt.sed > ${file_htm}.new3
  
         echo -n "$file_htm:"
                 
@@ -54,8 +57,19 @@ generate_patches() {
             cp ${file_htm}.new $file_htm
             cp ${file_htm}.new2 ${file_htm}.new
             (cd $DATA_DEST && diff -u ${file_htm_strip} ${file_htm_strip}.new > $patch_accents_file)
-            echo "accents"
+            echo -ne "accents\t"
             accents_count=$(( accents_count + 1 ))
+        else
+            echo -ne "\t"
+        fi
+
+        if ! diff ${file_htm}.new ${file_htm}.new3 > /dev/null
+        then
+            cp ${file_htm}.new $file_htm
+            cp ${file_htm}.new3 ${file_htm}.new
+            (cd $DATA_DEST && diff -u ${file_htm_strip} ${file_htm_strip}.new > $patch_oldaccents_file)
+            echo "oldaccents"
+            oldaccents_count=$(( oldaccents_count + 1 ))
         else
             echo ""
         fi
@@ -78,6 +92,7 @@ generate_patches() {
 
         patch_case_file="$PDIR/$(basename ${file_html})_01_fix_case.patch"
         patch_accents_file="$PDIR/$(basename ${file_html})_02_fix_accents.patch"
+        patch_oldaccents_file="$PDIR/$(basename ${file_html})_03_fix_oldaccents.patch"
 
         if [ "x$SED_ARGS" != "x" ]
         then
@@ -87,6 +102,7 @@ generate_patches() {
         fi
 
         sed -f accents.sed -f accents-alt.sed ${file_html}.new > ${file_html}.new2
+        iconv -f ISO_8859-1 -t UTF-8 ${file_html}.new2 | sed -f accents.sed -f accents-alt.sed > ${file_html}.new3
         
         echo -n "$file_html:"
         
@@ -104,8 +120,19 @@ generate_patches() {
             cp ${file_html}.new $file_html
             cp ${file_html}.new2 ${file_html}.new
             (cd $DATA_DEST && diff -u ${file_html_strip} ${file_html_strip}.new > $patch_accents_file)
-            echo "accents"
+            echo -ne "accents\t"
             accents_count=$(( accents_count + 1 ))
+        else
+            echo -ne "\t"
+        fi
+        
+        if ! diff ${file_html}.new ${file_html}.new3 > /dev/null
+        then
+            cp ${file_html}.new $file_html
+            cp ${file_html}.new3 ${file_html}.new
+            (cd $DATA_DEST && diff -u ${file_html_strip} ${file_html_strip}.new > $patch_oldaccents_file)
+            echo "oldaccents"
+            oldaccents_count=$(( oldaccents_count + 1 ))
         else
             echo ""
         fi
@@ -116,7 +143,8 @@ generate_patches() {
     
     echo "TOTAL: $read_count files read."
     echo "       $case_count patches generated for filename case fixing."
-    echo "       $accents_count patches generated for accents code fixing."
+    echo "       $accents_count patches generated for accents code fixing (UTF-8)."
+    echo "       $oldaccents_count patches generated for accents code fixing (ISO-8859-1)."
 }
 
 generate_patches $1

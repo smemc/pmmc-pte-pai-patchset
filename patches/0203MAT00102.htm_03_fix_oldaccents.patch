@@ -1,0 +1,11 @@
+--- atividades/0203MAT001/0203MAT00102.htm	2012-06-01 15:00:18.968705620 -0300
++++ atividades/0203MAT001/0203MAT00102.htm.new	2012-06-01 15:00:18.972705620 -0300
+@@ -1018,7 +1018,7 @@
+ var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'A correct letter has been added.';
+ var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+-var Proximo = 'Agora vamos para o 3º Exercício!';
++var Proximo = 'Agora vamos para o 3Âº Exerc&iacute;cio!';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+ var Penalties = 0;

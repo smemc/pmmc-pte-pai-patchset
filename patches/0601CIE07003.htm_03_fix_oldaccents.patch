@@ -1,0 +1,11 @@
+--- atividades/0601CIE070/0601CIE07003.htm	2012-06-01 15:02:39.260707728 -0300
++++ atividades/0601CIE070/0601CIE07003.htm.new	2012-06-01 15:02:39.264707728 -0300
+@@ -590,7 +590,7 @@
+ 
+ var CorrectResponse = 'MUITO BEM!';
+ var IncorrectResponse = 'TENTE NOVAMENTE';
+-var YourScoreIs = '<br>A sua pontuação é: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';

@@ -1,5 +1,5 @@
---- atividades/0804GEO002/0804GEO00204.htm	2012-05-22 15:27:58.989958444 -0300
-+++ atividades/0804GEO002/0804GEO00204.htm.new	2012-05-22 15:49:51.445978165 -0300
+--- atividades/0804GEO002/0804GEO00204.htm	2012-06-01 14:38:57.192686360 -0300
++++ atividades/0804GEO002/0804GEO00204.htm.new	2012-06-01 15:08:49.860713297 -0300
 @@ -89,7 +89,7 @@
    <select id="Gap0"><option value=""></option><option value="Leste">Leste</option><option value="Nordeste">Nordeste</option><option value="Noroeste">Noroeste</option><option value="Norte">Norte</option><option value="Oeste">Oeste</option><option value="Sudeste">Sudeste</option><option value="Sudoeste">Sudoeste</option><option value="Sul">Sul</option></select></span></td><td align="center" bordercolor="#ECE9D8" bgcolor="#FFFFFF"><span class="GapSpan" id="GapSpan1">
    <select id="Gap1"><option value=""></option><option value="Leste">Leste</option><option value="Nordeste">Nordeste</option><option value="Noroeste">Noroeste</option><option value="Norte">Norte</option><option value="Oeste">Oeste</option><option value="Sudeste">Sudeste</option><option value="Sudoeste">Sudoeste</option><option value="Sul">Sul</option></select></span></td><td align="center" bordercolor="#ECE9D8" bgcolor="#FFFFFF"><span class="GapSpan" id="GapSpan2">

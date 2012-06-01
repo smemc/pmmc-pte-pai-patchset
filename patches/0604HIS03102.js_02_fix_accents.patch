@@ -1,5 +1,5 @@
---- atividades/0604HIS031/0604HIS03102.js	2012-05-22 15:53:10.033981149 -0300
-+++ atividades/0604HIS031/0604HIS03102.js.new	2012-05-22 15:53:10.037981149 -0300
+--- atividades/0604HIS031/0604HIS03102.js	2012-06-01 15:13:07.812717172 -0300
++++ atividades/0604HIS031/0604HIS03102.js.new	2012-06-01 15:13:07.816717173 -0300
 @@ -1054,8 +1054,8 @@
  okImage  = mediaDir+"/ok2.gif";
  boxImage = mediaDir+"/square2.gif";
