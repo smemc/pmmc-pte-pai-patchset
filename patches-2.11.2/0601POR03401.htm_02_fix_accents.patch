@@ -1,0 +1,20 @@
+--- atividades/0601POR034/0601POR03401.htm	2012-06-01 15:04:17.276709201 -0300
++++ atividades/0601POR034/0601POR03401.htm.new	2012-06-01 15:04:17.276709201 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="O FIO DA MEADA&#x003C;br&#x003E; Siga as linhas, preencha as lacunas com as letras correspondentes e descubra a palavra secreta." />
++<meta name="DC:Title" content="O FIO DA MEADA&lt;br&gt; Siga as linhas, preencha as lacunas com as letras correspondentes e descubra a palavra secreta." />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]

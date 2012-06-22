@@ -1,5 +1,5 @@
---- atividades/1001POR003/1001POR00301.htm	2012-06-01 15:09:13.200713647 -0300
-+++ atividades/1001POR003/1001POR00301.htm.new	2012-06-01 15:09:13.200713647 -0300
+--- atividades/1001POR003/1001POR00301.htm	2012-06-22 15:03:59.211898178 -0300
++++ atividades/1001POR003/1001POR00301.htm.new	2012-06-22 15:03:59.211898178 -0300
 @@ -22,7 +22,7 @@
  
  <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
@@ -33,12 +33,8 @@
  
  
  	var i = 0;
-@@ -954,10 +954,10 @@
-             <td><div align="center"><span class="GapSpan" id="GapSpan6"> 
-                 <input type="text" class="GapBox" id="Gap6" style="width: 2em;" onfocus="TrackFocus(6)" onblur="LeaveGap()" size="2" maxlength="2"></input> 
-                 </span><font size="4">leia</font></div></td>
--            <td><img src="bon&#x00E9;.jpg" width="114" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td>
-+            <td><img src="bon&eacute;.jpg" width="114" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td>
+@@ -957,7 +957,7 @@
+             <td><img src="bone.jpg" width="114" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td>
              <td><div align="center"><span class="GapSpan" id="GapSpan7"> 
                  <input type="text" class="GapBox" id="Gap7" style="width: 2em;" onfocus="TrackFocus(7)" onblur="LeaveGap()" size="2" maxlength="2"></input> 
 -                </span><font size="4">n&#x00E9;</font></div></td>

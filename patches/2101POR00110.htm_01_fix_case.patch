@@ -1,5 +1,5 @@
---- atividades/2101POR001/2101POR00110.htm	2012-06-01 14:42:45.244689787 -0300
-+++ atividades/2101POR001/2101POR00110.htm.new	2012-06-01 15:12:37.020716710 -0300
+--- atividades/2101POR001/2101POR00110.htm	2012-06-22 14:49:38.487885242 -0300
++++ atividades/2101POR001/2101POR00110.htm.new	2012-06-22 15:07:22.651901235 -0300
 @@ -473,7 +473,7 @@
  if (document.getElementById('CharacterKeypad') != null){
  document.getElementById('CharacterKeypad').style.display = 'block';

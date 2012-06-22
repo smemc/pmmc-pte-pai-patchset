@@ -1,5 +1,5 @@
---- atividades/0204MAT003/0204MAT00302.htm	2012-06-01 15:01:13.796706444 -0300
-+++ atividades/0204MAT003/0204MAT00302.htm.new	2012-06-01 15:01:13.800706444 -0300
+--- atividades/0204MAT003/0204MAT00302.htm	2012-06-22 14:56:00.623890987 -0300
++++ atividades/0204MAT003/0204MAT00302.htm.new	2012-06-22 14:56:00.627890987 -0300
 @@ -8,7 +8,7 @@
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
  <meta name="DC:Creator" content="Marlon Militani" />
@@ -9,7 +9,7 @@
  
  
  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
-@@ -1012,11 +1012,11 @@
+@@ -436,11 +436,11 @@
  }
  
  var Feedback = '';
@@ -24,7 +24,7 @@
  var Proximo = 'Agora vamos para o Próximo Exercício!';
  var Finished = false;
  var Locked = false;
-@@ -1360,14 +1360,14 @@
+@@ -784,14 +784,14 @@
  
  <div class="Titles">
  	
@@ -43,7 +43,7 @@
  </div>
  
  
-@@ -1382,7 +1382,7 @@
+@@ -806,7 +806,7 @@
  
  
   -->
@@ -52,7 +52,7 @@
      quilos de carne num dia. No dia seguinte vendeu 495 quilos. Ao todo, quantos 
      quilos de carne ele vendeu? </font></strong> </div>
    <div id="ClozeDiv">
-@@ -1431,7 +1431,7 @@
+@@ -855,7 +855,7 @@
  
  
  <!--

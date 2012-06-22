@@ -1,6 +1,6 @@
---- atividades/0203MAT001/0203MAT00102.htm	2012-06-01 15:00:18.960705620 -0300
-+++ atividades/0203MAT001/0203MAT00102.htm.new	2012-06-01 15:00:18.960705620 -0300
-@@ -1014,10 +1014,10 @@
+--- atividades/0203MAT001/0203MAT00102.htm	2012-06-22 14:55:06.803890178 -0300
++++ atividades/0203MAT001/0203MAT00102.htm.new	2012-06-22 14:55:06.803890178 -0300
+@@ -428,10 +428,10 @@
  var Feedback = '';
  var AcrossCaption = '';
  var DownCaption = '';
@@ -14,7 +14,7 @@
  var Proximo = 'Agora vamos para o 3º Exercício!';
  var BuiltGrid = '';
  var BuiltExercise = '';
-@@ -1387,7 +1387,7 @@
+@@ -801,7 +801,7 @@
  
  <div class="Titles">
    <h2 class="ExerciseTitle"></h2>

@@ -1,5 +1,5 @@
---- atividades/0204GEO001/0204GEO00101.htm	2012-06-01 15:01:00.100706238 -0300
-+++ atividades/0204GEO001/0204GEO00101.htm.new	2012-06-01 15:01:00.100706238 -0300
+--- atividades/0204GEO001/0204GEO00101.htm	2012-06-22 14:55:47.207890785 -0300
++++ atividades/0204GEO001/0204GEO00101.htm.new	2012-06-22 14:55:47.211890785 -0300
 @@ -428,10 +428,10 @@
  var Feedback = '';
  var AcrossCaption = '';
@@ -11,10 +11,10 @@
  var GiveHint = 'A correct letter has been added.';
 -var YourScoreIs = 'A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
 +var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
- var Proximo = 'Agora vamos para o Próximo Exercício!';
  var BuiltGrid = '';
  var BuiltExercise = '';
-@@ -788,7 +788,7 @@
+ var Penalties = 0;
+@@ -787,7 +787,7 @@
  <!-- EndTopNavButtons -->
  
  <div class="Titles">
@@ -23,7 +23,7 @@
    <h3 class="ExerciseSubtitle"><font color="#333399">SISTEMA SOLAR</font></h3></div>
  
  <div id="InstructionsDiv" class="StdDiv"> 
-@@ -833,7 +833,7 @@
+@@ -832,7 +832,7 @@
  <tbody id="CluesAcross">
  <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontal -</h3></td></tr>
  
@@ -32,7 +32,7 @@
  
  </tbody>
  </table>
-@@ -846,9 +846,9 @@
+@@ -845,9 +845,9 @@
  <tbody id="CluesDown">
  <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Vertical - </h3></td></tr>
  

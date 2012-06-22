@@ -1,5 +1,5 @@
---- atividades/0603GEO088/0603GEO08801.js	2012-06-01 15:13:03.756717112 -0300
-+++ atividades/0603GEO088/0603GEO08801.js.new	2012-06-01 15:13:03.756717112 -0300
+--- atividades/0603GEO088/0603GEO08801.js	2012-06-22 15:07:49.615901640 -0300
++++ atividades/0603GEO088/0603GEO08801.js.new	2012-06-22 15:07:49.619901640 -0300
 @@ -1054,8 +1054,8 @@
  okImage  = mediaDir+"/ok2.gif";
  boxImage = mediaDir+"/square2.gif";

@@ -1,5 +1,5 @@
---- atividades/0604CIE001/0604CIE00101.js	2012-06-01 15:13:06.092717147 -0300
-+++ atividades/0604CIE001/0604CIE00101.js.new	2012-06-01 15:13:06.092717147 -0300
+--- atividades/0604CIE001/0604CIE00101.js	2012-06-22 15:07:52.055901676 -0300
++++ atividades/0604CIE001/0604CIE00101.js.new	2012-06-22 15:07:52.059901677 -0300
 @@ -1054,8 +1054,8 @@
  okImage  = mediaDir+"/ok2.gif";
  boxImage = mediaDir+"/square2.gif";

@@ -1,5 +1,5 @@
---- atividades/0201CIE001/0201CIE00101.htm	2012-06-01 14:58:30.856703995 -0300
-+++ atividades/0201CIE001/0201CIE00101.htm.new	2012-06-01 14:58:30.856703995 -0300
+--- atividades/0201CIE001/0201CIE00101.htm	2012-06-22 14:53:19.903888572 -0300
++++ atividades/0201CIE001/0201CIE00101.htm.new	2012-06-22 14:53:19.907888572 -0300
 @@ -6,7 +6,7 @@
      <meta name="keywords" content="Ardora"></meta>
      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
@@ -18,12 +18,7 @@
  		parent.location.href="0201CIE00102.htm";		
  	}
  	
-@@ -599,11 +599,11 @@
- 
-   <div class="Titles">
- 	<h2 class="ExerciseTitle">ANIMAIS</h2>
--	<h3 class="ExerciseSubtitle"><strong>Classifique estes animais em: com pêlos, escamas ou penas</strong></h3>
-+	<h3 class="ExerciseSubtitle"><strong>Classifique estes animais em: com p&ecirc;los, escamas ou penas</strong></h3>
+@@ -603,7 +603,7 @@
    </div>
  
    <div id="InstructionsDiv" class="StdDiv">
@@ -32,12 +27,3 @@
    </div>
  
    <div id="MainDiv" class="StdDiv">
-@@ -631,7 +631,7 @@
- 	</div>	
- 	<div id="dhtmlgoodies_mainContainer">
- 		<!-- ONE <UL> for each "room" -->
--		<div><p>COM PÊLOS</p><ul id="box1"></ul> </div><div><p>ESCAMAS</p><ul id="box2"></ul> </div><div><p>PENAS</p><ul id="box3"></ul> </div>
-+		<div><p>COM P&Ecirc;LOS</p><ul id="box1"></ul> </div><div><p>ESCAMAS</p><ul id="box2"></ul> </div><div><p>PENAS</p><ul id="box3"></ul> </div>
- 		
- 	</div>
- </div>

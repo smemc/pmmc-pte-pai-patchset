@@ -1,5 +1,5 @@
---- atividades/0202POR008/0202POR00803.htm	2012-06-01 15:00:01.208705353 -0300
-+++ atividades/0202POR008/0202POR00803.htm.new	2012-06-01 15:00:01.212705353 -0300
+--- atividades/0202POR008/0202POR00803.htm	2012-06-22 14:54:49.691889921 -0300
++++ atividades/0202POR008/0202POR00803.htm.new	2012-06-22 14:54:49.695889921 -0300
 @@ -7,7 +7,7 @@
  
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
@@ -9,7 +9,7 @@
  
  
  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
-@@ -1152,9 +1152,9 @@
+@@ -572,9 +572,9 @@
  
  
  
@@ -22,7 +22,7 @@
  var Proximo = 'Agora vamos para o Próximo Exercício!';
  var DivWidth = 600; //default value
  var FeedbackWidth = 200; //default
-@@ -1368,7 +1368,7 @@
+@@ -788,7 +788,7 @@
  D[3][1] = 4;
  D[3][2] = 0;
  D[4] = new Array();
@@ -31,7 +31,7 @@
  D[4][1] = 5;
  D[4][2] = 0;
  D[5] = new Array();
-@@ -1486,14 +1486,14 @@
+@@ -906,14 +906,14 @@
   
  <div class="Titles">
  	

@@ -1,5 +1,5 @@
---- atividades/0203HIS001/0203HIS00102.htm	2012-06-01 15:00:17.724705601 -0300
-+++ atividades/0203HIS001/0203HIS00102.htm.new	2012-06-01 15:00:17.724705601 -0300
+--- atividades/0203HIS001/0203HIS00102.htm	2012-06-22 14:55:05.751890162 -0300
++++ atividades/0203HIS001/0203HIS00102.htm.new	2012-06-22 14:55:05.755890162 -0300
 @@ -579,7 +579,7 @@
  var CorrectResponse = 'Parab&eacute;ns. Bom trabalho!';
  var IncorrectResponse = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!';

@@ -1,5 +1,5 @@
---- atividades/0202GEO001/0202GEO00103.htm	2012-06-01 14:59:16.760704685 -0300
-+++ atividades/0202GEO001/0202GEO00103.htm.new	2012-06-01 14:59:16.764704685 -0300
+--- atividades/0202GEO001/0202GEO00103.htm	2012-06-22 14:54:06.019889265 -0300
++++ atividades/0202GEO001/0202GEO00103.htm.new	2012-06-22 14:54:06.019889265 -0300
 @@ -451,7 +451,7 @@
  var GiveHint = 'Foi adicionada a letra seguinte';
  var CaseSensitive = false;

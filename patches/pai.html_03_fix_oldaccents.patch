@@ -1,5 +1,5 @@
---- pai.html	2012-06-01 15:17:37.152721220 -0300
-+++ pai.html.new	2012-06-01 15:17:37.152721220 -0300
+--- pai.html	2012-06-22 15:12:20.263905707 -0300
++++ pai.html.new	2012-06-22 15:12:20.263905707 -0300
 @@ -1,14 +1,14 @@
  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
  <html xmlns="http://www.w3.org/1999/xhtml">
@@ -31,14 +31,16 @@
          <h4 title="Fechar" id="botao_fechar"> <a href="javascript:window.close();"><span>Fechar</span></a></h4>
          <form name="buscaForm" id="buscaForm">
            <input type="text" id="buscaTexto" value="" size="23" maxlength="50" autocomplete="off" title="Digite o texto para a pesquisa" />
-@@ -44,8 +44,8 @@
-     </div>
+@@ -44,9 +44,9 @@
+ </div>
  	<div id="rodape">	
- 		<h6 class="logo_pmmc" title="Prefeitura Municipal de Mogi das Cruzes"><span>Prefeitura Municipal de Mogi das Cruzes</span></h6>
--		<h6 class="logo_sme" title="Secretaria Municipal de Educação"><span>SME - Secretaria Municipal de Educação</span></h6>
+ 		<!--<h6 class="logo_pmmc" title="Prefeitura Municipal de Mogi das Cruzes"><span>Prefeitura Municipal de Mogi das Cruzes</span></h6>
+-	  <h6 class="logo_sme" title="Secretaria Municipal de Educação"><span>SME - Secretaria Municipal de Educação</span></h6>-->
 -		<h6 class="logo_orientadores" title="Desenvolvido pela equipe de Orientadores de Informática"><span>Desenvolvido pela equipe de Orientadores de Informática</span></h6>
-+		<h6 class="logo_sme" title="Secretaria Municipal de Educa&ccedil;&atilde;o"><span>SME - Secretaria Municipal de Educa&ccedil;&atilde;o</span></h6>
+-        <h6 class="logo_cae" title="CAE - Comissão de Atividades Educacionais"><span>CAE - Comissão de Atividades Educacionais</span></h6>
++	  <h6 class="logo_sme" title="Secretaria Municipal de Educa&ccedil;&atilde;o"><span>SME - Secretaria Municipal de Educa&ccedil;&atilde;o</span></h6>-->
 +		<h6 class="logo_orientadores" title="Desenvolvido pela equipe de Orientadores de Inform&aacute;tica"><span>Desenvolvido pela equipe de Orientadores de Inform&aacute;tica</span></h6>
++        <h6 class="logo_cae" title="CAE - Comiss&atilde;o de Atividades Educacionais"><span>CAE - Comiss&atilde;o de Atividades Educacionais</span></h6>
  	</div>
      
  </div>

@@ -1,5 +1,5 @@
---- atividades/1004MAT002/1004MAT00202.js	2012-06-01 14:46:01.972692743 -0300
-+++ atividades/1004MAT002/1004MAT00202.js.new	2012-06-01 15:15:53.152719657 -0300
+--- atividades/1004MAT002/1004MAT00202.js	2012-06-22 14:49:27.699885083 -0300
++++ atividades/1004MAT002/1004MAT00202.js.new	2012-06-22 15:10:36.631904149 -0300
 @@ -789,10 +789,10 @@
  F[0][0]='<img src="imagens/1ter&#x00E7;o.JPG" width="99" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
  F[0][1] = 1;

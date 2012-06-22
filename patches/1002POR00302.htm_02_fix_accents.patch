@@ -1,5 +1,5 @@
---- atividades/1002POR003/1002POR00302.htm	2012-06-01 15:09:21.496713772 -0300
-+++ atividades/1002POR003/1002POR00302.htm.new	2012-06-01 15:09:21.496713772 -0300
+--- atividades/1002POR003/1002POR00302.htm	2012-06-22 15:04:07.535898303 -0300
++++ atividades/1002POR003/1002POR00302.htm.new	2012-06-22 15:04:07.539898303 -0300
 @@ -22,7 +22,7 @@
  
  <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
@@ -33,12 +33,3 @@
  
  
  	var i = 0;
-@@ -959,7 +959,7 @@
-               <input type="text" class="GapBox" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="6" maxlength="7">
-               </input></span></td><td><span class="GapSpan" id="GapSpan4">
-               <input type="text" class="GapBox" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="6" maxlength="7">
--              </input></span></td></tr><tr><td><img src="banana.gif" width="132" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td><img src="bico.jpg" width="67" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td><img src="bon&#x00E9;.jpg" width="114" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td><img src="boneca.jpg" width="100" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td><img src="abacaxi.gif" width="100" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td></tr><tr><td><span class="GapSpan" id="GapSpan5">
-+              </input></span></td></tr><tr><td><img src="banana.gif" width="132" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td><img src="bico.jpg" width="67" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td><img src="bon&eacute;.jpg" width="114" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td><img src="boneca.jpg" width="100" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td><img src="abacaxi.gif" width="100" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td></tr><tr><td><span class="GapSpan" id="GapSpan5">
-               <input type="text" class="GapBox" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" size="6" maxlength="7">
-               </input></span></td><td><span class="GapSpan" id="GapSpan6">
-               <input type="text" class="GapBox" id="Gap6" style="width: 4em;" onfocus="TrackFocus(6)" onblur="LeaveGap()" size="4" maxlength="5">

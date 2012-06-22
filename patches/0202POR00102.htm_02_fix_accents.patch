@@ -1,5 +1,5 @@
---- atividades/0202POR001/0202POR00102.htm	2012-06-01 14:59:33.460704936 -0300
-+++ atividades/0202POR001/0202POR00102.htm.new	2012-06-01 14:59:33.460704936 -0300
+--- atividades/0202POR001/0202POR00102.htm	2012-06-22 14:54:22.611889514 -0300
++++ atividades/0202POR001/0202POR00102.htm.new	2012-06-22 14:54:22.615889514 -0300
 @@ -8,7 +8,7 @@
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
  <meta name="DC:Creator" content="UNREGISTERED" />
@@ -9,7 +9,16 @@
  
  
  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
-@@ -1012,11 +1012,11 @@
+@@ -25,7 +25,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS -->
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS -->
+ 
+ 
+ <script type="text/javascript">
+@@ -441,11 +441,11 @@
  }
  
  var Feedback = '';
@@ -24,7 +33,7 @@
  var Proximo = 'Agora vamos para o 3º Exercício!';
  var Finished = false;
  var Locked = false;
-@@ -1543,8 +1543,8 @@
+@@ -972,8 +972,8 @@
  
  <div id="InstructionsDiv" class="StdDiv"> 
    <p id="Instructions"><strong>Instru&ccedil;&otilde;es:</strong> Escreva nos 
@@ -35,7 +44,7 @@
  </div>
  
  
-@@ -1577,7 +1577,7 @@
+@@ -1006,7 +1006,7 @@
                <div align="center"><strong><em>f)</em> <span class="GapSpan" id="GapSpan10"> 
                  <input type="text" class="GapBox" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" size="1" maxlength="2">
                  </input> 
@@ -44,7 +53,7 @@
              <td> 
                <div align="center"><strong><em>l)</em> l <span class="GapSpan" id="GapSpan20"> 
                  <input type="text" class="GapBox" id="Gap20" onfocus="TrackFocus(20)" onblur="LeaveGap()" size="1" maxlength="2">
-@@ -1760,7 +1760,7 @@
+@@ -1189,7 +1189,7 @@
  
  
  <!--

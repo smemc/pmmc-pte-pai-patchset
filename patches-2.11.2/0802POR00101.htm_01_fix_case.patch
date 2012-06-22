@@ -1,0 +1,20 @@
+--- atividades/0802POR001/0802POR00101.htm	2012-06-01 14:38:31.524685974 -0300
++++ atividades/0802POR001/0802POR00101.htm.new	2012-06-01 15:08:24.036712908 -0300
+@@ -99,7 +99,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontal - </h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue"><img src="IMAGENS/unha.gif" alt="unha.gif" title="unha" width="149" height="150"></img></td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue"><img src="IMAGENS/banho.jpg" alt="banho.jpg" title="banho" width="101" height="150"></img></td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue"><img src="IMAGENS/joaninha.jpg" alt="joaninha.jpg" title="joaninha" width="145" height="150"></img></td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue"><img src="IMAGENS/minhoca.jpg" alt="minhoca.jpg" title="minhoca" width="214" height="150"></img></td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue"><img src="imagens/unha.gif" alt="unha.gif" title="unha" width="149" height="150"></img></td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue"><img src="imagens/banho.jpg" alt="banho.jpg" title="banho" width="101" height="150"></img></td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue"><img src="imagens/joaninha.jpg" alt="joaninha.jpg" title="joaninha" width="145" height="150"></img></td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue"><img src="imagens/minhoca.jpg" alt="minhoca.jpg" title="minhoca" width="214" height="150"></img></td></tr>
+ 
+ </tbody>
+ </table>
+@@ -112,7 +112,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Vertical - </h3></td></tr>
+ 
+-<tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue"><img src="IMAGENS/ninho.jpg" alt="ninho.jpg" title="ninho" width="175" height="150"></img></td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue"><img src="IMAGENS/galinha.JPG" alt="galinha.JPG" title="galinha" width="149" height="150"></img></td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue"><img src="IMAGENS/caminhao.png" alt="caminhao.png" title="caminhao" width="135" height="150"></img></td></tr>
++<tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue"><img src="imagens/ninho.jpg" alt="ninho.jpg" title="ninho" width="175" height="150"></img></td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue"><img src="imagens/galinha.jpg" alt="galinha.jpg" title="galinha" width="149" height="150"></img></td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue"><img src="imagens/caminhao.png" alt="caminhao.png" title="caminhao" width="135" height="150"></img></td></tr>
+ 
+ </tbody>
+ </table>

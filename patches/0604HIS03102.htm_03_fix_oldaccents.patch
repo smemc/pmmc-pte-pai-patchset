@@ -1,5 +1,5 @@
---- atividades/0604HIS031/0604HIS03102.htm	2012-06-01 15:07:50.932712411 -0300
-+++ atividades/0604HIS031/0604HIS03102.htm.new	2012-06-01 15:07:50.932712411 -0300
+--- atividades/0604HIS031/0604HIS03102.htm	2012-06-22 15:02:38.087896959 -0300
++++ atividades/0604HIS031/0604HIS03102.htm.new	2012-06-22 15:02:38.087896959 -0300
 @@ -4,7 +4,7 @@
  <META name="Author" content="Criado usando Galli's QuizFaber 2.10.1">
  <META name="generator" content="Galli's QuizFaber 2.10.1">
@@ -80,28 +80,7 @@
  <TR>
  </TABLE></CENTER>
  <P><CENTER>
-@@ -368,17 +368,17 @@
- <TD ALIGN='CENTER'  WIDTH='10%'>
- <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> A </FONT><INPUT TYPE='checkbox' NAME='radio005000'></TD>
- <TD ALIGN='LEFT'  WIDTH=90%>
--<FONT  FACE='Arial' SIZE='2'>INÁCIO XAVIER</FONT></TD>
-+<FONT  FACE='Arial' SIZE='2'>IN&Aacute;CIO XAVIER</FONT></TD>
- <TR>
- <TD ALIGN='CENTER'  WIDTH='10%'>
- <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='checkbox' NAME='radio005001'></TD>
- <TD ALIGN='LEFT'  WIDTH=90%>
--<FONT  FACE='Arial' SIZE='2'>MARCO AURÉLIO BERTAIOLLI</FONT></TD>
-+<FONT  FACE='Arial' SIZE='2'>MARCO AUR&Eacute;LIO BERTAIOLLI</FONT></TD>
- <TR>
- <TD ALIGN='CENTER'  WIDTH='10%'>
- <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> C </FONT><INPUT TYPE='checkbox' NAME='radio005002'></TD>
- <TD ALIGN='LEFT'  WIDTH=90%>
--<FONT  FACE='Arial' SIZE='2'>ANTONIO SIMÕES</FONT></TD>
-+<FONT  FACE='Arial' SIZE='2'>ANTONIO SIM&Otilde;ES</FONT></TD>
- <TR>
- </TABLE></CENTER>
- <P><CENTER>
-@@ -441,7 +441,7 @@
+@@ -438,7 +438,7 @@
  <TD ALIGN='CENTER'  WIDTH='10%'>
  <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> C </FONT><INPUT TYPE='checkbox' NAME='radio006002'></TD>
  <TD ALIGN='LEFT'  WIDTH=90%>
@@ -110,7 +89,7 @@
  <TR>
  </TABLE></CENTER>
  <P><CENTER>
-@@ -487,7 +487,7 @@
+@@ -484,7 +484,7 @@
  <A NAME='qstAnchor6'></A>
  <strong><FONT  FACE='Arial' SIZE='3'>Pergunta 7</FONT></strong>
  <P>

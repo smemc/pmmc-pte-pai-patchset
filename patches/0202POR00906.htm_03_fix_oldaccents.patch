@@ -1,6 +1,6 @@
---- atividades/0202POR009/0202POR00906.htm	2012-06-01 15:00:06.560705433 -0300
-+++ atividades/0202POR009/0202POR00906.htm.new	2012-06-01 15:00:06.560705433 -0300
-@@ -1155,7 +1155,7 @@
+--- atividades/0202POR009/0202POR00906.htm	2012-06-22 14:54:54.507889993 -0300
++++ atividades/0202POR009/0202POR00906.htm.new	2012-06-22 14:54:54.511889993 -0300
+@@ -585,7 +585,7 @@
  var CorrectResponse = 'Parab&eacute;ns. Bom trabalho!';
  var IncorrectResponse = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!';
  var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';

@@ -1,5 +1,5 @@
---- atividades/1004MAT001/1004MAT00105.htm	2012-06-01 15:10:29.364714792 -0300
-+++ atividades/1004MAT001/1004MAT00105.htm.new	2012-06-01 15:10:29.364714792 -0300
+--- atividades/1004MAT001/1004MAT00105.htm	2012-06-22 15:05:14.735899313 -0300
++++ atividades/1004MAT001/1004MAT00105.htm.new	2012-06-22 15:05:14.735899313 -0300
 @@ -5,7 +5,7 @@
  
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
@@ -42,7 +42,7 @@
  </div>
  
  
-@@ -881,14 +881,14 @@
+@@ -881,7 +881,7 @@
              <td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="7"></input></span></td></tr><tr>
              <td bgcolor="#FFFFCC"><font size="4">Trezentos mil e nove</font></td>
              <td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="7"></input></span></td></tr><tr>
@@ -51,11 +51,3 @@
                duzentos</font></td>
              <td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="7"></input></span></td></tr><tr>
              <td bgcolor="#FFFFCC"><font size="4">Vinte e seis mil, trezentos e 
-               oitenta e seis</font></td>
-             <td><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="7"></input></span></td></tr><tr>
-             <td bgcolor="#FFFFCC"><font size="4">Duzentos e sete mil, oitocentos 
--              e cinq&#x00FC;enta</font></td>
-+              e cinq&uuml;enta</font></td>
-             <td><span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="7"></input></span></td></tr><tr>
-             <td bgcolor="#FFFFCC"><font size="4">Dezessete mil</font></td>
-             <td><span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="7"></input></span></td></tr></table><br />

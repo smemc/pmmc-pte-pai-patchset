@@ -1,0 +1,11 @@
+--- atividades/0603POR014/0603POR01401.htm	2012-06-01 14:37:49.596685344 -0300
++++ atividades/0603POR014/0603POR01401.htm.new	2012-06-01 15:07:40.940712261 -0300
+@@ -28,7 +28,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions"><img border="0" src="FERIADO.gif" width="468" height="60"></p>
++	<p id="Instructions"><img border="0" src="feriado.gif" width="468" height="60"></p>
+ </div>
+ 
+ <div id="MainDiv" class="StdDiv">

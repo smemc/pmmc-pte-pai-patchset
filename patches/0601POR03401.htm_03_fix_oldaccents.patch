@@ -1,6 +1,6 @@
---- atividades/0601POR034/0601POR03401.htm	2012-06-01 15:04:17.284709201 -0300
-+++ atividades/0601POR034/0601POR03401.htm.new	2012-06-01 15:04:17.288709201 -0300
-@@ -467,12 +467,12 @@
+--- atividades/0601POR034/0601POR03401.htm	2012-06-22 14:59:05.063893758 -0300
++++ atividades/0601POR034/0601POR03401.htm.new	2012-06-22 14:59:05.063893758 -0300
+@@ -465,12 +465,12 @@
  }
  
  var Feedback = '';
@@ -17,7 +17,7 @@
  var Finished = false;
  var Locked = false;
  var Score = 0;
-@@ -873,7 +873,7 @@
+@@ -899,7 +899,7 @@
  </div>
  
  <div id="InstructionsDiv" class="StdDiv">

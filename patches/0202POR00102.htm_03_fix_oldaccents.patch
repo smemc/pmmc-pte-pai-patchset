@@ -1,6 +1,6 @@
---- atividades/0202POR001/0202POR00102.htm	2012-06-01 14:59:33.468704936 -0300
-+++ atividades/0202POR001/0202POR00102.htm.new	2012-06-01 14:59:33.472704937 -0300
-@@ -1017,7 +1017,7 @@
+--- atividades/0202POR001/0202POR00102.htm	2012-06-22 14:54:22.623889514 -0300
++++ atividades/0202POR001/0202POR00102.htm.new	2012-06-22 14:54:22.627889514 -0300
+@@ -446,7 +446,7 @@
  var GiveHint = 'Foi adicionada a letra seguinte';
  var CaseSensitive = false;
  var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';

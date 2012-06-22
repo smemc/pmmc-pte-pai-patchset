@@ -1,5 +1,5 @@
---- atividades/1003POR004/1003POR00401.htm	2012-06-01 15:09:40.604714059 -0300
-+++ atividades/1003POR004/1003POR00401.htm.new	2012-06-01 15:09:40.608714059 -0300
+--- atividades/1003POR004/1003POR00401.htm	2012-06-22 15:04:26.987898595 -0300
++++ atividades/1003POR004/1003POR00401.htm.new	2012-06-22 15:04:26.987898595 -0300
 @@ -22,7 +22,7 @@
  
  <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
@@ -35,7 +35,7 @@
  </div>
  
  
-@@ -1016,77 +1016,77 @@
+@@ -1016,31 +1016,31 @@
          <br />
          <table align="center" border =1>
            <tr> 
@@ -73,15 +73,12 @@
              <td><div align="left"><span class="GapSpan" id="GapSpan5"> 
                  <input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="20"></input> 
                  </span></div></td>
-           </tr>
-           <tr> 
--            <td><div align="left">cinq&#x00FC;enta</div></td>
-+            <td><div align="left">cinq&uuml;enta</div></td>
+@@ -1050,37 +1050,37 @@
              <td><div align="left"><span class="GapSpan" id="GapSpan6"> 
                  <input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="20"></input> 
                  </span></div></td>
--            <td><div align="left">freq&#x00FC;&#x00EA;ncia</div></td>
-+            <td><div align="left">freq&uuml;&ecirc;ncia</div></td>
+-            <td><div align="left">frequ&#x00EA;ncia</div></td>
++            <td><div align="left">frequ&ecirc;ncia</div></td>
              <td><div align="left"><span class="GapSpan" id="GapSpan7"> 
                  <input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="20"></input> 
                  </span></div></td>
@@ -120,13 +117,6 @@
 +            <td><div align="left">b&ecirc;n&ccedil;&atilde;o</div></td>
              <td><div align="left"><span class="GapSpan" id="GapSpan13"> 
                  <input type="text" id="Gap13" onfocus="TrackFocus(13)" onblur="LeaveGap()" class="GapBox" size="20"></input> 
-                 </span></div></td>
-           </tr>
-           <tr> 
--            <td><div align="left">ag&#x00FC;entou</div></td>
-+            <td><div align="left">ag&uuml;entou</div></td>
-             <td><div align="left"><span class="GapSpan" id="GapSpan14"> 
-                 <input type="text" id="Gap14" onfocus="TrackFocus(14)" onblur="LeaveGap()" class="GapBox" size="20"></input> 
                  </span></div></td>
 @@ -1106,41 +1106,41 @@
                  </span></div></td>

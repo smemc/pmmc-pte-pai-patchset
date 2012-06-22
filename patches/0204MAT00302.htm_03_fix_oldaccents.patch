@@ -1,6 +1,6 @@
---- atividades/0204MAT003/0204MAT00302.htm	2012-06-01 15:01:13.808706444 -0300
-+++ atividades/0204MAT003/0204MAT00302.htm.new	2012-06-01 15:01:13.808706444 -0300
-@@ -1017,7 +1017,7 @@
+--- atividades/0204MAT003/0204MAT00302.htm	2012-06-22 14:56:00.635890987 -0300
++++ atividades/0204MAT003/0204MAT00302.htm.new	2012-06-22 14:56:00.639890987 -0300
+@@ -441,7 +441,7 @@
  var GiveHint = 'Foi adicionada a letra seguinte';
  var CaseSensitive = false;
  var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
@@ -9,7 +9,7 @@
  var Finished = false;
  var Locked = false;
  var Score = 0;
-@@ -1391,7 +1391,7 @@
+@@ -815,7 +815,7 @@
          <table width="600" border="1" align="center" cellpadding="0" cellspacing="0">
            <tr bgcolor="#FFFFCC"> 
              <td width="300"> 

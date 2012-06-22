@@ -1,5 +1,5 @@
---- atividades/0202MAT004/0202MAT00406.htm	2012-06-01 14:59:28.000704854 -0300
-+++ atividades/0202MAT004/0202MAT00406.htm.new	2012-06-01 14:59:28.000704854 -0300
+--- atividades/0202MAT004/0202MAT00406.htm	2012-06-22 14:54:17.319889434 -0300
++++ atividades/0202MAT004/0202MAT00406.htm.new	2012-06-22 14:54:17.323889433 -0300
 @@ -8,7 +8,7 @@
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
  <meta name="DC:Creator" content="Marlon Militani" />
@@ -54,9 +54,9 @@
  
  
   -->
--  <div align="left"><strong><font size="3">Complete as seq&#x00FC;&#x00EA;ncias 
+-  <div align="left"><strong><font size="3">Complete as sequ&#x00EA;ncias 
 -    dos n&#x00FA;meros pares:</font></strong> </div>
-+  <div align="left"><strong><font size="3">Complete as seq&uuml;&ecirc;ncias 
++  <div align="left"><strong><font size="3">Complete as sequ&ecirc;ncias 
 +    dos n&uacute;meros pares:</font></strong> </div>
    <div id="ClozeDiv">
  <form id="Cloze" method="post" action="" onsubmit="return false;">

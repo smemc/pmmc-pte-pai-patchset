@@ -1,5 +1,5 @@
---- atividades/0202POR009/0202POR00906.htm	2012-06-01 15:00:06.548705434 -0300
-+++ atividades/0202POR009/0202POR00906.htm.new	2012-06-01 15:00:06.552705434 -0300
+--- atividades/0202POR009/0202POR00906.htm	2012-06-22 14:54:54.499889993 -0300
++++ atividades/0202POR009/0202POR00906.htm.new	2012-06-22 14:54:54.499889993 -0300
 @@ -7,7 +7,7 @@
  
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
@@ -9,7 +9,16 @@
  
  
  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
-@@ -1152,9 +1152,9 @@
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -582,9 +582,9 @@
  
  
  
@@ -22,7 +31,7 @@
  var Proximo = 'Agora vamos para o Próximo Exercício!';
  var DivWidth = 600; //default value
  var FeedbackWidth = 200; //default
-@@ -1334,7 +1334,7 @@
+@@ -764,7 +764,7 @@
  F[0][0]='feio';
  F[0][1] = 1;
  F[1] = new Array();
@@ -31,7 +40,7 @@
  F[1][1] = 2;
  F[2] = new Array();
  F[2][0]='atrasado';
-@@ -1362,7 +1362,7 @@
+@@ -792,7 +792,7 @@
  D[0][1] = 1;
  D[0][2] = 0;
  D[1] = new Array();
@@ -40,7 +49,7 @@
  D[1][1] = 2;
  D[1][2] = 0;
  D[2] = new Array();
-@@ -1505,9 +1505,9 @@
+@@ -935,9 +935,9 @@
  
  <div id="InstructionsDiv" class="StdDiv"> 
    <p id="Instructions"><strong>Instru&ccedil;&otilde;es:</strong> Arraste o item 

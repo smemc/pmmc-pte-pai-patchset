@@ -1,5 +1,5 @@
---- atividades/0403POR003/0403POR00312.htm	2012-06-01 15:02:30.116707591 -0300
-+++ atividades/0403POR003/0403POR00312.htm.new	2012-06-01 15:02:30.116707591 -0300
+--- atividades/0403POR003/0403POR00312.htm	2012-06-22 14:57:14.771892100 -0300
++++ atividades/0403POR003/0403POR00312.htm.new	2012-06-22 14:57:14.771892100 -0300
 @@ -5,7 +5,7 @@
  
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
@@ -55,15 +55,6 @@
  </div>
  
  
-@@ -85,7 +85,7 @@
- <div id="ClozeDiv">
- <form id="Cloze" method="post" action="" onsubmit="return false;">
- <div class="ClozeBody">
--<table align="center"><tr> <td><img src="10-balas.png" width="260" height="150"></td> <td><img src="02-l&#x00E1;pis.png" width="260" height="150"></td> <td><img src="01-sol.png" width="260" height="150"></td> </tr> <tr align="center"> <td><span class="GapSpan" id="GapSpan0"><input type="text" class="GapBox" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="6" maxlength="2"></input></span></td> <td><span class="GapSpan" id="GapSpan1"><input type="text" class="GapBox" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="6" maxlength="2"></input></span></td> <td><span class="GapSpan" id="GapSpan2"><input type="text" class="GapBox" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="6" maxlength="2"></input></span></td> </tr> <tr> <td><img src="03-barco.png" width="260" height="150"></td> <td><img src="05-sorvete.png" width="260" height="150"></td> <td><img src="08-coracao.png" width="260" height="150"></td> </tr> <tr align="center"> <td><span class="GapSpan" id="GapSpan3"><input type="text" class="GapBox" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="6" maxlength="2"></input></span></td> <td><span class="GapSpan" id="GapSpan4"><input type="text" class="GapBox" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="6" maxlength="2"></input></span></td> <td><span class="GapSpan" id="GapSpan5"><input type="text" class="GapBox" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" size="6" maxlength="2"></input></span></td> </tr></table>
-+<table align="center"><tr> <td><img src="10-balas.png" width="260" height="150"></td> <td><img src="02-l&aacute;pis.png" width="260" height="150"></td> <td><img src="01-sol.png" width="260" height="150"></td> </tr> <tr align="center"> <td><span class="GapSpan" id="GapSpan0"><input type="text" class="GapBox" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="6" maxlength="2"></input></span></td> <td><span class="GapSpan" id="GapSpan1"><input type="text" class="GapBox" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="6" maxlength="2"></input></span></td> <td><span class="GapSpan" id="GapSpan2"><input type="text" class="GapBox" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="6" maxlength="2"></input></span></td> </tr> <tr> <td><img src="03-barco.png" width="260" height="150"></td> <td><img src="05-sorvete.png" width="260" height="150"></td> <td><img src="08-coracao.png" width="260" height="150"></td> </tr> <tr align="center"> <td><span class="GapSpan" id="GapSpan3"><input type="text" class="GapBox" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="6" maxlength="2"></input></span></td> <td><span class="GapSpan" id="GapSpan4"><input type="text" class="GapBox" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="6" maxlength="2"></input></span></td> <td><span class="GapSpan" id="GapSpan5"><input type="text" class="GapBox" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" size="6" maxlength="2"></input></span></td> </tr></table>
- </div>
- </form>
- </div>
 @@ -110,12 +110,12 @@
  
  <div class="NavButtonBar" id="BottomNavBar">

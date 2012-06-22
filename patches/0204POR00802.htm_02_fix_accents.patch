@@ -1,5 +1,5 @@
---- atividades/0204POR008/0204POR00802.htm	2012-06-01 15:02:11.260707307 -0300
-+++ atividades/0204POR008/0204POR00802.htm.new	2012-06-01 15:02:11.264707308 -0300
+--- atividades/0204POR008/0204POR00802.htm	2012-06-22 14:56:57.439891840 -0300
++++ atividades/0204POR008/0204POR00802.htm.new	2012-06-22 14:56:57.439891840 -0300
 @@ -8,7 +8,7 @@
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
  <meta name="DC:Creator" content="Marlon Militani" />
@@ -90,8 +90,8 @@
            <tr> 
              <td width="300" bgcolor="#33CCFF">
  <div align="center"><font size="3"><strong>escola 
--                crian&#x00E7;a feliz e sempre</strong></font></div></td>
-+                crian&ccedil;a feliz e sempre</strong></font></div></td>
+-                &quot;crian&#x00E7;a feliz&quot; e sempre</strong></font></div></td>
++                &quot;crian&ccedil;a feliz&quot; e sempre</strong></font></div></td>
              <td width="300" bgcolor="#99CCFF"> 
                <div align="center"><span class="GapSpan" id="GapSpan5"> 
                  <input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="30">

@@ -1,5 +1,5 @@
---- atividades/1004CIE002/1004CIE00202.htm	2012-06-01 15:10:25.128714728 -0300
-+++ atividades/1004CIE002/1004CIE00202.htm.new	2012-06-01 15:10:25.132714728 -0300
+--- atividades/1004CIE002/1004CIE00202.htm	2012-06-22 15:05:10.567899250 -0300
++++ atividades/1004CIE002/1004CIE00202.htm.new	2012-06-22 15:05:10.567899250 -0300
 @@ -5,7 +5,7 @@
  
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
@@ -51,16 +51,14 @@
  </div>
  
  
-@@ -99,14 +99,14 @@
- <form id="Cloze" method="post" action="" onsubmit="return false;">
+@@ -100,13 +100,13 @@
  <div class="ClozeBody">
  <table border=1 align="center" bgcolor="white"><tr>
--            <td><div align="center"><font size=4>Aster&#x00F3;ides &nbsp;&nbsp;Cometas 
+             <td><div align="center"><font size=4>Asteroides &nbsp;&nbsp;Cometas 
 -                &nbsp;&nbsp;Estrela&nbsp;&nbsp;J&#x00FA;piter &nbsp;&nbsp;Lua</br> 
 -                Marte &nbsp;&nbsp;Merc&#x00FA;rio &nbsp;&nbsp;Netuno &nbsp;&nbsp;&#x00D3;rbita</br>Saturno 
 -                &nbsp;&nbsp;Sol &nbsp;&nbsp;Urano &nbsp;&nbsp;V&#x00EA;nus &nbsp;&nbsp;Vermelho</br></font size></div></td>
 -          </tr></table><br /><br /><table align="center"><tr><td>O Sistema Solar &#x00E9; formado pelo <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> e oito planetas.</td></tr><tr><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> &#x00E9; o planeta mais pr&#x00F3;ximo do Sol.</td></tr><tr><td>O planeta mais distante do Sol &#x00E9; <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>.</td></tr><tr><td>O trajeto que cada planeta segue ao redor do Sol, chama-se <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>.</td></tr><tr><td>O Sol &#x00E9; uma <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="7"></input></span>.</td></tr><tr><td>O sat&#x00E9;lite natural da Terra &#x00E9; a <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>.</td></tr><tr><td>Os <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="10"></input></span> s&#x00E3;o pequenos corpos celestes.</td></tr><tr><td>Os <span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> s&#x00E3;o corpos celestes formados por uma parte s&#x00F3;lida composta de gelo e poeira.</td></tr><tr><td>O planeta <span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="6"></input>
-+            <td><div align="center"><font size=4>Aster&oacute;ides &nbsp;&nbsp;Cometas 
 +                &nbsp;&nbsp;Estrela&nbsp;&nbsp;J&uacute;piter &nbsp;&nbsp;Lua</br> 
 +                Marte &nbsp;&nbsp;Merc&uacute;rio &nbsp;&nbsp;Netuno &nbsp;&nbsp;&Oacute;rbita</br>Saturno 
 +                &nbsp;&nbsp;Sol &nbsp;&nbsp;Urano &nbsp;&nbsp;V&ecirc;nus &nbsp;&nbsp;Vermelho</br></font size></div></td>

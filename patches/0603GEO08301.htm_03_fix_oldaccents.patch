@@ -1,11 +1,11 @@
---- atividades/0603GEO083/0603GEO08301.htm	2012-06-01 15:07:15.332711876 -0300
-+++ atividades/0603GEO083/0603GEO08301.htm.new	2012-06-01 15:07:15.332711876 -0300
+--- atividades/0603GEO083/0603GEO08301.htm	2012-06-22 15:02:02.703896427 -0300
++++ atividades/0603GEO083/0603GEO08301.htm.new	2012-06-22 15:02:02.707896427 -0300
 @@ -463,9 +463,9 @@
  var AcrossCaption = '';
  var DownCaption = '';
  var Correct = 'CERTO MUITO BEM !';
--var Incorrect = 'ALGUMAS RESPOSTA AINDA NÃO ESTÃO CORRETAS.'; 
-+var Incorrect = 'ALGUMAS RESPOSTA AINDA N&Atilde;O EST&Atilde;O CORRETAS.'; 
+-var Incorrect = 'Algumas respostas ainda não estão corretas.'; 
++var Incorrect = 'Algumas respostas ainda n&atilde;o est&atilde;o corretas.'; 
  var GiveHint = 'A correct letter has been added.';
 -var YourScoreIs = '<br>A sua pontuação é: ';
 +var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';

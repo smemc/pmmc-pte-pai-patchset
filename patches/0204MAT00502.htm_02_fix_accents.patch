@@ -1,5 +1,5 @@
---- atividades/0204MAT005/0204MAT00502.htm	2012-06-01 15:01:31.084706704 -0300
-+++ atividades/0204MAT005/0204MAT00502.htm.new	2012-06-01 15:01:31.088706704 -0300
+--- atividades/0204MAT005/0204MAT00502.htm	2012-06-22 14:56:17.415891239 -0300
++++ atividades/0204MAT005/0204MAT00502.htm.new	2012-06-22 14:56:17.415891239 -0300
 @@ -7,7 +7,7 @@
  
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
@@ -9,7 +9,7 @@
  
  
  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
-@@ -1152,9 +1152,9 @@
+@@ -576,9 +576,9 @@
  
  
  
@@ -22,7 +22,7 @@
  var Proximo = 'Agora vamos para o Próximo Exercício!';
  var DivWidth = 600; //default value
  var FeedbackWidth = 200; //default
-@@ -1331,48 +1331,48 @@
+@@ -755,48 +755,48 @@
  
  F = new Array();
  F[0] = new Array();
@@ -83,7 +83,7 @@
  D[5][1] = 6;
  D[5][2] = 0;
  
-@@ -1486,14 +1486,14 @@
+@@ -910,14 +910,14 @@
  
  <div class="Titles">
  	

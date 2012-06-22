@@ -1,5 +1,5 @@
---- atividades/0803MAT005/0803MAT00501.htm	2012-06-01 15:08:28.696712979 -0300
-+++ atividades/0803MAT005/0803MAT00501.htm.new	2012-06-01 15:08:28.696712979 -0300
+--- atividades/0803MAT005/0803MAT00501.htm	2012-06-22 15:03:15.031897514 -0300
++++ atividades/0803MAT005/0803MAT00501.htm.new	2012-06-22 15:03:15.031897514 -0300
 @@ -5,7 +5,7 @@
  
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
@@ -18,15 +18,17 @@
  <style type="text/css">
  
  [strStyleSheet-OI]
-@@ -56,16 +56,16 @@
+@@ -56,17 +56,17 @@
  </div>
  
  <div class="Titles">
 -	<h2 class="ExerciseTitle">O dia, a semana, o m&#x00EA;s e o ano...</h2>
 +	<h2 class="ExerciseTitle">O dia, a semana, o m&ecirc;s e o ano...</h2>
  
--	<h3 class="ExerciseSubtitle">Voc&#x00EA; j&#x00E1; sabe que podemos medir o tempo em horas, minutos e segundos.<br />Outras unidades de medida de tempo s&#x00E3;o as semanas, os meses, os anos, as d&#x00E9;cadas, os s&#x00E9;ulos, os mil&#x00EA;nios.</h3>
-+	<h3 class="ExerciseSubtitle">Voc&ecirc; j&aacute; sabe que podemos medir o tempo em horas, minutos e segundos.<br />Outras unidades de medida de tempo s&atilde;o as semanas, os meses, os anos, as d&eacute;cadas, os s&eacute;ulos, os mil&ecirc;nios.</h3>
+-	<h3 class="ExerciseSubtitle">Voc&#x00EA; j&#x00E1; sabe que podemos medir o tempo em horas, minutos e segundos.<br />
+-	Outras unidades de medida de tempo s&#x00E3;o as semanas, os meses, os anos, as d&#x00E9;cadas, os s&#x00E9;culos, os mil&#x00EA;nios.</h3>
++	<h3 class="ExerciseSubtitle">Voc&ecirc; j&aacute; sabe que podemos medir o tempo em horas, minutos e segundos.<br />
++	Outras unidades de medida de tempo s&atilde;o as semanas, os meses, os anos, as d&eacute;cadas, os s&eacute;culos, os mil&ecirc;nios.</h3>
  
  
  
@@ -38,7 +40,7 @@
  </div>
  
  
-@@ -85,7 +85,7 @@
+@@ -86,7 +86,7 @@
  <div id="ClozeDiv">
  <form id="Cloze" method="post" action="" onsubmit="return false;">
  <div class="ClozeBody">
