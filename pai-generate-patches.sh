@@ -14,7 +14,7 @@ generate_patches() {
     oldaccents_count=0
     read_count=0
 
-    for file_htm in $DATA_DEST/atividades/*/*.{htm,js}
+    for file_htm in $DATA_DEST/atividades/*/*.{htm*,js}
     do
         read_count=$(( read_count + 1 ))
         SED_ARGS=""
