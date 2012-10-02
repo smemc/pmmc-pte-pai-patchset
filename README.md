@@ -4,7 +4,7 @@ pmmc-pte-pai-patchset
 Introdução
 ----------
 
-Esta é uma coleção de patches (correções) para o PAI 2.12.1, cujo objetivo principal é fazê-lo funcionar corretamente em servidores Linux, resolvendo basicamente dois tipos de problemas:
+Esta é uma coleção de patches (correções) para o PAI 2.12.2, cujo objetivo principal é fazê-lo funcionar corretamente em servidores Linux, resolvendo basicamente dois tipos de problemas:
 
 1. Divergências na caixa (maiúsculas/minúsculas) dos nomes de arquivos referenciados nas páginas HTML.
 2. Divergências na codificação de letras acentuadas (ISO-8859-1 ou UTF-8).
@@ -34,7 +34,7 @@ Sumário da última geração de patches para a versão 2.12.2 (02/10/2012)
 * 149 patches gerados para corrigir a caixa das letras dos nomes de arquivos.
 * 1892 patches gerados para substituir a codificação de acentos UTF-8.
 * 1456 patches gerados para substituir a codificação de acentos ISO-8859-1.
-* **Observação:** o script de geração de patches foi corrigido nesta data para incluir arquivos do tipo 1234ABC56789.html, que eram indevidamente desconsiderados nas gerações anteriores.
+* **Observação:** o script de geração de patches foi corrigido nesta data para incluir arquivos do tipo `1234ABC56789.html`, que eram indevidamente desconsiderados nas gerações anteriores.
 
 Sumário da última geração de patches para a versão 2.12.1 (22/06/2012)
 ----------------------------------------------------------------------
