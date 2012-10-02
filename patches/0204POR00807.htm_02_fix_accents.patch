@@ -1,5 +1,5 @@
---- atividades/0204POR008/0204POR00807.htm	2012-06-22 14:56:59.891891877 -0300
-+++ atividades/0204POR008/0204POR00807.htm.new	2012-06-22 14:56:59.891891877 -0300
+--- atividades/0204POR008/0204POR00807.htm	2012-10-02 10:02:04.927849044 -0300
++++ atividades/0204POR008/0204POR00807.htm.new	2012-10-02 10:02:04.927849044 -0300
 @@ -8,7 +8,7 @@
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
  <meta name="DC:Creator" content="Marlon Militani" />
@@ -53,15 +53,6 @@
      que produzem as frutas:</strong></font> </div>
    <div id="ClozeDiv">
  <form id="Cloze" method="post" action="" onsubmit="return false;">
-@@ -914,7 +914,7 @@
-                 </input> 
-                 </span></div></td>
-             <td width="150" bgcolor="#FFCC33"> 
--              <div align="center"><font size="3"><strong>p&#x00EA;ra</strong></font></div></td>
-+              <div align="center"><font size="3"><strong>p&ecirc;ra</strong></font></div></td>
-             <td width="150" bgcolor="#FFCC33"> 
-               <div align="center"><span class="GapSpan" id="GapSpan3"> 
-                 <input type="text" class="GapBox" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="15" maxlength="15">
 @@ -946,7 +946,7 @@
                  </input> 
                  </span></div></td>

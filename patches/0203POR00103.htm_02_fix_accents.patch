@@ -1,5 +1,5 @@
---- atividades/0203POR001/0203POR00103.htm	2012-06-22 14:55:24.003890436 -0300
-+++ atividades/0203POR001/0203POR00103.htm.new	2012-06-22 14:55:24.003890436 -0300
+--- atividades/0203POR001/0203POR00103.htm	2012-10-02 10:00:28.295847592 -0300
++++ atividades/0203POR001/0203POR00103.htm.new	2012-10-02 10:00:28.295847592 -0300
 @@ -7,7 +7,7 @@
  
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
@@ -45,8 +45,8 @@
  <tbody id="CluesDown">
  <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Vertical</h3></td></tr>
  
--<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">O mesmo que bracelete.</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Quem se cansou est&#x00E1;...</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">Trocar id&#x00E9;ias; falar.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">Fazer parar; acabar.</td></tr>
-+<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">O mesmo que bracelete.</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Quem se cansou est&aacute;...</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">Trocar id&eacute;ias; falar.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">Fazer parar; acabar.</td></tr>
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">O mesmo que bracelete.</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Quem se cansou est&#x00E1;...</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">Trocar ideias; falar.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">Fazer parar; acabar.</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">O mesmo que bracelete.</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Quem se cansou est&aacute;...</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">Trocar ideias; falar.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">Fazer parar; acabar.</td></tr>
  
  </tbody>
  </table>

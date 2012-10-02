@@ -1,5 +1,5 @@
---- atividades/0604GEO034/0604GEO03401.htm	2012-06-22 15:02:36.115896929 -0300
-+++ atividades/0604GEO034/0604GEO03401.htm.new	2012-06-22 15:02:36.115896929 -0300
+--- atividades/0604GEO034/0604GEO03401.htm	2012-10-02 10:07:45.259854158 -0300
++++ atividades/0604GEO034/0604GEO03401.htm.new	2012-10-02 10:07:45.259854158 -0300
 @@ -166,7 +166,7 @@
   valuation = new init_array(1);
   valuation.length = 1;

@@ -1,5 +1,5 @@
---- atividades/1004POR025/1004POR02501.htm	2012-06-22 15:06:32.235900477 -0300
-+++ atividades/1004POR025/1004POR02501.htm.new	2012-06-22 15:06:32.235900477 -0300
+--- atividades/1004POR025/1004POR02501.htm	2012-10-02 10:11:42.891857729 -0300
++++ atividades/1004POR025/1004POR02501.htm.new	2012-10-02 10:11:42.891857729 -0300
 @@ -1,11 +1,11 @@
  <?xml version="1.0"?>
         <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "xhtml11.dtd">
@@ -72,7 +72,7 @@
 -              <td bgcolor="#FFFFCC">O banc&#x00E1;rio dobrou a <span class="GapSpan" id="GapSpan0"> 
 +              <td bgcolor="#FFFFCC">O banc&aacute;rio dobrou a <span class="GapSpan" id="GapSpan0"> 
                  <input type="text" class="GapBox" id="Gap0" style="width: 5em;" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="5" maxlength="10">
-                 </input></span> da camisa pois estava muito quente.</td></tr><tr><td><span class="GapSpan" id="GapSpan1">
+                 </input></span> da camisa, pois estava muito quente.</td></tr><tr><td><span class="GapSpan" id="GapSpan1">
                  <input type="text" class="GapBox" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="61" maxlength="70">
                  </input></span></td></tr><tr>
 -              <td bgcolor="#FFFFCC">Na &#x00E9;poca da escravid&#x00E3;o, as pessoas 

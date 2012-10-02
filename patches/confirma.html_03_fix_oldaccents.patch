@@ -1,0 +1,35 @@
+--- atividades/0602HIS091/confirma.html	2012-10-02 10:12:45.183858665 -0300
++++ atividades/0602HIS091/confirma.html.new	2012-10-02 10:12:45.183858665 -0300
+@@ -15,7 +15,7 @@
+       return pair[1];
+     }
+   } 
+-  alert('Variável ' + variable + ' não encontrada');
++  alert('Vari&aacute;vel ' + variable + ' n&atilde;o encontrada');
+ }
+ </script>
+ 
+@@ -55,7 +55,7 @@
+ <TR>
+ 		<TD BGCOLOR=#91C8FF>5 - <script> document.write( getQueryVariable("p5") ); </script></TD>
+     	<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+-		<TD BGCOLOR=#91C8FF>O Botão.</TD>
++		<TD BGCOLOR=#91C8FF>O Bot&atilde;o.</TD>
+ </TR>
+ <TR>
+ 		<TD BGCOLOR=#91C8FF>6 - <script> document.write( getQueryVariable("p6") ); </script></TD>
+@@ -95,12 +95,12 @@
+ <TR>
+ 		<TD BGCOLOR=#91C8FF>13 - <script> document.write( getQueryVariable("p13") ); </script></TD>
+     	<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+-		<TD BGCOLOR=#91C8FF>O João-de-Barro.</TD>
++		<TD BGCOLOR=#91C8FF>O Jo&atilde;o-de-Barro.</TD>
+ </TR>
+ <TR>
+ 		<TD BGCOLOR=#91C8FF>14 - <script> document.write( getQueryVariable("p14") ); </script></TD>
+     	<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+-		<TD BGCOLOR=#91C8FF>Caixa de Fósforos.</TD>
++		<TD BGCOLOR=#91C8FF>Caixa de F&oacute;sforos.</TD>
+ </TR>
+ <TR>
+ 		<TD BGCOLOR=#91C8FF>15 - <script> document.write( getQueryVariable("p15") ); </script></TD>

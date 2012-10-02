@@ -1,5 +1,5 @@
---- atividades/0203POR009/0203POR00904.htm	2012-06-22 14:55:45.135890755 -0300
-+++ atividades/0203POR009/0203POR00904.htm.new	2012-06-22 14:55:45.135890755 -0300
+--- atividades/0203POR009/0203POR00904.htm	2012-10-02 10:00:49.795847915 -0300
++++ atividades/0203POR009/0203POR00904.htm.new	2012-10-02 10:00:49.795847915 -0300
 @@ -3,13 +3,13 @@
         <html xmlns="http://www.w3.org/1999/xhtml"
               xml:lang="en">
@@ -58,8 +58,8 @@
  <div align="center"><strong><font size="5">(<span class="GapSpan" id="GapSpan5"> 
                  <input type="text" class="GapBox" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" size="1" maxlength="1">
                  </input> 
--                </span>)&nbsp;p&#x00E3;o-de-l&#x00F3;</font></strong></div></td>
-+                </span>)&nbsp;p&atilde;o-de-l&oacute;</font></strong></div></td>
+-                </span>)&nbsp;p&#x00E3;o de l&#x00F3;</font></strong></div></td>
++                </span>)&nbsp;p&atilde;o de l&oacute;</font></strong></div></td>
            </tr>
            <tr> 
              <td width="300" bgcolor="#CC99FF">
@@ -67,8 +67,8 @@
  <div align="center"><strong><font size="5">(<span class="GapSpan" id="GapSpan11"> 
                  <input type="text" class="GapBox" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" size="1" maxlength="1">
                  </input> 
--                </span>)&nbsp;p&#x00E9;-de-moleque</font></strong></div></td>
-+                </span>)&nbsp;p&eacute;-de-moleque</font></strong></div></td>
+-                </span>)&nbsp;p&#x00E9; de moleque</font></strong></div></td>
++                </span>)&nbsp;p&eacute; de moleque</font></strong></div></td>
            </tr>
            <tr> 
              <td width="300" bgcolor="#CC99FF">

@@ -1,5 +1,5 @@
---- atividades/1003POR005/1003POR00501.htm	2012-06-22 15:04:27.983898608 -0300
-+++ atividades/1003POR005/1003POR00501.htm.new	2012-06-22 15:04:27.987898610 -0300
+--- atividades/1003POR005/1003POR00501.htm	2012-10-02 10:09:38.275855856 -0300
++++ atividades/1003POR005/1003POR00501.htm.new	2012-10-02 10:09:38.275855856 -0300
 @@ -22,7 +22,7 @@
  
  <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
@@ -61,16 +61,16 @@
                  Quanto mais (chicrete)</font> <span class="GapSpan" id="GapSpan7"> 
                  <input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="8"></input> 
                  </span> <font size="4">ele comia e (masticava)</font> <span class="GapSpan" id="GapSpan8"> 
-@@ -1031,7 +1031,7 @@
-                 <input type="text" id="Gap13" onfocus="TrackFocus(13)" onblur="LeaveGap()" class="GapBox" size="9"></input> 
+@@ -1032,7 +1032,7 @@
                  </span> <font size="4">ia (ficano)</font> <span class="GapSpan" id="GapSpan14"> 
-                 <input type="text" id="Gap14" onfocus="TrackFocus(14)" onblur="LeaveGap()" class="GapBox" size="7"></input> 
--                </span> <font size="4">o seu &#x201C;bafo&#x201D; Com o (tenpo)</font> 
-+                </span> <font size="4">o seu &ldquo;bafo&rdquo; Com o (tenpo)</font> 
+                 <input type="text" id="Gap14" onfocus="TrackFocus(14)" onblur="LeaveGap()" class="GapBox" size="7">
+                 </input> 
+-                </span> <font size="4">o seu &#x201C;bafo&#x201D;. Com o (tenpo)</font> 
++                </span> <font size="4">o seu &ldquo;bafo&rdquo;. Com o (tenpo)</font> 
                  <span class="GapSpan" id="GapSpan15"> 
                  <input type="text" id="Gap15" onfocus="TrackFocus(15)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input> 
                  </span><font size="4">, ele (comesou)</font> <span class="GapSpan" id="GapSpan16"> 
-@@ -1039,20 +1039,20 @@
+@@ -1040,21 +1040,21 @@
                  </span> <font size="4">a matar moscas. Foi evoluindo para as (largatichas)</font> 
                  <span class="GapSpan" id="GapSpan17"> 
                  <input type="text" id="Gap17" onfocus="TrackFocus(17)" onblur="LeaveGap()" class="GapBox" size="10"></input> 
@@ -85,10 +85,11 @@
 -                </span> <font size="4">barata cascuda de esgoto. Foi a consagra&#x00E7;&#x00E3;o! 
 +                </span> <font size="4">barata cascuda de esgoto. Foi a consagra&ccedil;&atilde;o! 
                  Bob foi contratado por uma (fima)</font> <span class="GapSpan" id="GapSpan20"> 
-                 <input type="text" id="Gap20" onfocus="TrackFocus(20)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input> 
--                </span><font size="4"> de detetiza&#x00E7;&#x00E3;o e vai ficar 
+                 <input type="text" id="Gap20" onfocus="TrackFocus(20)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;">
+                 </input> 
+-                </span><font size="4"> de dedetiza&#x00E7;&#x00E3;o e vai ficar 
 -                por l&#x00E1; at&#x00E9; que (augum) </font><span class="GapSpan" id="GapSpan21"> 
-+                </span><font size="4"> de detetiza&ccedil;&atilde;o e vai ficar 
++                </span><font size="4"> de dedetiza&ccedil;&atilde;o e vai ficar 
 +                por l&aacute; at&eacute; que (augum) </font><span class="GapSpan" id="GapSpan21"> 
                  <input type="text" id="Gap21" onfocus="TrackFocus(21)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input> 
                  </span><font size="4"> bom (demtista)</font> <span class="GapSpan" id="GapSpan22"> 

@@ -1,5 +1,5 @@
---- atividades/0804POR001/0804POR00101.js	2012-06-22 15:08:57.227902655 -0300
-+++ atividades/0804POR001/0804POR00101.js.new	2012-06-22 15:08:57.227902655 -0300
+--- atividades/0804POR001/0804POR00101.js	2012-10-02 10:14:19.099860076 -0300
++++ atividades/0804POR001/0804POR00101.js.new	2012-10-02 10:14:19.099860076 -0300
 @@ -481,11 +481,11 @@
  }
  
@@ -15,3 +15,39 @@
  var Finished = false;
  var Locked = false;
  var Score = 0;
+@@ -682,10 +682,10 @@
+ 
+ function StartUp(){
+ 
+-//*********** Acrescentado pelos Orientadores de Inform&#225;tica de Mogi das Cruzes ************
++//*********** Acrescentado pelos Orientadores de Inform&aacute;tica de Mogi das Cruzes ************
+ 	document.onkeyup = AvancaRetorna; //captura a tecla digitada
+ 	document.onmousedown=clicar; //captura o clique do mouse
+-	document.oncontextmenu = mensagem;//bloqueia o bot&#227;o direito no Firefox
++	document.oncontextmenu = mensagem;//bloqueia o bot&atilde;o direito no Firefox
+ //**** Fim ******
+ 
+ 	RemoveBottomNavBarForIE();
+@@ -981,10 +981,10 @@
+ 
+ 
+ 
+-//Fun&#231;&#227;o que permite o avan&#231;o e retorno de p&#225;ginas da atividade, sem que a mesma seja completada
+-//Adicionada pelos Orientadores de Inform&#225;tica da PMMC
++//Fun&ccedil;&atilde;o que permite o avan&ccedil;o e retorno de p&aacute;ginas da atividade, sem que a mesma seja completada
++//Adicionada pelos Orientadores de Inform&aacute;tica da PMMC
+ function AvancaRetorna(e) {
+-	if (!e) e = window.event; //necess&#225;rio para validar a tecla no IE
++	if (!e) e = window.event; //necess&aacute;rio para validar a tecla no IE
+ 	letra = String.fromCharCode(e.keyCode);
+ 	btn_alt = e['altKey'];
+ 	btn_ctrl = e['ctrlKey'];
+@@ -1000,7 +1000,7 @@
+ 	}
+ }
+ 
+-function clicar() { //fun&#231;&#227;o respons&#225;vel pelo tratamento do bot&#227;o direito do mouse no IE
++function clicar() { //fun&ccedil;&atilde;o respons&aacute;vel pelo tratamento do bot&atilde;o direito do mouse no IE
+     if (event.button==2) {
+      		mensagem;
+     }

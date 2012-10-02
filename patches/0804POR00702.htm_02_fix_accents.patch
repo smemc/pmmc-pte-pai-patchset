@@ -1,5 +1,5 @@
---- atividades/0804POR007/0804POR00702.htm	2012-06-22 15:03:50.707898050 -0300
-+++ atividades/0804POR007/0804POR00702.htm.new	2012-06-22 15:03:50.707898050 -0300
+--- atividades/0804POR007/0804POR00702.htm	2012-10-02 10:09:01.271855300 -0300
++++ atividades/0804POR007/0804POR00702.htm.new	2012-10-02 10:09:01.271855300 -0300
 @@ -5,7 +5,7 @@
  
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
@@ -39,8 +39,8 @@
  <tbody id="CluesAcross">
  <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel"><b>Horizontal:</b></h3></td></tr>
  
--<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">A cozinheira que faz uns bolinhos deleciosos</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">A dona da boneca falante</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">A vov&#x00F3; que conta hist&#x00F3;rias</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">O menino que adora aventuras</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">O sabugo de milho</td></tr>
-+<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">A cozinheira que faz uns bolinhos deleciosos</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">A dona da boneca falante</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">A vov&oacute; que conta hist&oacute;rias</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">O menino que adora aventuras</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">O sabugo de milho</td></tr>
+-<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">A cozinheira que faz uns bolinhos deliciosos</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">A dona da boneca falante</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">A vov&#x00F3; que conta hist&#x00F3;rias</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">O menino que adora aventuras</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">O sabugo de milho</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">A cozinheira que faz uns bolinhos deliciosos</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">A dona da boneca falante</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">A vov&oacute; que conta hist&oacute;rias</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">O menino que adora aventuras</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">O sabugo de milho</td></tr>
  
  </tbody>
  </table>

@@ -1,5 +1,5 @@
---- atividades/1004POR013/1004POR01301.htm	2012-06-22 15:05:53.443899894 -0300
-+++ atividades/1004POR013/1004POR01301.htm.new	2012-06-22 15:05:53.443899894 -0300
+--- atividades/1004POR013/1004POR01301.htm	2012-10-02 10:11:04.111857146 -0300
++++ atividades/1004POR013/1004POR01301.htm.new	2012-10-02 10:11:04.115857146 -0300
 @@ -1,10 +1,10 @@
  <?xml version="1.0"?>
         <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "xhtml11.dtd">
@@ -13,7 +13,7 @@
  <meta name="DC:Title" content="Tempos verbais" />
  
  
-@@ -20,7 +20,7 @@
+@@ -19,7 +19,7 @@
  
  <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
  
@@ -22,7 +22,7 @@
  <style type="text/css">
  
  [strStyleSheet-OI]
-@@ -47,12 +47,12 @@
+@@ -46,12 +46,12 @@
  
  <div class="NavButtonBar" id="TopNavBar">
  
@@ -37,7 +37,7 @@
  
  <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1004POR01302.htm'; return false;">=&gt;</button>-->
  
-@@ -63,7 +63,7 @@
+@@ -62,7 +62,7 @@
  
  <!-- EndTopNavButtons -->
  
@@ -46,7 +46,7 @@
  <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" />
  </p>
  
-@@ -76,7 +76,7 @@
+@@ -75,7 +75,7 @@
  </div>
  
  <div id="InstructionsDiv" class="StdDiv">
@@ -55,7 +55,7 @@
  </div>
  
  
-@@ -99,7 +99,7 @@
+@@ -98,7 +98,7 @@
          <table align="center">
            <tbody><tr>
                <td bgcolor="#cfe5b8">a) Douglas <font color="#FF0000"><strong>faz</strong></font> 
@@ -64,7 +64,7 @@
              </tr><tr>
                <td bgcolor="#cfe5b8">
  <div align="left"><span class="GapSpan" id="GapSpan0"> 
-@@ -113,12 +113,12 @@
+@@ -112,12 +112,12 @@
                    <input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="20"></input> 
                    </span></div></td></tr><tr>
                <td bgcolor="#cfe5b8">c) Yuri e Jonathan <font color="#FF0000"><strong>fizeram</strong></font> 
@@ -79,7 +79,7 @@
                  no clube.</td>
              </tr><tr>
                <td bgcolor="#99CCFF"> 
-@@ -131,7 +131,7 @@
+@@ -130,7 +130,7 @@
                <td bgcolor="#cfe5b8"> <div align="left"><span class="GapSpan" id="GapSpan4"> 
                    <input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="19"></input> 
                    </span></div></td></tr><tr>
@@ -88,7 +88,7 @@
                  pipa.</td>
              </tr><tr>
                <td bgcolor="#99CCFF"> 
-@@ -144,8 +144,8 @@
+@@ -143,8 +143,8 @@
                <td bgcolor="#cfe5b8"> <div align="left"><span class="GapSpan" id="GapSpan6"> 
                    <input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="18"></input> 
                    </span></div></td></tr><tr>
@@ -99,7 +99,7 @@
              </tr><tr>
                <td bgcolor="#99CCFF"> 
                  <div align="left"><span class="GapSpan" id="GapSpan7"> 
-@@ -188,12 +188,12 @@
+@@ -187,12 +187,12 @@
  
  <div class="NavButtonBar" id="BottomNavBar">
  
@@ -114,7 +114,7 @@
  
  <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1004POR01302.htm'; return false;">=&gt;</button>-->
  
-@@ -208,7 +208,7 @@
+@@ -207,7 +207,7 @@
  
  <!-- EndSubmissionForm -->
  

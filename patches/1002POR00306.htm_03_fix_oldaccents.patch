@@ -1,5 +1,5 @@
---- atividades/1002POR003/1002POR00306.htm	2012-06-22 15:04:10.655898349 -0300
-+++ atividades/1002POR003/1002POR00306.htm.new	2012-06-22 15:04:10.659898350 -0300
+--- atividades/1002POR003/1002POR00306.htm	2012-10-02 10:09:21.007855597 -0300
++++ atividades/1002POR003/1002POR00306.htm.new	2012-10-02 10:09:21.007855597 -0300
 @@ -586,7 +586,7 @@
  var CorrectResponse = 'Correto! Parab&eacute;ns!.';
  var IncorrectResponse = 'Algumas respostas est&atilde;o incorretas... tente novamente!';

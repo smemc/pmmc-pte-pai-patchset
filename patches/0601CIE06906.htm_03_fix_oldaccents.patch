@@ -1,5 +1,5 @@
---- atividades/0601CIE069/0601CIE06906.htm	2012-06-22 14:57:21.355892200 -0300
-+++ atividades/0601CIE069/0601CIE06906.htm.new	2012-06-22 14:57:21.359892200 -0300
+--- atividades/0601CIE069/0601CIE06906.htm	2012-10-02 10:02:27.967849391 -0300
++++ atividades/0601CIE069/0601CIE06906.htm.new	2012-10-02 10:02:27.971849390 -0300
 @@ -5,13 +5,13 @@
  
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
@@ -25,7 +25,7 @@
  var DivWidth = 600; //default value
  var FeedbackWidth = 200; //default
  var ExBGColor = '#e2e2e2';
-@@ -784,11 +784,11 @@
+@@ -784,7 +784,7 @@
  D[0][1] = 1;
  D[0][2] = 0;
  D[1] = new Array();
@@ -34,11 +34,6 @@
  D[1][1] = 2;
  D[1][2] = 0;
  D[2] = new Array();
--D[2][0]='TENHO PENAS E VÔO.';
-+D[2][0]='TENHO PENAS E V&Ocirc;O.';
- D[2][1] = 3;
- D[2][2] = 0;
- D[3] = new Array();
 @@ -907,7 +907,7 @@
  <!-- EndTopNavButtons -->
  

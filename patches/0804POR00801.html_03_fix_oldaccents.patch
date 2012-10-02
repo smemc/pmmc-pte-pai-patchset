@@ -1,0 +1,55 @@
+--- atividades/0804POR008/0804POR00801.html	2012-10-02 10:12:47.243858695 -0300
++++ atividades/0804POR008/0804POR00801.html.new	2012-10-02 10:12:47.243858695 -0300
+@@ -6,7 +6,7 @@
+     <meta name="keywords" content="Ardora"></meta>
+     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-    <title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++    <title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+     <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+   </head>
+@@ -34,29 +34,29 @@
+   </div>
+ 
+   <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions"><!-- Coloque aqui as instruçoes da atividades (se necessario)--></p>
++	<p id="Instructions"><!-- Coloque aqui as instru&ccedil;oes da atividades (se necessario)--></p>
+   </div>
+ 
+   <div id="MainDiv" class="StdDiv">
+ 	<!-- **************************** COLAR AQUI O CONTEUDO DO ARDORA ********************************** -->
+ 
+-   <p class="ExerciseSubtitle">&nbsp;&nbsp;&nbsp;&nbsp;O tatu, que costumava vagar à noite pelos pampas da Argentina, remexendo formigueiros e cupinzeiros, encontrou-se, em plena luz do dia, com uma raposa magra e faminta.</p>
+-	<p class="ExerciseSubtitle">&nbsp;&nbsp;&nbsp;&nbsp;A dona do rabo felpudo, espantada com a boa aparência do cavador de buracos, perguntou-lhe:</p>
+-	<p class="ExerciseSubtitle">&nbsp;&nbsp;&nbsp;&nbsp;&#8211; Puxa, amigo, como você engordou! Onde é que tem conseguido comida?</p>
+-	<p class="ExerciseSubtitle">&nbsp;&nbsp;&nbsp;&nbsp;&#8211; É fácil – respondeu o tatu, sacudindo a couraça. – Venha que eu vou lhe ensinar.</p>
++   <p class="ExerciseSubtitle">&nbsp;&nbsp;&nbsp;&nbsp;O tatu, que costumava vagar &agrave; noite pelos pampas da Argentina, remexendo formigueiros e cupinzeiros, encontrou-se, em plena luz do dia, com uma raposa magra e faminta.</p>
++	<p class="ExerciseSubtitle">&nbsp;&nbsp;&nbsp;&nbsp;A dona do rabo felpudo, espantada com a boa apar&ecirc;ncia do cavador de buracos, perguntou-lhe:</p>
++	<p class="ExerciseSubtitle">&nbsp;&nbsp;&nbsp;&nbsp;&#8211; Puxa, amigo, como voc&ecirc; engordou! Onde &eacute; que tem conseguido comida?</p>
++	<p class="ExerciseSubtitle">&nbsp;&nbsp;&nbsp;&nbsp;&#8211; &Eacute; f&aacute;cil Â– respondeu o tatu, sacudindo a coura&ccedil;a. Â– Venha que eu vou lhe ensinar.</p>
+ 	<p class="ExerciseSubtitle">&nbsp;&nbsp;&nbsp;&nbsp;Logo adiante, o tatu deitou-se na estrada de terra que levava a uma aldeia, fingindo-se de morto, enquanto a raposa se escondia no mato.</p>
+-	<p class="ExerciseSubtitle">&nbsp;&nbsp;&nbsp;&nbsp;Pouco depois, apareceu uma velha camponesa com um cesto cheio de espigas de milho à cabeça. A mulher, ao ver o tatu estirado no chão, encolhido como uma bola de couro, alegrou-se toda:</p>
+-	<p class="ExerciseSubtitle">&nbsp;&nbsp;&nbsp;&nbsp;Vai dar uma sopa saborosa – disse ela, jogando o bichinho dentro do cesto.</p>
+-	<p class="ExerciseSubtitle">&nbsp;&nbsp;&nbsp;&nbsp;O tatu, em pouco tempo, devorou boa parte da carga. De vez em quando, jogava alguns grãos para a esfomeada raposa.</p>
+-	<p class="ExerciseSubtitle">&nbsp;&nbsp;&nbsp;&nbsp;Antes de chegarem à aldeia, o tatu segurou-se no galho de uma árvore e saltou do cesto, com a barriga estufada de tanto comer.</p>
+-	<p class="ExerciseSubtitle">&nbsp;&nbsp;&nbsp;&nbsp;&#8211; Eu não falei que era fácil?  - gabou-se.</p>
+-	<p class="ExerciseSubtitle">&nbsp;&nbsp;&nbsp;&nbsp;No outro dia, a raposa resolveu imitar o tatu. Estendeu-se no meio do caminho, imóvel, com as patas viradas para o alto, e ficou aguardando a passagem da mulher.</p>
+-	<p class="ExerciseSubtitle">&nbsp;&nbsp;&nbsp;&nbsp;Mas a velha, zangada por ter sido enganada pelo tatu, desta vez apareceu com um pedaço de pau na mão:</p>
+-	<p class="ExerciseSubtitle">&nbsp;&nbsp;&nbsp;&nbsp;&#8211; Pensa que eu vou cair no truque de novo? Toma! Toma! Seu malandro! – gritava, distribuindo bordoadas a torto e a direito no lombo da raposa.</p>
++	<p class="ExerciseSubtitle">&nbsp;&nbsp;&nbsp;&nbsp;Pouco depois, apareceu uma velha camponesa com um cesto cheio de espigas de milho &agrave; cabe&ccedil;a. A mulher, ao ver o tatu estirado no ch&atilde;o, encolhido como uma bola de couro, alegrou-se toda:</p>
++	<p class="ExerciseSubtitle">&nbsp;&nbsp;&nbsp;&nbsp;Vai dar uma sopa saborosa Â– disse ela, jogando o bichinho dentro do cesto.</p>
++	<p class="ExerciseSubtitle">&nbsp;&nbsp;&nbsp;&nbsp;O tatu, em pouco tempo, devorou boa parte da carga. De vez em quando, jogava alguns gr&atilde;os para a esfomeada raposa.</p>
++	<p class="ExerciseSubtitle">&nbsp;&nbsp;&nbsp;&nbsp;Antes de chegarem &agrave; aldeia, o tatu segurou-se no galho de uma &aacute;rvore e saltou do cesto, com a barriga estufada de tanto comer.</p>
++	<p class="ExerciseSubtitle">&nbsp;&nbsp;&nbsp;&nbsp;&#8211; Eu n&atilde;o falei que era f&aacute;cil?  - gabou-se.</p>
++	<p class="ExerciseSubtitle">&nbsp;&nbsp;&nbsp;&nbsp;No outro dia, a raposa resolveu imitar o tatu. Estendeu-se no meio do caminho, im&oacute;vel, com as patas viradas para o alto, e ficou aguardando a passagem da mulher.</p>
++	<p class="ExerciseSubtitle">&nbsp;&nbsp;&nbsp;&nbsp;Mas a velha, zangada por ter sido enganada pelo tatu, desta vez apareceu com um peda&ccedil;o de pau na m&atilde;o:</p>
++	<p class="ExerciseSubtitle">&nbsp;&nbsp;&nbsp;&nbsp;&#8211; Pensa que eu vou cair no truque de novo? Toma! Toma! Seu malandro! Â– gritava, distribuindo bordoadas a torto e a direito no lombo da raposa.</p>
+ 	<p class="ExerciseSubtitle">&nbsp;&nbsp;&nbsp;&nbsp;Depois da surra que levou, a raposa nunca mais quis saber dos conselhos do tatu.</p>
+ 	<br />
+ 	<table align="right">
+-    <tr><td>Lendas e fábulas dos bichos de nossa América. São Paulo: Editora Melhoramentos Ltda. 2003. pp. 09-10</td></tr>
++    <tr><td>Lendas e f&aacute;bulas dos bichos de nossa Am&eacute;rica. S&atilde;o Paulo: Editora Melhoramentos Ltda. 2003. pp. 09-10</td></tr>
+     </table>
+ 	<br />
+ 	<!-- *********************************************************************************************** -->

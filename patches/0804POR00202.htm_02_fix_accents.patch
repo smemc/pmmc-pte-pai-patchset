@@ -1,5 +1,5 @@
---- atividades/0804POR002/0804POR00202.htm	2012-06-22 15:03:42.135897921 -0300
-+++ atividades/0804POR002/0804POR00202.htm.new	2012-06-22 15:03:42.139897921 -0300
+--- atividades/0804POR002/0804POR00202.htm	2012-10-02 10:08:52.647855170 -0300
++++ atividades/0804POR002/0804POR00202.htm.new	2012-10-02 10:08:52.647855170 -0300
 @@ -21,7 +21,7 @@
  
  <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
@@ -13,8 +13,8 @@
  </div>
  
  <div id="InstructionsDiv" class="StdDiv">
--	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Complete as frses com o ant&#x00F4;nimo das palavras entre par&#x00EA;nteses. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
-+	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Complete as frses com o ant&ocirc;nimo das palavras entre par&ecirc;nteses. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Complete as frases com o ant&#x00F4;nimo das palavras entre par&#x00EA;nteses. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Complete as frases com o ant&ocirc;nimo das palavras entre par&ecirc;nteses. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
  </div>
  
  

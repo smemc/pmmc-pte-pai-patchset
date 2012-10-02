@@ -1,0 +1,38 @@
+--- atividades/1004MAT010/1004MAT01003.html	2012-10-02 10:12:50.479858744 -0300
++++ atividades/1004MAT010/1004MAT01003.html.new	2012-10-02 10:12:50.483858744 -0300
+@@ -2,7 +2,7 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+ <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+ <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=iso-8859-1"/>
+ <meta http-equiv="Content-Style-Type" content="text/css"/>
+@@ -297,7 +297,7 @@
+ 	
+ 	function everythingIsCorrect()
+ 	{
+-		alert('Correto. Parabéns!');
++		alert('Correto. Parab&eacute;ns!');
+ 		parent.location.href="1004MAT01004.html";		
+ 	}
+ 	
+@@ -592,7 +592,7 @@
+ <div class="Titles">
+ 	
+ <h2 class="ExerciseTitle"><font face="Arial, Helvetica, sans-serif">SISTEMA DE 
+-  NUMERAÇÃO</font> DECIMAL</h2>
++  NUMERA&Ccedil;&Atilde;O</font> DECIMAL</h2>
+ 	
+   <h3 class="ExerciseSubtitle"><font face="Arial, Helvetica, sans-serif">Utilizando 
+     o mouse, arraste os numerais nas colunas corretas:</font></h3>
+@@ -648,7 +648,7 @@
+ 	</div>	
+ 	<div id="dhtmlgoodies_mainContainer">
+ 		<!-- ONE <UL> for each "room" -->
+-		<div><p>Na ordem das centenas está o algarismo 5</p><ul id="box1"></ul> </div><div><p>O algarismo 7 vale 70</p><ul id="box2"></ul> </div><div><p>Possui 9 unidades de milhar</p><ul id="box3"></ul> </div>
++		<div><p>Na ordem das centenas est&aacute; o algarismo 5</p><ul id="box1"></ul> </div><div><p>O algarismo 7 vale 70</p><ul id="box2"></ul> </div><div><p>Possui 9 unidades de milhar</p><ul id="box3"></ul> </div>
+ 		
+ 	</div>
+ </div>

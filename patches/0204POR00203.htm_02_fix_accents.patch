@@ -1,5 +1,5 @@
---- atividades/0204POR002/0204POR00203.htm	2012-06-22 14:56:28.215891401 -0300
-+++ atividades/0204POR002/0204POR00203.htm.new	2012-06-22 14:56:28.219891401 -0300
+--- atividades/0204POR002/0204POR00203.htm	2012-10-02 10:01:33.071848565 -0300
++++ atividades/0204POR002/0204POR00203.htm.new	2012-10-02 10:01:33.071848565 -0300
 @@ -8,7 +8,7 @@
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
  <meta name="DC:Creator" content="Marlon Militani" />
@@ -85,7 +85,7 @@
 +                Quando&nbsp;v&ecirc;&nbsp;qualquer&nbsp;pessoa&nbsp;carregada&nbsp;j&aacute;&nbsp;corre&nbsp;<span class="GapSpan" id="GapSpan4"> 
                  <input type="text" class="GapBox" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="5" maxlength="5">
                  </input> 
-                 </span>&nbsp;para&nbsp;dividir&nbsp;o&nbsp;peso.&nbsp;Ele&nbsp;<span class="GapSpan" id="GapSpan5"> 
+                 </span>&nbsp;para&nbsp;dividir&nbsp;o&nbsp;peso.<br />Ele&nbsp;<span class="GapSpan" id="GapSpan5"> 
                  <input type="text" class="GapBox" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" size="5" maxlength="5">
                  </input> 
 -                </span>&nbsp;dentro&nbsp;de&nbsp;si&nbsp;um&nbsp;grande&nbsp;cora&#x00E7;&#x00E3;o.</strong></div></td>

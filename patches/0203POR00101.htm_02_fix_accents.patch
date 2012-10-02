@@ -1,5 +1,5 @@
---- atividades/0203POR001/0203POR00101.htm	2012-06-22 14:55:22.795890418 -0300
-+++ atividades/0203POR001/0203POR00101.htm.new	2012-06-22 14:55:22.799890418 -0300
+--- atividades/0203POR001/0203POR00101.htm	2012-10-02 10:00:27.107847575 -0300
++++ atividades/0203POR001/0203POR00101.htm.new	2012-10-02 10:00:27.107847575 -0300
 @@ -24,7 +24,7 @@
  
  <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
@@ -27,8 +27,8 @@
  <tbody id="CluesAcross">
  <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontal</h3></td></tr>
  
--<tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">O mesmo que tranq&#x00FC;ilo.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Que n&#x00E3;o &#x00E9; fino.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Que se assustou.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Fazer massagem.</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Relativo &#x00E0; pessoa.</td></tr>
-+<tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">O mesmo que tranq&uuml;ilo.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Que n&atilde;o &eacute; fino.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Que se assustou.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Fazer massagem.</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Relativo &agrave; pessoa.</td></tr>
+-<tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">O mesmo que tranquilo.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Que n&#x00E3;o &#x00E9; fino.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Que se assustou.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Fazer massagem.</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Relativo &#x00E0; pessoa.</td></tr>
++<tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">O mesmo que tranquilo.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Que n&atilde;o &eacute; fino.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Que se assustou.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Fazer massagem.</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Relativo &agrave; pessoa.</td></tr>
  
  </tbody>
  </table>

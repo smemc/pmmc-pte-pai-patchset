@@ -1,6 +1,6 @@
---- atividades/0204POR008/0204POR00804.htm	2012-06-22 14:56:58.403891855 -0300
-+++ atividades/0204POR008/0204POR00804.htm.new	2012-06-22 14:56:58.407891855 -0300
-@@ -307,7 +307,7 @@
+--- atividades/0204POR008/0204POR00804.htm	2012-10-02 10:02:03.311849020 -0300
++++ atividades/0204POR008/0204POR00804.htm.new	2012-10-02 10:02:03.311849020 -0300
+@@ -309,7 +309,7 @@
  	
  	function everythingIsCorrect()
  	{
@@ -9,7 +9,7 @@
  		parent.location.href="0204POR00805.htm";		
  	}
  	
-@@ -616,19 +616,19 @@
+@@ -618,19 +618,19 @@
  		<ul id="allItems">
  			<li id="node1" groupId="box1">serrote</li>
  
@@ -32,7 +32,7 @@
  
  <li id="node9" groupId="box2">assopro</li>
  
-@@ -636,7 +636,7 @@
+@@ -638,7 +638,7 @@
  
  <li id="node11" groupId="box1">soma</li>
  

@@ -1,5 +1,5 @@
---- atividades/1304POR001/1304POR00101.htm	2012-06-22 15:07:10.571901053 -0300
-+++ atividades/1304POR001/1304POR00101.htm.new	2012-06-22 15:07:10.571901053 -0300
+--- atividades/1304POR001/1304POR00101.htm	2012-10-02 10:12:21.939858316 -0300
++++ atividades/1304POR001/1304POR00101.htm.new	2012-10-02 10:12:21.939858316 -0300
 @@ -6,7 +6,7 @@
  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
  <meta name="DC:Creator" content="Luiz Beraldo" />
@@ -46,7 +46,7 @@
  
 @@ -987,17 +987,17 @@
          <input type="text" class="GapBox" id="Gap3" style="width: 1em;" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="2" maxlength="2" />
-         </span> contra-baixo<span class="GapSpan" id="GapSpan4">
+         </span> contrabaixo<span class="GapSpan" id="GapSpan4">
          <input type="text" class="GapBox" id="Gap4" style="width: 2em;" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="2" maxlength="2" />
 -        </span> O Tamandu&#x00E1;-Bandeira soprava o saxofone<span class="GapSpan" id="GapSpan5">
 +        </span> O Tamandu&aacute;-Bandeira soprava o saxofone<span class="GapSpan" id="GapSpan5">

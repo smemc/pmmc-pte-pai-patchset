@@ -1,5 +1,5 @@
---- atividades/0804POR002/0804POR00205.htm	2012-06-22 15:03:43.139897937 -0300
-+++ atividades/0804POR002/0804POR00205.htm.new	2012-06-22 15:03:43.139897937 -0300
+--- atividades/0804POR002/0804POR00205.htm	2012-10-02 10:08:53.651855186 -0300
++++ atividades/0804POR002/0804POR00205.htm.new	2012-10-02 10:08:53.655855186 -0300
 @@ -21,7 +21,7 @@
  
  <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
@@ -13,8 +13,8 @@
  </div>
  
  <div id="InstructionsDiv" class="StdDiv">
--	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Complete as frases com o ant&#x00F4;nimo das palavras entre destacadas. Lembre-se  que as frases s&atilde;o iniciadas por letras mai&uacute;sculas. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
-+	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Complete as frases com o ant&ocirc;nimo das palavras entre destacadas. Lembre-se  que as frases s&atilde;o iniciadas por letras mai&uacute;sculas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Complete as frases com o ant&#x00F4;nimo das palavras  destacadas. Lembre-se  que as frases s&atilde;o iniciadas por letras mai&uacute;sculas. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Complete as frases com o ant&ocirc;nimo das palavras  destacadas. Lembre-se  que as frases s&atilde;o iniciadas por letras mai&uacute;sculas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
  </div>
  
  

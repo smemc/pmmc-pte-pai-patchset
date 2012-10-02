@@ -1,0 +1,29 @@
+--- atividades/0803POR002/0803POR00203.html	2012-10-02 10:12:46.603858686 -0300
++++ atividades/0803POR002/0803POR00203.html.new	2012-10-02 10:12:46.603858686 -0300
+@@ -10,7 +10,7 @@
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+ <!-- Made with executable version 6.3 Release 0 Build 3 -->
+ 
+@@ -298,7 +298,7 @@
+ 	
+ 	function everythingIsCorrect()
+ 	{
+-		alert('Parabéns. Bom trabalho! Agora vamos para o Próximo Exercício!');	
++		alert('Parab&eacute;ns. Bom trabalho! Agora vamos para o Pr&oacute;ximo Exerc&iacute;cio!');	
+ 		parent.location.href="0803POR00204.htm";
+ 	}
+ 	
+@@ -623,7 +623,7 @@
+ 		  <li id="node16" groupId="box1">P&aacute;tio</li>
+ 		  <li id="node17" groupId="box2">L&acirc;mpada</li>
+ 		  <li id="node18" groupId="box1">Livros</li>
+-            <li id="node19" groupId="box2">Árvore</li>
++            <li id="node19" groupId="box2">&Aacute;rvore</li>
+             <li id="node20" groupId="box1">Corredor</li>
+ 		</ul>
+ 	</div>

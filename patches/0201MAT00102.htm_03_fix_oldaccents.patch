@@ -1,5 +1,5 @@
---- atividades/0201MAT001/0201MAT00102.htm	2012-06-22 14:53:25.043888650 -0300
-+++ atividades/0201MAT001/0201MAT00102.htm.new	2012-06-22 14:53:25.047888650 -0300
+--- atividades/0201MAT001/0201MAT00102.htm	2012-10-02 09:58:28.527845793 -0300
++++ atividades/0201MAT001/0201MAT00102.htm.new	2012-10-02 09:58:28.531845793 -0300
 @@ -442,7 +442,7 @@
  var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
  var GiveHint = 'A correct letter has been added.';

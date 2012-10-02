@@ -1,5 +1,5 @@
---- atividades/0204POR006/0204POR00607.htm	2012-06-22 14:56:47.879891697 -0300
-+++ atividades/0204POR006/0204POR00607.htm.new	2012-06-22 14:56:47.879891697 -0300
+--- atividades/0204POR006/0204POR00607.htm	2012-10-02 10:01:52.827848863 -0300
++++ atividades/0204POR006/0204POR00607.htm.new	2012-10-02 10:01:52.827848863 -0300
 @@ -451,7 +451,7 @@
  var GiveHint = 'Foi adicionada a letra seguinte';
  var CaseSensitive = false;

@@ -1,0 +1,29 @@
+--- atividades/0803MAT006/0803MAT00601.html	2012-10-02 10:12:46.099858679 -0300
++++ atividades/0803MAT006/0803MAT00601.html.new	2012-10-02 10:12:46.099858679 -0300
+@@ -6,7 +6,7 @@
+     <meta name="keywords" content="Ardora"></meta>
+     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-    <title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++    <title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+     <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+   </head>
+@@ -34,7 +34,7 @@
+   </div>
+ 
+   <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions"><!-- Coloque aqui as instruçoes da atividades (se necessario)--></p>
++	<p id="Instructions"><!-- Coloque aqui as instru&ccedil;oes da atividades (se necessario)--></p>
+   </div>
+ 
+   <div id="MainDiv" class="StdDiv">
+@@ -61,7 +61,7 @@
+ 	<!-- *********************************************************************************************** -->
+ 	  <div class="NavButtonBar" id="BottomNavBar">
+       <br />
+-      <p>Agora que você já conhece um pouco da história da música "Parabéns a você", clique no botão responder para começar o exercício de Matemática</p>
++      <p>Agora que voc&ecirc; j&aacute; conhece um pouco da hist&oacute;ria da m&uacute;sica "Parab&eacute;ns a voc&ecirc;", clique no bot&atilde;o responder para come&ccedil;ar o exerc&iacute;cio de Matem&aacute;tica</p>
+       <br />
+ 		<button class="FuncButtonUp" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="location='0803MAT00602.htm'; return false;">Responder</button>
+   		</div>

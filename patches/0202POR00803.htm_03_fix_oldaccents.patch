@@ -1,5 +1,5 @@
---- atividades/0202POR008/0202POR00803.htm	2012-06-22 14:54:49.703889921 -0300
-+++ atividades/0202POR008/0202POR00803.htm.new	2012-06-22 14:54:49.703889921 -0300
+--- atividades/0202POR008/0202POR00803.htm	2012-10-02 09:59:53.807847074 -0300
++++ atividades/0202POR008/0202POR00803.htm.new	2012-10-02 09:59:53.807847074 -0300
 @@ -575,7 +575,7 @@
  var CorrectResponse = 'Parab&eacute;ns. Bom trabalho!';
  var IncorrectResponse = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!';

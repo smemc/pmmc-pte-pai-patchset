@@ -1,0 +1,71 @@
+--- atividades/1004POR019/1004POR01901.html	2012-10-02 10:12:51.283858756 -0300
++++ atividades/1004POR019/1004POR01901.html.new	2012-10-02 10:12:51.287858756 -0300
+@@ -2,7 +2,7 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+ <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+ <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=iso-8859-1"/>
+ <meta http-equiv="Content-Style-Type" content="text/css"/>
+@@ -297,7 +297,7 @@
+ 	
+ 	function everythingIsCorrect()
+ 	{
+-		alert('Parabéns. Bom trabalho!');
++		alert('Parab&eacute;ns. Bom trabalho!');
+ 		parent.location.href="../imagens/fim.htm";		
+ 	}
+ 	
+@@ -587,9 +587,9 @@
+ <div class="NavButtonBar" id="TopNavBar"> 
+   <div align="center"><img src="../../templates/2009/imagens/logo.png" />
+  </div>
+-<div class="Titles"><h2 align="center" class="ExerciseTitle">SUBSTANTIVOS PRÓPRIOS E COMUNS</h2>
++<div class="Titles"><h2 align="center" class="ExerciseTitle">SUBSTANTIVOS PR&Oacute;PRIOS E COMUNS</h2>
+     <h3 align="center" class="ExerciseSubtitle">Usando o mouse, arraste os substantivos 
+-      na classificação apropriada.</h3>
++      na classifica&ccedil;&atilde;o apropriada.</h3>
+     <!--    Fin ajout G.Q.           -->
+   </div>
+ <div id="MainDiv" class="StdDiv">
+@@ -600,24 +600,24 @@
+     <div align="center"> 
+       <p align="center">Objetos a classificar</p>
+       <ul id="allItems">
+-        <li id="node1" groupId="box2">ATLÂNTICO</li>
++        <li id="node1" groupId="box2">ATL&Acirc;NTICO</li>
+         <li id="node2" groupId="box2">MARIANA</li>
+         <li id="node3" groupId="box2">PARAGUAI</li>
+         <li id="node4" groupId="box2">RORAIMA</li>
+         <li id="node5" groupId="box1">BERMUDA</li>
+         <li id="node6" groupId="box2">DIAMANTINA</li>
+-        <li id="node7" groupId="box1">ÁGUA</li>
++        <li id="node7" groupId="box1">&Aacute;GUA</li>
+         <li id="node8" groupId="box2">URANO</li>
+         <li id="node9" groupId="box1">ABELHA</li>
+         <li id="node10" groupId="box2">NILO</li>
+         <li id="node11" groupId="box1">ESPADA</li>
+         <li id="node12" groupId="box1">RUA</li>
+         <li id="node13" groupId="box1">CHUVA</li>
+-        <li id="node14" groupId="box1">VERÃO</li>
++        <li id="node14" groupId="box1">VER&Atilde;O</li>
+         <li id="node15" groupId="box1">BOLA</li>
+         <li id="node16" groupId="box1">GLOBO</li>
+-        <li id="node17" groupId="box2">BELÉM</li>
+-        <li id="node18" groupId="box2">MARAJÓ</li>
++        <li id="node17" groupId="box2">BEL&Eacute;M</li>
++        <li id="node18" groupId="box2">MARAJ&Oacute;</li>
+         <li id="node19" groupId="box1">PESSOA</li>
+         <li id="node20" groupId="box2">PEDRO</li>
+         <li id="node21" groupId="box2">BAHIA</li>
+@@ -635,7 +635,7 @@
+       </ul>
+     </div>
+     <div align="center">
+-      <p align="center">Substantivos próprios</p>
++      <p align="center">Substantivos pr&oacute;prios</p>
+       <ul id="box2">
+       </ul>
+     </div>

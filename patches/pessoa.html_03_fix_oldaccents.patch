@@ -1,0 +1,20 @@
+--- atividades/0602HIS093/pessoa.html	2012-10-02 10:12:45.507858669 -0300
++++ atividades/0602HIS093/pessoa.html.new	2012-10-02 10:12:45.507858669 -0300
+@@ -15,7 +15,7 @@
+       return pair[1];
+     }
+   } 
+-  alert('Variável ' + variable + ' não encontrada');
++  alert('Vari&aacute;vel ' + variable + ' n&atilde;o encontrada');
+ }
+ </script>
+ 
+@@ -77,7 +77,7 @@
+ <TR>
+ 		<TD BGCOLOR=#91C8FF>9 - <script> document.write( getQueryVariable("p9") ); </script></TD>
+     	<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+-		<TD BGCOLOR=#91C8FF>Vai ter que comer com as mãos.</TD>
++		<TD BGCOLOR=#91C8FF>Vai ter que comer com as m&atilde;os.</TD>
+ </TR>
+ <TR>
+ 		<TD BGCOLOR=#91C8FF>10 - <script> document.write( getQueryVariable("p10") ); </script></TD>

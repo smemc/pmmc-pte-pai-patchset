@@ -1,5 +1,5 @@
---- atividades/0604GEO034/0604GEO03401.htm	2012-06-22 15:02:36.123896929 -0300
-+++ atividades/0604GEO034/0604GEO03401.htm.new	2012-06-22 15:02:36.123896929 -0300
+--- atividades/0604GEO034/0604GEO03401.htm	2012-10-02 10:07:45.267854158 -0300
++++ atividades/0604GEO034/0604GEO03401.htm.new	2012-10-02 10:07:45.271854158 -0300
 @@ -109,7 +109,7 @@
   this.length = 2;
   var choice,valuation,remark,data,answer;

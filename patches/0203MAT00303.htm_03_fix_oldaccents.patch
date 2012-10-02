@@ -1,5 +1,5 @@
---- atividades/0203MAT003/0203MAT00303.htm	2012-06-22 14:55:14.403890292 -0300
-+++ atividades/0203MAT003/0203MAT00303.htm.new	2012-06-22 14:55:14.403890292 -0300
+--- atividades/0203MAT003/0203MAT00303.htm	2012-10-02 10:00:18.727847448 -0300
++++ atividades/0203MAT003/0203MAT00303.htm.new	2012-10-02 10:00:18.727847448 -0300
 @@ -438,7 +438,7 @@
  var CorrectIndicator = ':-)';
  var IncorrectIndicator = 'X';

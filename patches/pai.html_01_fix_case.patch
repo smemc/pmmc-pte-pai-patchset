@@ -1,5 +1,5 @@
---- pai.html	2012-06-22 14:49:57.487885530 -0300
-+++ pai.html.new	2012-06-22 15:12:20.195905706 -0300
+--- pai.html	2012-10-02 09:58:03.139845411 -0300
++++ pai.html.new	2012-10-02 10:17:44.459863161 -0300
 @@ -14,7 +14,7 @@
  	<link href="templates/2009/estilos/estilos.css" rel="stylesheet" type="text/css" /><!-- Folha de Estilo -->  
  	<script src="scripts/site.js" type="text/javascript"></script>	

@@ -27,13 +27,22 @@ Para utilizar estes recursos, siga o procedimento abaixo:
 6. Aplique os patches, executando o script apropriado (exemplo: `sudo ./pai-apply-patches.sh /usr/share/PTE-PMMC/pai.fixed`).
 7. Substitua o diretório `pai` pelo `pai.fixed` (exemplo: `cd /usr/share/PTE-PMMC && sudo rm -rf pai && sudo mv pai.fixed pai`).
 
+Sumário da última geração de patches para a versão 2.12.2 (02/10/2012)
+----------------------------------------------------------------------
+
+* 2015 arquivos lidos.
+* 149 patches gerados para corrigir a caixa das letras dos nomes de arquivos.
+* 1892 patches gerados para substituir a codificação de acentos UTF-8.
+* 1456 patches gerados para substituir a codificação de acentos ISO-8859-1.
+* **Observação:** o script de geração de patches foi corrigido nesta data para incluir arquivos do tipo 1234ABC56789.html, que eram indevidamente desconsiderados nas gerações anteriores.
+
 Sumário da última geração de patches para a versão 2.12.1 (22/06/2012)
 ----------------------------------------------------------------------
 
 * 1996 arquivos lidos.
 * 147 patches gerados para corrigir a caixa das letras dos nomes de arquivos.
 * 1891 patches gerados para substituir a codificação de acentos UTF-8.
-* 1433 patches generated para substituir a codificação de acentos ISO-8859-1.
+* 1433 patches gerados para substituir a codificação de acentos ISO-8859-1.
 
 Sumário da última geração de patches para a versão 2.11.2 (01/06/2012)
 ----------------------------------------------------------------------
@@ -41,4 +50,4 @@ Sumário da última geração de patches para a versão 2.11.2 (01/06/2012)
 * 1990 arquivos lidos.
 * 151 patches gerados para corrigir a caixa das letras dos nomes de arquivos.
 * 1885 patches gerados para substituir a codificação de acentos UTF-8.
-* 1430 patches generated para substituir a codificação de acentos ISO-8859-1.
+* 1430 patches gerados para substituir a codificação de acentos ISO-8859-1.

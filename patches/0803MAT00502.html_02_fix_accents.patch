@@ -1,0 +1,18 @@
+--- atividades/0803MAT005/0803MAT00502.html	2012-10-02 10:12:45.919858676 -0300
++++ atividades/0803MAT005/0803MAT00502.html.new	2012-10-02 10:12:45.919858676 -0300
+@@ -593,12 +593,12 @@
+ </div>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">O dia, a semana, o m&#x00EA;s e o ano...</h2>
++	<h2 class="ExerciseTitle">O dia, a semana, o m&ecirc;s e o ano...</h2>
+ 
+-	<h3 class="ExerciseSubtitle">Voc&#x00EA; j&#x00E1; sabe que podemos medir o tempo em horas, minutos e segundos.<br />Outras unidades de medida de tempo s&#x00E3;o as semanas, os meses, os anos, as d&#x00E9;cadas, os s&#x00E9;ulos, os mil&#x00EA;nios.</h3>
++	<h3 class="ExerciseSubtitle">Voc&ecirc; j&aacute; sabe que podemos medir o tempo em horas, minutos e segundos.<br />Outras unidades de medida de tempo s&atilde;o as semanas, os meses, os anos, as d&eacute;cadas, os s&eacute;ulos, os mil&ecirc;nios.</h3>
+ </div>
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Arraste os meses para as colunas corretas</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Arraste os meses para as colunas corretas</div>
+ </div>
+ 
+ 

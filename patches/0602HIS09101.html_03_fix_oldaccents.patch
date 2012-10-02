@@ -1,0 +1,123 @@
+--- atividades/0602HIS091/0602HIS09101.html	2012-10-02 10:12:45.007858662 -0300
++++ atividades/0602HIS091/0602HIS09101.html.new	2012-10-02 10:12:45.007858662 -0300
+@@ -3,7 +3,7 @@
+ <HTML>
+ <HEAD>
+ <META NAME="GENERATOR" CONTENT="MAX's HTML Beauty++ 2004">    
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+ <script>
+@@ -57,7 +57,7 @@
+ 
+ <form name="meuform" onSubmit="return EnviaeConfirma(this)" method="post">
+ <HR>
+-<font face="Arial"><b><font color="#0000FF">01 - O que as pessoas fazem e a gente não vê? <br>
++<font face="Arial"><b><font color="#0000FF">01 - O que as pessoas fazem e a gente n&atilde;o v&ecirc;? <br>
+ </font>Resposta: </b> <input name="p1" style="font-weight: 700"><b><br>
+ </b></font>
+ <HR>
+@@ -66,22 +66,22 @@
+ Resposta: </b> <input name="p2" style="font-weight: 700"><b><br>
+ </b></font>
+ <HR>
+-<font face="Arial"><b><font color="#0000FF">03 - Não tem relógio e sabe as horas, tem esporas e não é cavaleiro, cava o chão e não acha dinheiro? 
++<font face="Arial"><b><font color="#0000FF">03 - N&atilde;o tem rel&oacute;gio e sabe as horas, tem esporas e n&atilde;o &eacute; cavaleiro, cava o ch&atilde;o e n&atilde;o acha dinheiro? 
+ </font> <br>
+ Resposta: </b> <input name="p3" style="font-weight: 700"><b><br>
+ </b></font>
+ <HR>
+-<font face="Arial"><b><font color="#0000FF">04 - Qual o animal preferido do conde Drácula?
++<font face="Arial"><b><font color="#0000FF">04 - Qual o animal preferido do conde Dr&aacute;cula?
+ </font> <br>
+ Resposta: </b> <input name="p4" style="font-weight: 700"><b><br>
+ </b></font>
+ <HR>
+-<font face="Arial"><b><font color="#0000FF">05 - Enche uma casa completa, mas não enche uma mão. Amarrado pelas costas, entra e sai sem ter perdão? 
++<font face="Arial"><b><font color="#0000FF">05 - Enche uma casa completa, mas n&atilde;o enche uma m&atilde;o. Amarrado pelas costas, entra e sai sem ter perd&atilde;o? 
+ </font> <br>
+ Resposta: </b> <input name="p5" style="font-weight: 700"><b><br>
+ </b></font>
+ <HR>
+-<font face="Arial"><b><font color="#0000FF">06 - Tem 5 dedos, não tem carne e nem osso? 
++<font face="Arial"><b><font color="#0000FF">06 - Tem 5 dedos, n&atilde;o tem carne e nem osso? 
+ </font> <br>
+ Resposta: </b> <input name="p6" style="font-weight: 700"><b><br>
+ </b></font>
+@@ -91,27 +91,27 @@
+ Resposta: </b> <input name="p7" style="font-weight: 700"><b><br>
+ </b></font>
+ <HR>
+-<font face="Arial"><b><font color="#0000FF">08 - Onde está o burro ao meio-dia? 
++<font face="Arial"><b><font color="#0000FF">08 - Onde est&aacute; o burro ao meio-dia? 
+ </font> <br>
+ Resposta: </b> <input name="p8" style="font-weight: 700"><b><br>
+ </b></font>
+ <HR>
+-<font face="Arial"><b><font color="#0000FF">09 - Qual a cabeça que foi feita pra bater? 
++<font face="Arial"><b><font color="#0000FF">09 - Qual a cabe&ccedil;a que foi feita pra bater? 
+ </font> <br>
+ Resposta: </b> <input name="p9" style="font-weight: 700"><b><br>
+ </b></font>
+ <HR>
+-<font face="Arial"><b><font color="#0000FF">10 - Qual a ferramenta que já se foi?
++<font face="Arial"><b><font color="#0000FF">10 - Qual a ferramenta que j&aacute; se foi?
+ </font> <br>
+ Resposta: </b> <input name="p10" style="font-weight: 700"><b><br>
+ </b></font>
+ <HR>
+ <font face="Arial"><b><font color="#0000FF">
+ 11 - Uma fruta gostosinha<br>
+-seu galho tem várias bolinhas<br>
++seu galho tem v&aacute;rias bolinhas<br>
+ podem ser roxas, vermelhas ou verdinhas<br>
+-com "u" começa o seu nome<br>
+-e depois que está na boca, logo some<br>
++com "u" come&ccedil;a o seu nome<br>
++e depois que est&aacute; na boca, logo some<br>
+ Quem sou eu?<br>
+ </font> <br>
+ Resposta: </b> <input name="p11" style="font-weight: 700"><b><br>
+@@ -129,8 +129,8 @@
+ <HR>
+ <font face="Arial"><b><font color="#0000FF">
+ 13 - Gosto de construir<br>
+-minha casa no alto da árvore<br>
+-lá moro feliz<br>
++minha casa no alto da &aacute;rvore<br>
++l&aacute; moro feliz<br>
+ tenho nome de menino<br>
+ e sobrenome de terra molhada<br>
+ Quem sou eu?<br>
+@@ -140,9 +140,9 @@
+ <HR>
+ <font face="Arial"><b><font color="#0000FF">
+ 14 - Sou uma caixa pequenina<br>
+-e guardo 40 cabeças<br>
+-não são cabeças de meninas<br>
+-são cabeças que quando pegam fogo<br>
++e guardo 40 cabe&ccedil;as<br>
++n&atilde;o s&atilde;o cabe&ccedil;as de meninas<br>
++s&atilde;o cabe&ccedil;as que quando pegam fogo<br>
+ logo, logo viram toco<br>
+ Quem sou eu?<br>
+ </font> <br>
+@@ -152,7 +152,7 @@
+ <font face="Arial"><b><font color="#0000FF">
+ 15 - Sou feito de papel<br>
+ papel fino e colorido<br>
+-e vivo dançando no céu<br>
++e vivo dan&ccedil;ando no c&eacute;u<br>
+ Quem sou eu?<br>
+ </font> <br>
+ Resposta: </b> <input name="p15" style="font-weight: 700"><b><br>
+@@ -160,7 +160,7 @@
+ <HR>
+ <font face="Arial"><b><font color="#0000FF">
+ 16 - Sou um bicho que<br>
+-ando com os pés na cabeça<br>
++ando com os p&eacute;s na cabe&ccedil;a<br>
+ Quem sou eu?<br>
+ </font> <br>
+ Resposta: </b> <input name="p16" style="font-weight: 700"><b><br>

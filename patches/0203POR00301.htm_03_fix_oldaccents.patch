@@ -1,5 +1,5 @@
---- atividades/0203POR003/0203POR00301.htm	2012-06-22 14:55:27.423890487 -0300
-+++ atividades/0203POR003/0203POR00301.htm.new	2012-06-22 14:55:27.423890487 -0300
+--- atividades/0203POR003/0203POR00301.htm	2012-10-02 10:00:31.751847644 -0300
++++ atividades/0203POR003/0203POR00301.htm.new	2012-10-02 10:00:31.755847644 -0300
 @@ -442,7 +442,7 @@
  var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
  var GiveHint = 'A correct letter has been added.';

@@ -1,5 +1,5 @@
---- atividades/0204HIS001/0204HIS00103.htm	2012-06-22 14:55:48.319890802 -0300
-+++ atividades/0204HIS001/0204HIS00103.htm.new	2012-06-22 14:55:48.319890802 -0300
+--- atividades/0204HIS001/0204HIS00103.htm	2012-10-02 10:00:52.951847963 -0300
++++ atividades/0204HIS001/0204HIS00103.htm.new	2012-10-02 10:00:52.951847963 -0300
 @@ -438,7 +438,7 @@
  var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
  var GiveHint = 'A correct letter has been added.';

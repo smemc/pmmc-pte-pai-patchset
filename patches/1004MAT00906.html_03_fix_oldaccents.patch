@@ -1,0 +1,49 @@
+--- atividades/1004MAT009/1004MAT00906.html	2012-10-02 10:12:50.079858738 -0300
++++ atividades/1004MAT009/1004MAT00906.html.new	2012-10-02 10:12:50.083858738 -0300
+@@ -2,7 +2,7 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+ <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+ <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=iso-8859-1"/>
+ <meta http-equiv="Content-Style-Type" content="text/css"/>
+@@ -297,7 +297,7 @@
+ 	
+ 	function everythingIsCorrect()
+ 	{
+-		alert('Correto. Parabéns!');
++		alert('Correto. Parab&eacute;ns!');
+ 		parent.location.href="1004MAT00907.htm";		
+ 	}
+ 	
+@@ -589,8 +589,8 @@
+ </div>
+ <div class="Titles">
+ 	
+-<h2 class="ExerciseTitle"><font face="Arial, Helvetica, sans-serif">Fraçõ</font>es</h2>
+-	<h3 class="ExerciseSubtitle">Utilizando o mouse, arraste as frações nos lugares corretos.</h3>
++<h2 class="ExerciseTitle"><font face="Arial, Helvetica, sans-serif">Fra&ccedil;&otilde;</font>es</h2>
++	<h3 class="ExerciseSubtitle">Utilizando o mouse, arraste as fra&ccedil;&otilde;es nos lugares corretos.</h3>
+ 	</div>
+ 																						<!--    Fin ajout G.Q.           -->
+ <div id="MainDiv" class="StdDiv">
+@@ -600,7 +600,7 @@
+ 	</div>
+ 	<div id="dhtmlgoodies_listOfItems">
+ 		<div>
+-			<p>Frações a serem movidas</p>		
++			<p>Fra&ccedil;&otilde;es a serem movidas</p>		
+ 		<ul id="allItems">
+ 			<li id="node1" groupId="box3"><center><img src="imagens/16-5.png" width="38" height="42"></img></center></li>
+ 
+@@ -623,7 +623,7 @@
+ 	</div>	
+ 	<div id="dhtmlgoodies_mainContainer">
+ 		<!-- ONE <UL> for each "room" -->
+-		<div><p>Frações iguais a 1</p><ul id="box1"></ul> </div><div><p>Frações menores que 1</p><ul id="box2"></ul> </div><div><p>Frações maiores que 1</p><ul id="box3"></ul> </div>
++		<div><p>Fra&ccedil;&otilde;es iguais a 1</p><ul id="box1"></ul> </div><div><p>Fra&ccedil;&otilde;es menores que 1</p><ul id="box2"></ul> </div><div><p>Fra&ccedil;&otilde;es maiores que 1</p><ul id="box3"></ul> </div>
+ 		
+ 	</div>
+ </div>

@@ -1,0 +1,67 @@
+--- atividades/0602HIS093/0602HIS09301.html	2012-10-02 10:12:45.347858667 -0300
++++ atividades/0602HIS093/0602HIS09301.html.new	2012-10-02 10:12:45.347858667 -0300
+@@ -3,9 +3,9 @@
+ <HTML>
+ <!-- Revisado por Taciano Segovia Machado / Data: 26/09/2007 -->
+ <HEAD>
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ <META NAME="GENERATOR" CONTENT="MAX's HTML Beauty++ 2004">    
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+ <script>
+@@ -52,36 +52,36 @@
+ 	<div id="ClozeDiv">
+ <form name="meuform" onSubmit="return EnviaeConfirma(this)" method="post">
+ <HR>
+-<font face="Arial"><b><font color="#0000FF">01 - COM QUEM O SENHOR ALFINETE É CASADO? <br>
++<font face="Arial"><b><font color="#0000FF">01 - COM QUEM O SENHOR ALFINETE &Eacute; CASADO? <br>
+ </font>Resposta: </b> <input name="p1" style="font-weight: 700"><b><br>
+ </b></font>
+ <HR>
+-<font face="Arial"><b><font color="#0000FF">02 - COMO É QUE O HOMEM INVISÍVEL CHAMA SEUS PARENTES? 
++<font face="Arial"><b><font color="#0000FF">02 - COMO &Eacute; QUE O HOMEM INVIS&Iacute;VEL CHAMA SEUS PARENTES? 
+ </font> <br>
+ Resposta: </b> <input name="p2" style="font-weight: 700"><b><br>
+ </b></font>
+ <HR>
+-<font face="Arial"><b><font color="#0000FF">03 - QUAL A PRIMEIRA COISA QUE OS HOMENS FAZEM PELA MANHÃ? 
++<font face="Arial"><b><font color="#0000FF">03 - QUAL A PRIMEIRA COISA QUE OS HOMENS FAZEM PELA MANH&Atilde;? 
+ </font> <br>
+ Resposta: </b> <input name="p3" style="font-weight: 700"><b><br>
+ </b></font>
+ <HR>
+-<font face="Arial"><b><font color="#0000FF">04 - SE 5 MENINAS BRIGAM COM 1 MENINA, QUE HORAS SÃO?
++<font face="Arial"><b><font color="#0000FF">04 - SE 5 MENINAS BRIGAM COM 1 MENINA, QUE HORAS S&Atilde;O?
+ </font> <br>
+ Resposta: </b> <input name="p4" style="font-weight: 700"><b><br>
+ </b></font>
+ <HR>
+-<font face="Arial"><b><font color="#0000FF">05 - DE QUE COR ERA O CAVALO BRANCO DE NAPOLEÃO? 
++<font face="Arial"><b><font color="#0000FF">05 - DE QUE COR ERA O CAVALO BRANCO DE NAPOLE&Atilde;O? 
+ </font> <br>
+ Resposta: </b> <input name="p5" style="font-weight: 700"><b><br>
+ </b></font>
+ <HR>
+-<font face="Arial"><b><font color="#0000FF">06 - QUAL É O ÚNICO AMIGO QUE NÓS NÃO CONHECEMOS? 
++<font face="Arial"><b><font color="#0000FF">06 - QUAL &Eacute; O &Uacute;NICO AMIGO QUE N&Oacute;S N&Atilde;O CONHECEMOS? 
+ </font> <br>
+ Resposta: </b> <input name="p6" style="font-weight: 700"><b><br>
+ </b></font>
+ <HR>
+-<font face="Arial"><b><font color="#0000FF">07 - COM QUEM O SENHOR LÍRIO É CASADO? 
++<font face="Arial"><b><font color="#0000FF">07 - COM QUEM O SENHOR L&Iacute;RIO &Eacute; CASADO? 
+ </font> <br>
+ Resposta: </b> <input name="p7" style="font-weight: 700"><b><br>
+ </b></font>
+@@ -91,7 +91,7 @@
+ Resposta: </b> <input name="p8" style="font-weight: 700"><b><br>
+ </b></font>
+ <HR>
+-<font face="Arial"><b><font color="#0000FF">09 - O QUE ACONTECE SE VOCÊ ENGOLIR O GARFO E A FACA? 
++<font face="Arial"><b><font color="#0000FF">09 - O QUE ACONTECE SE VOC&Ecirc; ENGOLIR O GARFO E A FACA? 
+ </font> <br>
+ Resposta: </b> <input name="p9" style="font-weight: 700"><b><br>
+ </b></font>
