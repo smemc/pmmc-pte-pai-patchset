@@ -1,5 +1,5 @@
---- atividades/0202CIE001/0202CIE00102.htm	2012-10-02 09:59:03.891846324 -0300
-+++ atividades/0202CIE001/0202CIE00102.htm.new	2012-10-02 09:59:03.895846324 -0300
+--- atividades/0202CIE001/0202CIE00102.htm	2012-11-09 15:53:39.230150918 -0200
++++ atividades/0202CIE001/0202CIE00102.htm.new	2012-11-09 15:53:39.234150918 -0200
 @@ -451,7 +451,7 @@
  var GiveHint = 'Foi adicionada a letra seguinte';
  var CaseSensitive = false;

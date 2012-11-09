@@ -1,5 +1,5 @@
---- atividades/0202CIE001/0202CIE00101.htm	2012-10-02 09:59:03.375846316 -0300
-+++ atividades/0202CIE001/0202CIE00101.htm.new	2012-10-02 09:59:03.379846316 -0300
+--- atividades/0202CIE001/0202CIE00101.htm	2012-11-09 15:53:38.722150909 -0200
++++ atividades/0202CIE001/0202CIE00101.htm.new	2012-11-09 15:53:38.722150909 -0200
 @@ -441,7 +441,7 @@
  var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
  var GiveHint = 'A correct letter has been added.';

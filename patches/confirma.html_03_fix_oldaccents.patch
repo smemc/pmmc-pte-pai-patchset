@@ -1,5 +1,5 @@
---- atividades/0602HIS091/confirma.html	2012-10-02 10:12:45.183858665 -0300
-+++ atividades/0602HIS091/confirma.html.new	2012-10-02 10:12:45.183858665 -0300
+--- atividades/0602HIS091/confirma.html	2012-11-09 16:07:23.334163301 -0200
++++ atividades/0602HIS091/confirma.html.new	2012-11-09 16:07:23.334163301 -0200
 @@ -15,7 +15,7 @@
        return pair[1];
      }

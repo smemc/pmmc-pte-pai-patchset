@@ -1,5 +1,5 @@
---- atividades/0602HIS093/pessoa.html	2012-10-02 10:12:45.507858669 -0300
-+++ atividades/0602HIS093/pessoa.html.new	2012-10-02 10:12:45.507858669 -0300
+--- atividades/0602HIS093/pessoa.html	2012-11-09 16:07:23.638163303 -0200
++++ atividades/0602HIS093/pessoa.html.new	2012-11-09 16:07:23.638163303 -0200
 @@ -15,7 +15,7 @@
        return pair[1];
      }

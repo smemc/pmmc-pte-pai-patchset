@@ -1,5 +1,5 @@
---- atividades/0104GEO001/0104GEO00102.htm	2012-10-02 09:57:59.047845350 -0300
-+++ atividades/0104GEO001/0104GEO00102.htm.new	2012-10-02 09:58:18.415845641 -0300
+--- atividades/0104GEO001/0104GEO00102.htm	2012-11-09 15:52:03.222149475 -0200
++++ atividades/0104GEO001/0104GEO00102.htm.new	2012-11-09 15:52:54.998150251 -0200
 @@ -95,15 +95,15 @@
  <form id="QForm" method="post" action="" onsubmit="return false;">
  <table border="0" style="margin: 2em auto 2em auto;"><tbody id="Questions">

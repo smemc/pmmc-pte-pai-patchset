@@ -1,5 +1,5 @@
---- atividades/1003POR001/1003POR00101.htm	2012-10-02 10:09:34.723855803 -0300
-+++ atividades/1003POR001/1003POR00101.htm.new	2012-10-02 10:09:34.723855803 -0300
+--- atividades/1003POR001/1003POR00101.htm	2012-11-09 16:04:14.306160461 -0200
++++ atividades/1003POR001/1003POR00101.htm.new	2012-11-09 16:04:14.310160461 -0200
 @@ -439,7 +439,7 @@
  var Incorrect = 'Algumas est&atilde;o erradas... Tente de novo!'; 
  var GiveHint = 'Acertou a letra!';

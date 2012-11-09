@@ -1,5 +1,5 @@
---- atividades/0704CIE006/0704CIE00601.js	2012-10-02 10:13:23.983859248 -0300
-+++ atividades/0704CIE006/0704CIE00601.js.new	2012-10-02 10:13:23.983859248 -0300
+--- atividades/0704CIE006/0704CIE00601.js	2012-11-09 16:08:01.546163875 -0200
++++ atividades/0704CIE006/0704CIE00601.js.new	2012-11-09 16:08:01.550163875 -0200
 @@ -449,7 +449,7 @@
  var Correct = 'Correto! Bom trabalho!.';
  var Incorrect = 'Algumas das respostas estavam incorretas, e foram eliminadas.'; 

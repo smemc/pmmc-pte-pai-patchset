@@ -1,5 +1,5 @@
---- atividades/0203GEO001/passaflash.htm	2012-10-02 10:00:08.939847302 -0300
-+++ atividades/0203GEO001/passaflash.htm.new	2012-10-02 10:00:08.939847302 -0300
+--- atividades/0203GEO001/passaflash.htm	2012-11-09 15:54:45.066151907 -0200
++++ atividades/0203GEO001/passaflash.htm.new	2012-11-09 15:54:45.066151907 -0200
 @@ -438,7 +438,7 @@
  var CorrectIndicator = ':-)';
  var IncorrectIndicator = 'X';

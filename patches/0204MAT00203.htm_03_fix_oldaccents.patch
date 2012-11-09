@@ -1,5 +1,5 @@
---- atividades/0204MAT002/0204MAT00203.htm	2012-10-02 10:01:00.631848078 -0300
-+++ atividades/0204MAT002/0204MAT00203.htm.new	2012-10-02 10:01:00.631848078 -0300
+--- atividades/0204MAT002/0204MAT00203.htm	2012-11-09 15:55:36.930152687 -0200
++++ atividades/0204MAT002/0204MAT00203.htm.new	2012-11-09 15:55:36.930152687 -0200
 @@ -450,7 +450,7 @@
  var GiveHint = 'Foi adicionada a letra seguinte';
  var CaseSensitive = false;

@@ -1,5 +1,5 @@
---- atividades/0201POR002/0201POR00212.htm	2012-10-02 09:58:44.179846028 -0300
-+++ atividades/0201POR002/0201POR00212.htm.new	2012-10-02 09:58:44.183846028 -0300
+--- atividades/0201POR002/0201POR00212.htm	2012-11-09 15:53:19.806150626 -0200
++++ atividades/0201POR002/0201POR00212.htm.new	2012-11-09 15:53:19.810150627 -0200
 @@ -585,7 +585,7 @@
  var ThisMuchCorrect = 'Esta parte da sua resposta est&aacute; correta:';
  var TheseAnswersToo = 'Estas respostas tamb&eacute;m est&atilde;o corretas:';

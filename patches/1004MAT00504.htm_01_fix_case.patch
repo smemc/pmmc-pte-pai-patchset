@@ -1,5 +1,5 @@
---- atividades/1004MAT005/1004MAT00504.htm	2012-10-02 09:57:49.027845199 -0300
-+++ atividades/1004MAT005/1004MAT00504.htm.new	2012-10-02 10:10:35.323856714 -0300
+--- atividades/1004MAT005/1004MAT00504.htm	2012-11-09 15:51:53.182149325 -0200
++++ atividades/1004MAT005/1004MAT00504.htm.new	2012-11-09 16:05:14.422161364 -0200
 @@ -98,13 +98,13 @@
  <form id="Cloze" method="post" action="" onsubmit="return false;">
  <div class="ClozeBody">

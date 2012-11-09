@@ -1,5 +1,5 @@
---- atividades/0204MAT002/0204MAT00204.htm	2012-10-02 10:01:01.183848087 -0300
-+++ atividades/0204MAT002/0204MAT00204.htm.new	2012-10-02 10:01:01.187848086 -0300
+--- atividades/0204MAT002/0204MAT00204.htm	2012-11-09 15:55:37.534152696 -0200
++++ atividades/0204MAT002/0204MAT00204.htm.new	2012-11-09 15:55:37.538152696 -0200
 @@ -580,7 +580,7 @@
  var CorrectResponse = 'Parab&eacute;ns. Bom trabalho!';
  var IncorrectResponse = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!';

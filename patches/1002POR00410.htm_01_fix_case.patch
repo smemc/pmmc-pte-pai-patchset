@@ -1,5 +1,5 @@
---- atividades/1002POR004/1002POR00410.htm	2012-10-02 09:57:48.191845186 -0300
-+++ atividades/1002POR004/1002POR00410.htm.new	2012-10-02 10:09:27.331855692 -0300
+--- atividades/1002POR004/1002POR00410.htm	2012-11-09 15:51:52.302149310 -0200
++++ atividades/1002POR004/1002POR00410.htm.new	2012-11-09 16:04:06.954160350 -0200
 @@ -94,7 +94,7 @@
  <div id="ClozeDiv">
  <form id="Cloze" method="post" action="" onsubmit="return false;">

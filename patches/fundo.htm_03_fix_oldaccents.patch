@@ -1,5 +1,5 @@
---- atividades/0603GEO089/fundo.htm	2012-10-02 10:07:13.407853680 -0300
-+++ atividades/0603GEO089/fundo.htm.new	2012-10-02 10:07:13.407853680 -0300
+--- atividades/0603GEO089/fundo.htm	2012-11-09 16:01:53.350158341 -0200
++++ atividades/0603GEO089/fundo.htm.new	2012-11-09 16:01:53.350158341 -0200
 @@ -11,7 +11,7 @@
  <script language="JavaScript" type="text/JavaScript">
  function click() {
